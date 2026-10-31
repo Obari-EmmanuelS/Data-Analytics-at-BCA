@@ -1,0 +1,22 @@
+{
+  "orders": 1450,
+  "completed_orders": 1201,
+  "returned_orders": 116,
+  "cancelled_orders": 133,
+  "units_sold": 1688,
+  "revenue_ngn": 35553820.0,
+  "cogs_ngn": 20326800.0,
+  "gross_profit_ngn": 15227020.0,
+  "gross_margin_pct": 42.83,
+  "aov_ngn": 29603.51,
+  "unique_buyers": 411,
+  "repeat_buyers": 271,
+  "repeat_buyer_rate_pct": 65.94,
+  "period": "2025-01-01 to 2026-09-30",
+  "eligible_90d_customers": 388,
+  "repeat_within_90d_customers": 103,
+  "eligible_90d_repeat_rate_pct": 26.55,
+  "revenue_jan_sep_2025_ngn": 13470145.0,
+  "revenue_jan_sep_2026_ngn": 16650950.0,
+  "comparable_yoy_growth_pct": 23.61
+}

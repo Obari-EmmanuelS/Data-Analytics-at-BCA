@@ -1,0 +1,4 @@
+segment,customers,completed_orders,revenue_ngn,gross_profit_ngn,customer_share_pct,revenue_share_pct,aov_ngn
+New,140,140,4056525.0,1724825.0,34.06,11.41,28975.18
+Returning,176,423,12651570.0,5423570.0,42.82,35.58,29909.15
+Loyal,95,638,18845725.0,8078625.0,23.11,53.01,29538.75

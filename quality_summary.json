@@ -1,0 +1,11 @@
+{
+  "raw_records": 1467,
+  "duplicate_order_ids_removed": 17,
+  "clean_records": 1450,
+  "missing_region_marked_not_provided": 19,
+  "missing_channel_marked_not_provided": 14,
+  "region_case_normalized": 16,
+  "channel_case_normalized": 12,
+  "missing_customer_ratings_retained_blank": 611,
+  "data_origin": "Fully synthetic, deterministically generated (seed 268119)."
+}

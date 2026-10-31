@@ -1,0 +1,1451 @@
+order_id,order_date,customer_id,product_id,category,product,region,acquisition_channel,order_status,units,unit_price_ngn,unit_cost_ngn,discount_pct,gift_order,customer_rating,occasion
+LLH-01027,2025-01-01,LLH-C0204,D01,Decor,Woven Wall Basket,Lagos,Instagram,Returned,1,13700,7300,0,Yes,,Birthday
+LLH-00241,2025-01-02,LLH-C0290,L01,Lighting,Pendant Lantern,Lagos,Instagram,Completed,1,28500,15500,0,No,4,Birthday
+LLH-00908,2025-01-02,LLH-C0313,A03,Aromas,Room Spray Duo,Oyo,WhatsApp,Completed,2,11300,5200,0.1,Yes,,Wedding
+LLH-01093,2025-01-02,LLH-C0360,G02,Gift Sets,Housewarming Bundle,Rivers,WhatsApp,Cancelled,1,44500,25100,0.15,Yes,,Wedding
+LLH-00696,2025-01-03,LLH-C0358,A02,Aromas,Essential Oil Diffuser,Osun,Instagram,Completed,1,26600,14800,0.05,Yes,,Anniversary
+LLH-00881,2025-01-03,LLH-C0415,L02,Lighting,Ambient Table Lamp,Lagos,Website,Completed,1,22500,12300,0.05,No,4,Everyday
+LLH-00404,2025-01-04,LLH-C0423,G01,Gift Sets,Celebration Gift Box,Kwara,Not Provided,Returned,2,31500,17900,0.15,Yes,,Everyday
+LLH-01272,2025-01-04,LLH-C0475,A02,Aromas,Essential Oil Diffuser,Osun,WhatsApp,Completed,1,26600,14800,0.1,Yes,5,Anniversary
+LLH-00364,2025-01-05,LLH-C0299,A02,Aromas,Essential Oil Diffuser,Osun,WhatsApp,Completed,2,26600,14800,0.1,No,5,Wedding
+LLH-00778,2025-01-05,LLH-C0346,L02,Lighting,Ambient Table Lamp,Osun,Instagram,Completed,3,22500,12300,0.05,Yes,4,Anniversary
+LLH-00862,2025-01-05,LLH-C0195,B01,Textiles,Cotton Throw Blanket,Osun,WhatsApp,Completed,1,24500,14000,0.05,Yes,5,Birthday
+LLH-00952,2025-01-05,LLH-C0333,G01,Gift Sets,Celebration Gift Box,Osun,WhatsApp,Cancelled,2,31500,17900,0,Yes,,Housewarming
+LLH-01426,2025-01-05,LLH-C0103,T03,Tableware,Dinner Plate Set,Lagos,Website,Completed,2,37900,21200,0,Yes,,Birthday
+LLH-01429,2025-01-06,LLH-C0051,T01,Tableware,Stoneware Mug Pair,Ogun,Instagram,Completed,1,16900,9200,0,Yes,,Anniversary
+LLH-00275,2025-01-07,LLH-C0368,D03,Decor,Handcrafted Wall Frame,Kwara,Website,Completed,3,17500,9600,0.05,No,,Everyday
+LLH-00863,2025-01-09,LLH-C0094,G03,Gift Sets,Thank You Gift Set,Oyo,Website,Completed,3,21400,11700,0.05,Yes,,Everyday
+LLH-00871,2025-01-09,LLH-C0278,D01,Decor,Woven Wall Basket,Osun,Referral,Completed,2,13700,7300,0.1,Yes,4,Holiday
+LLH-01351,2025-01-09,LLH-C0079,D02,Decor,Ceramic Flower Vase,Lagos,Website,Completed,1,15400,8400,0,No,4,Everyday
+LLH-00200,2025-01-10,LLH-C0455,G01,Gift Sets,Celebration Gift Box,Abuja,Website,Completed,1,31500,17900,0.15,Yes,3,Housewarming
+LLH-00063,2025-01-11,LLH-C0100,A01,Aromas,Scented Candle Trio,Enugu,Website,Completed,1,14900,6900,0,Yes,3,Anniversary
+LLH-00074,2025-01-11,LLH-C0389,T03,Tableware,Dinner Plate Set,Rivers,Instagram,Completed,1,37900,21200,0,No,3,Everyday
+LLH-00201,2025-01-11,LLH-C0064,G02,Gift Sets,Housewarming Bundle,Abuja,Instagram,Completed,2,44500,25100,0.1,Yes,3,Everyday
+LLH-00389,2025-01-11,LLH-C0415,T03,Tableware,Dinner Plate Set,Ogun,Website,Completed,1,37900,21200,0.1,No,5,Birthday
+LLH-00083,2025-01-12,LLH-C0404,D02,Decor,Ceramic Flower Vase,Oyo,WhatsApp,Returned,1,15400,8400,0.05,Yes,,Birthday
+LLH-00166,2025-01-12,LLH-C0043,B01,Textiles,Cotton Throw Blanket,Lagos,Referral,Returned,1,24500,14000,0,No,,Everyday
+LLH-00787,2025-01-12,LLH-C0109,T03,Tableware,Dinner Plate Set,Lagos,Website,Completed,1,37900,21200,0,No,3,Everyday
+LLH-00920,2025-01-12,LLH-C0247,B02,Textiles,Premium Cushion Set,Oyo,WhatsApp,Completed,3,19500,10500,0.1,No,5,Birthday
+LLH-00709,2025-01-13,LLH-C0032,L02,Lighting,Ambient Table Lamp,Abuja,WhatsApp,Returned,1,22500,12300,0.1,Yes,,Housewarming
+LLH-00318,2025-01-14,LLH-C0254,G03,Gift Sets,Thank You Gift Set,Abuja,Walk-in,Returned,1,21400,11700,0,Yes,,Everyday
+LLH-00527,2025-01-14,LLH-C0302,A01,Aromas,Scented Candle Trio,Lagos,Website,Completed,1,14900,6900,0.05,Yes,,Holiday
+LLH-00545,2025-01-14,LLH-C0325,B03,Textiles,Linen Table Runner,Abuja,Instagram,Completed,1,12200,6900,0,No,5,Everyday
+LLH-01285,2025-01-14,LLH-C0080,A01,Aromas,Scented Candle Trio,Ogun,Instagram,Cancelled,1,14900,6900,0,No,,Birthday
+LLH-00522,2025-01-15,LLH-C0414,G01,Gift Sets,Celebration Gift Box,Oyo,Instagram,Completed,1,31500,17900,0.1,Yes,4,Everyday
+LLH-00806,2025-01-15,LLH-C0417,T01,Tableware,Stoneware Mug Pair,Lagos,Website,Cancelled,2,16900,9200,0.15,No,,Wedding
+LLH-01379,2025-01-15,LLH-C0498,D02,Decor,Ceramic Flower Vase,Oyo,WhatsApp,Completed,2,15400,8400,0,No,3,Everyday
+LLH-00124,2025-01-16,LLH-C0387,D03,Decor,Handcrafted Wall Frame,Abuja,Referral,Completed,1,17500,9600,0.1,No,4,Everyday
+LLH-00340,2025-01-17,LLH-C0442,L02,Lighting,Ambient Table Lamp,Ogun,Instagram,Completed,1,22500,12300,0.1,No,5,Everyday
+LLH-00424,2025-01-18,LLH-C0051,L02,Lighting,Ambient Table Lamp,Abuja,WhatsApp,Completed,1,22500,12300,0.05,No,4,Birthday
+LLH-00517,2025-01-18,LLH-C0028,T03,Tableware,Dinner Plate Set,Lagos,Instagram,Completed,1,37900,21200,0,No,,Everyday
+LLH-00606,2025-01-18,LLH-C0131,T02,Tableware,Serving Tray Set,Kwara,Not Provided,Completed,1,24900,13300,0,Yes,2,Birthday
+LLH-00361,2025-01-19,LLH-C0431,B01,Textiles,Cotton Throw Blanket,Ogun,Website,Returned,2,24500,14000,0,No,,Everyday
+LLH-00168,2025-01-20,LLH-C0316,B02,Textiles,Premium Cushion Set,Lagos,Walk-in,Completed,1,19500,10500,0,No,4,Birthday
+LLH-00294,2025-01-20,LLH-C0428,B03,Textiles,Linen Table Runner,Kwara,Website,Completed,1,12200,6900,0,No,4,Birthday
+LLH-00443,2025-01-20,LLH-C0123,L03,Lighting,Minimalist Desk Light,Abuja,Walk-in,Completed,2,18800,10200,0,No,4,Birthday
+LLH-00732,2025-01-20,LLH-C0316,L02,Lighting,Ambient Table Lamp,Abuja,WhatsApp,Completed,1,22500,12300,0,No,4,Everyday
+LLH-00147,2025-01-21,LLH-C0409,A03,Aromas,Room Spray Duo,Abuja,Walk-in,Completed,1,11300,5200,0,No,,Anniversary
+LLH-00831,2025-01-22,LLH-C0262,D03,Decor,Handcrafted Wall Frame,Lagos,WhatsApp,Cancelled,1,17500,9600,0,No,,Everyday
+LLH-00030,2025-01-23,LLH-C0035,L02,Lighting,Ambient Table Lamp,Oyo,Walk-in,Completed,2,22500,12300,0,No,,Everyday
+LLH-00564,2025-01-23,LLH-C0467,A01,Aromas,Scented Candle Trio,Lagos,WhatsApp,Completed,1,14900,6900,0.1,No,4,Birthday
+LLH-00750,2025-01-23,LLH-C0420,A02,Aromas,Essential Oil Diffuser,Oyo,Website,Completed,1,26600,14800,0,No,3,Everyday
+LLH-01091,2025-01-23,LLH-C0196,B01,Textiles,Cotton Throw Blanket,Lagos,Instagram,Completed,1,24500,14000,0.05,No,3,Everyday
+LLH-01424,2025-01-23,LLH-C0421,G01,Gift Sets,Celebration Gift Box,Rivers,Walk-in,Cancelled,2,31500,17900,0.1,Yes,,Everyday
+LLH-00062,2025-01-24,LLH-C0149,T02,Tableware,Serving Tray Set,Oyo,Instagram,Completed,1,24900,13300,0,No,5,Birthday
+LLH-00282,2025-01-24,LLH-C0496,B01,Textiles,Cotton Throw Blanket,Lagos,Walk-in,Completed,1,24500,14000,0.05,No,3,Everyday
+LLH-00748,2025-01-24,LLH-C0328,L03,Lighting,Minimalist Desk Light,Lagos,Referral,Completed,1,18800,10200,0,No,4,Everyday
+LLH-01151,2025-01-24,LLH-C0337,A02,Aromas,Essential Oil Diffuser,Lagos,WhatsApp,Completed,1,26600,14800,0.1,No,4,Everyday
+LLH-00764,2025-01-26,LLH-C0432,T03,Tableware,Dinner Plate Set,Osun,Referral,Completed,1,37900,21200,0.15,No,3,Everyday
+LLH-00238,2025-01-28,LLH-C0131,A03,Aromas,Room Spray Duo,Abuja,Instagram,Completed,1,11300,5200,0.1,No,,Everyday
+LLH-01036,2025-01-28,LLH-C0491,D03,Decor,Handcrafted Wall Frame,Lagos,Instagram,Cancelled,1,17500,9600,0,No,,Housewarming
+LLH-01244,2025-01-28,LLH-C0177,T02,Tableware,Serving Tray Set,Rivers,WhatsApp,Completed,1,24900,13300,0,No,5,Everyday
+LLH-00469,2025-01-29,LLH-C0008,D02,Decor,Ceramic Flower Vase,Lagos,WhatsApp,Completed,1,15400,8400,0.1,Yes,5,Birthday
+LLH-00054,2025-01-31,LLH-C0131,L03,Lighting,Minimalist Desk Light,Lagos,WhatsApp,Completed,1,18800,10200,0.1,No,5,Everyday
+LLH-00584,2025-01-31,LLH-C0307,L02,Lighting,Ambient Table Lamp,Not Provided,Marketplace,Completed,1,22500,12300,0,No,,Birthday
+LLH-00886,2025-01-31,LLH-C0077,D01,Decor,Woven Wall Basket,Abuja,Instagram,Completed,1,13700,7300,0,No,5,Holiday
+LLH-01112,2025-02-01,LLH-C0357,A01,Aromas,Scented Candle Trio,Enugu,Walk-in,Completed,2,14900,6900,0,No,4,Anniversary
+LLH-01211,2025-02-01,LLH-C0086,T03,Tableware,Dinner Plate Set,Lagos,WhatsApp,Completed,4,37900,21200,0,No,5,Housewarming
+LLH-00305,2025-02-02,LLH-C0080,D03,Decor,Handcrafted Wall Frame,Oyo,Referral,Completed,2,17500,9600,0,No,,Everyday
+LLH-01011,2025-02-03,LLH-C0028,A01,Aromas,Scented Candle Trio,Kwara,Instagram,Completed,1,14900,6900,0.05,No,4,Everyday
+LLH-00415,2025-02-04,LLH-C0425,B03,Textiles,Linen Table Runner,Oyo,Website,Completed,1,12200,6900,0,No,,Everyday
+LLH-00865,2025-02-04,LLH-C0131,L03,Lighting,Minimalist Desk Light,Lagos,WhatsApp,Completed,1,18800,10200,0.1,No,,Holiday
+LLH-01238,2025-02-04,LLH-C0347,L01,Lighting,Pendant Lantern,Lagos,WhatsApp,Completed,1,28500,15500,0,No,,Everyday
+LLH-01378,2025-02-04,LLH-C0196,D03,Decor,Handcrafted Wall Frame,Abuja,Instagram,Completed,1,17500,9600,0,No,4,Everyday
+LLH-00781,2025-02-05,LLH-C0483,T01,Tableware,Stoneware Mug Pair,Oyo,Instagram,Returned,2,16900,9200,0,No,,Housewarming
+LLH-00175,2025-02-06,LLH-C0072,A03,Aromas,Room Spray Duo,Abuja,Website,Completed,1,11300,5200,0.15,No,4,Birthday
+LLH-00209,2025-02-07,LLH-C0103,G03,Gift Sets,Thank You Gift Set,Enugu,WhatsApp,Completed,1,21400,11700,0,Yes,4,Everyday
+LLH-00253,2025-02-07,LLH-C0251,B02,Textiles,Premium Cushion Set,Osun,Referral,Completed,2,19500,10500,0.05,No,5,Housewarming
+LLH-00290,2025-02-07,LLH-C0247,T01,Tableware,Stoneware Mug Pair,Lagos,Referral,Returned,1,16900,9200,0,Yes,,Housewarming
+LLH-00392,2025-02-07,LLH-C0118,B02,Textiles,Premium Cushion Set,Lagos,Walk-in,Completed,1,19500,10500,0,Yes,4,Anniversary
+LLH-01234,2025-02-07,LLH-C0269,L02,Lighting,Ambient Table Lamp,Ogun,Referral,Completed,1,22500,12300,0,No,5,Everyday
+LLH-00187,2025-02-08,LLH-C0244,G02,Gift Sets,Housewarming Bundle,Kwara,Website,Completed,3,44500,25100,0,Yes,2,Everyday
+LLH-00766,2025-02-08,LLH-C0330,L03,Lighting,Minimalist Desk Light,Lagos,Website,Completed,1,18800,10200,0,No,,Everyday
+LLH-00928,2025-02-08,LLH-C0247,L02,Lighting,Ambient Table Lamp,Osun,Website,Completed,2,22500,12300,0.15,No,4,Everyday
+LLH-01012,2025-02-08,LLH-C0307,D01,Decor,Woven Wall Basket,Oyo,Instagram,Completed,2,13700,7300,0.1,No,,Everyday
+LLH-00577,2025-02-09,LLH-C0265,L01,Lighting,Pendant Lantern,Ogun,Website,Completed,1,28500,15500,0,No,4,Everyday
+LLH-00546,2025-02-10,LLH-C0293,A01,Aromas,Scented Candle Trio,Rivers,Marketplace,Completed,3,14900,6900,0.05,No,4,Birthday
+LLH-00789,2025-02-10,LLH-C0412,D03,Decor,Handcrafted Wall Frame,Rivers,Instagram,Completed,1,17500,9600,0,Yes,5,Anniversary
+LLH-01281,2025-02-10,LLH-C0228,G01,Gift Sets,Celebration Gift Box,Oyo,Instagram,Completed,1,31500,17900,0,Yes,4,Birthday
+LLH-00051,2025-02-11,LLH-C0254,T03,Tableware,Dinner Plate Set,Rivers,Referral,Completed,2,37900,21200,0,Yes,,Wedding
+LLH-01179,2025-02-11,LLH-C0218,A03,Aromas,Room Spray Duo,Oyo,Instagram,Completed,1,11300,5200,0,No,4,Birthday
+LLH-00679,2025-02-12,LLH-C0229,B01,Textiles,Cotton Throw Blanket,Abuja,Referral,Completed,1,24500,14000,0.1,No,,Everyday
+LLH-00917,2025-02-12,LLH-C0451,L01,Lighting,Pendant Lantern,Oyo,Instagram,Returned,1,28500,15500,0,No,,Everyday
+LLH-00126,2025-02-13,LLH-C0291,B01,Textiles,Cotton Throw Blanket,Lagos,Marketplace,Completed,1,24500,14000,0,No,,Everyday
+LLH-00183,2025-02-14,LLH-C0153,A03,Aromas,Room Spray Duo,Oyo,Instagram,Cancelled,1,11300,5200,0.1,Yes,,Holiday
+LLH-00997,2025-02-14,LLH-C0513,A01,Aromas,Scented Candle Trio,Enugu,WhatsApp,Completed,2,14900,6900,0.15,No,,Everyday
+LLH-01356,2025-02-14,LLH-C0051,G03,Gift Sets,Thank You Gift Set,Osun,Marketplace,Completed,1,21400,11700,0,Yes,3,Everyday
+LLH-00510,2025-02-15,LLH-C0116,L02,Lighting,Ambient Table Lamp,Lagos,Website,Completed,1,22500,12300,0,No,,Housewarming
+LLH-01170,2025-02-15,LLH-C0353,D01,Decor,Woven Wall Basket,Oyo,Walk-in,Completed,1,13700,7300,0,No,5,Birthday
+LLH-00618,2025-02-16,LLH-C0022,G01,Gift Sets,Celebration Gift Box,Lagos,Referral,Completed,1,31500,17900,0.05,Yes,,Everyday
+LLH-00641,2025-02-16,LLH-C0047,T02,Tableware,Serving Tray Set,Lagos,Walk-in,Completed,1,24900,13300,0.1,No,,Everyday
+LLH-00767,2025-02-18,LLH-C0074,A03,Aromas,Room Spray Duo,Lagos,Instagram,Completed,1,11300,5200,0,Yes,4,Housewarming
+LLH-00926,2025-02-18,LLH-C0483,L01,Lighting,Pendant Lantern,Lagos,Marketplace,Completed,2,28500,15500,0.1,No,,Holiday
+LLH-00281,2025-02-19,LLH-C0229,L01,Lighting,Pendant Lantern,Lagos,Walk-in,Returned,2,28500,15500,0.05,Yes,,Wedding
+LLH-00562,2025-02-20,LLH-C0483,T01,Tableware,Stoneware Mug Pair,Ogun,Referral,Completed,1,16900,9200,0,No,4,Everyday
+LLH-00034,2025-02-21,LLH-C0047,B01,Textiles,Cotton Throw Blanket,Ogun,Website,Completed,1,24500,14000,0,No,5,Housewarming
+LLH-00057,2025-02-21,LLH-C0518,A02,Aromas,Essential Oil Diffuser,Lagos,Walk-in,Completed,1,26600,14800,0,No,4,Wedding
+LLH-00232,2025-02-21,LLH-C0123,T03,Tableware,Dinner Plate Set,Lagos,Walk-in,Returned,1,37900,21200,0.05,No,,Everyday
+LLH-00491,2025-02-21,LLH-C0131,B01,Textiles,Cotton Throw Blanket,Oyo,Instagram,Returned,1,24500,14000,0,No,,Anniversary
+LLH-00302,2025-02-23,LLH-C0107,D01,Decor,Woven Wall Basket,Oyo,Marketplace,Completed,3,13700,7300,0,No,3,Everyday
+LLH-00927,2025-02-23,LLH-C0086,A02,Aromas,Essential Oil Diffuser,Abuja,Website,Cancelled,2,26600,14800,0,No,,Anniversary
+LLH-00040,2025-02-24,LLH-C0122,L01,Lighting,Pendant Lantern,Lagos,Walk-in,Completed,1,28500,15500,0,Yes,,Anniversary
+LLH-00385,2025-02-24,LLH-C0029,L02,Lighting,Ambient Table Lamp,Oyo,Instagram,Completed,3,22500,12300,0.1,No,4,Everyday
+LLH-00699,2025-02-24,LLH-C0486,A03,Aromas,Room Spray Duo,Lagos,Walk-in,Completed,2,11300,5200,0,No,4,Everyday
+LLH-00534,2025-02-25,LLH-C0366,A01,Aromas,Scented Candle Trio,Osun,Instagram,Cancelled,2,14900,6900,0.1,No,,Anniversary
+LLH-01298,2025-02-25,LLH-C0493,T03,Tableware,Dinner Plate Set,Oyo,Walk-in,Completed,1,37900,21200,0.1,No,5,Everyday
+LLH-00476,2025-02-26,LLH-C0229,T03,Tableware,Dinner Plate Set,Lagos,Instagram,Completed,1,37900,21200,0.1,No,3,Everyday
+LLH-01069,2025-02-26,LLH-C0003,L03,Lighting,Minimalist Desk Light,Lagos,Instagram,Completed,2,18800,10200,0.1,No,3,Everyday
+LLH-00283,2025-02-28,LLH-C0131,D02,Decor,Ceramic Flower Vase,Rivers,Website,Completed,3,15400,8400,0.1,No,4,Everyday
+LLH-00310,2025-02-28,LLH-C0391,G03,Gift Sets,Thank You Gift Set,Osun,Walk-in,Returned,1,21400,11700,0.1,Yes,,Everyday
+LLH-01000,2025-02-28,LLH-C0483,L02,Lighting,Ambient Table Lamp,Oyo,Referral,Completed,3,22500,12300,0.05,Yes,3,Anniversary
+LLH-01048,2025-02-28,LLH-C0378,B02,Textiles,Premium Cushion Set,Enugu,Website,Completed,1,19500,10500,0,No,,Birthday
+LLH-00176,2025-03-01,LLH-C0011,A02,Aromas,Essential Oil Diffuser,Abuja,WhatsApp,Cancelled,1,26600,14800,0.1,No,,Everyday
+LLH-00229,2025-03-01,LLH-C0073,B02,Textiles,Premium Cushion Set,Lagos,Website,Completed,1,19500,10500,0.1,No,4,Housewarming
+LLH-00248,2025-03-01,LLH-C0322,B02,Textiles,Premium Cushion Set,Ogun,Website,Completed,3,19500,10500,0.1,No,,Birthday
+LLH-00944,2025-03-01,LLH-C0188,A03,Aromas,Room Spray Duo,Oyo,Instagram,Completed,4,11300,5200,0,No,,Everyday
+LLH-01422,2025-03-02,LLH-C0228,B02,Textiles,Premium Cushion Set,Lagos,Instagram,Returned,1,19500,10500,0,Yes,,Anniversary
+LLH-00655,2025-03-03,LLH-C0035,D01,Decor,Woven Wall Basket,Abuja,Instagram,Completed,3,13700,7300,0,No,,Anniversary
+LLH-00121,2025-03-04,LLH-C0483,B01,Textiles,Cotton Throw Blanket,Ogun,Marketplace,Completed,1,24500,14000,0.1,No,4,Housewarming
+LLH-00331,2025-03-05,LLH-C0471,A01,Aromas,Scented Candle Trio,Oyo,Instagram,Completed,1,14900,6900,0,No,4,Holiday
+LLH-00357,2025-03-05,LLH-C0250,G01,Gift Sets,Celebration Gift Box,Lagos,Walk-in,Completed,1,31500,17900,0.1,Yes,5,Housewarming
+LLH-00391,2025-03-05,LLH-C0418,A03,Aromas,Room Spray Duo,Osun,Walk-in,Completed,1,11300,5200,0,No,5,Everyday
+LLH-00458,2025-03-05,LLH-C0141,B01,Textiles,Cotton Throw Blanket,Enugu,Referral,Returned,2,24500,14000,0,Yes,,Wedding
+LLH-00775,2025-03-05,LLH-C0127,G03,Gift Sets,Thank You Gift Set,Osun,Website,Returned,3,21400,11700,0.05,Yes,,Everyday
+LLH-00358,2025-03-06,LLH-C0444,T02,Tableware,Serving Tray Set,Kwara,Website,Completed,3,24900,13300,0,No,5,Anniversary
+LLH-01178,2025-03-06,LLH-C0294,A01,Aromas,Scented Candle Trio,Abuja,WhatsApp,Completed,1,14900,6900,0,No,,Wedding
+LLH-00035,2025-03-07,LLH-C0457,A03,Aromas,Room Spray Duo,Lagos,Marketplace,Completed,1,11300,5200,0,No,,Everyday
+LLH-00269,2025-03-07,LLH-C0284,T02,Tableware,Serving Tray Set,Osun,Instagram,Completed,1,24900,13300,0.1,No,,Everyday
+LLH-01230,2025-03-07,LLH-C0374,D02,Decor,Ceramic Flower Vase,Oyo,Instagram,Completed,1,15400,8400,0.05,No,5,Birthday
+LLH-00307,2025-03-08,LLH-C0125,B02,Textiles,Premium Cushion Set,Lagos,Instagram,Completed,1,19500,10500,0.1,No,5,Everyday
+LLH-00367,2025-03-08,LLH-C0202,G03,Gift Sets,Thank You Gift Set,Abuja,Website,Completed,1,21400,11700,0,Yes,,Everyday
+LLH-00974,2025-03-08,LLH-C0358,L03,Lighting,Minimalist Desk Light,Abuja,Website,Completed,1,18800,10200,0.1,No,4,Everyday
+LLH-01404,2025-03-08,LLH-C0339,D03,Decor,Handcrafted Wall Frame,Kwara,Website,Completed,1,17500,9600,0.05,Yes,5,Birthday
+LLH-00101,2025-03-09,LLH-C0351,D03,Decor,Handcrafted Wall Frame,Osun,Not Provided,Completed,2,17500,9600,0.1,Yes,,Birthday
+LLH-00484,2025-03-09,LLH-C0502,A03,Aromas,Room Spray Duo,Kwara,Website,Completed,1,11300,5200,0.05,No,,Everyday
+LLH-00899,2025-03-09,LLH-C0082,B02,Textiles,Premium Cushion Set,Oyo,WhatsApp,Cancelled,1,19500,10500,0,No,,Everyday
+LLH-00964,2025-03-11,LLH-C0225,B01,Textiles,Cotton Throw Blanket,Lagos,WhatsApp,Completed,1,24500,14000,0.05,Yes,4,Anniversary
+LLH-00993,2025-03-12,LLH-C0057,G01,Gift Sets,Celebration Gift Box,Ogun,Instagram,Cancelled,2,31500,17900,0.05,Yes,,Holiday
+LLH-00642,2025-03-13,LLH-C0219,G03,Gift Sets,Thank You Gift Set,Abuja,WhatsApp,Completed,2,21400,11700,0.15,Yes,4,Everyday
+LLH-00773,2025-03-13,LLH-C0483,L01,Lighting,Pendant Lantern,Lagos,Referral,Completed,1,28500,15500,0.15,No,3,Everyday
+LLH-01273,2025-03-13,LLH-C0361,B02,Textiles,Premium Cushion Set,Enugu,WhatsApp,Completed,3,19500,10500,0.15,No,,Everyday
+LLH-00296,2025-03-14,LLH-C0368,T03,Tableware,Dinner Plate Set,Abuja,WhatsApp,Completed,1,37900,21200,0.1,No,4,Everyday
+LLH-00804,2025-03-14,LLH-C0498,T01,Tableware,Stoneware Mug Pair,Ogun,Website,Completed,1,16900,9200,0,No,4,Everyday
+LLH-00973,2025-03-14,LLH-C0292,T01,Tableware,Stoneware Mug Pair,Lagos,Instagram,Returned,1,16900,9200,0.05,No,,Everyday
+LLH-01263,2025-03-14,LLH-C0400,L01,Lighting,Pendant Lantern,Abuja,Website,Completed,1,28500,15500,0,No,,Everyday
+LLH-00047,2025-03-15,LLH-C0165,G02,Gift Sets,Housewarming Bundle,Oyo,Walk-in,Completed,2,44500,25100,0.05,Yes,,Anniversary
+LLH-00380,2025-03-15,LLH-C0478,B02,Textiles,Premium Cushion Set,Lagos,Instagram,Completed,1,19500,10500,0.05,No,5,Birthday
+LLH-00455,2025-03-15,LLH-C0229,A02,Aromas,Essential Oil Diffuser,Rivers,Referral,Completed,2,26600,14800,0.15,No,,Everyday
+LLH-01173,2025-03-15,LLH-C0046,D03,Decor,Handcrafted Wall Frame,Abuja,Referral,Completed,1,17500,9600,0,Yes,5,Birthday
+LLH-00382,2025-03-16,LLH-C0136,G03,Gift Sets,Thank You Gift Set,Rivers,WhatsApp,Returned,1,21400,11700,0.1,Yes,,Housewarming
+LLH-00759,2025-03-16,LLH-C0074,L03,Lighting,Minimalist Desk Light,Kwara,Instagram,Returned,2,18800,10200,0.05,No,,Everyday
+LLH-00244,2025-03-17,LLH-C0069,G01,Gift Sets,Celebration Gift Box,Lagos,WhatsApp,Completed,2,31500,17900,0.05,Yes,4,Birthday
+LLH-00388,2025-03-17,LLH-C0294,G02,Gift Sets,Housewarming Bundle,Kwara,WhatsApp,Completed,2,44500,25100,0,Yes,4,Everyday
+LLH-00407,2025-03-17,LLH-C0022,B03,Textiles,Linen Table Runner,Rivers,Walk-in,Returned,1,12200,6900,0.15,No,,Everyday
+LLH-01107,2025-03-17,LLH-C0305,D01,Decor,Woven Wall Basket,Lagos,Referral,Completed,2,13700,7300,0,No,4,Housewarming
+LLH-01348,2025-03-17,LLH-C0027,B03,Textiles,Linen Table Runner,Rivers,Walk-in,Cancelled,1,12200,6900,0.1,No,,Wedding
+LLH-01406,2025-03-17,LLH-C0440,T02,Tableware,Serving Tray Set,Rivers,Marketplace,Completed,1,24900,13300,0,No,,Housewarming
+LLH-00613,2025-03-18,LLH-C0347,B02,Textiles,Premium Cushion Set,Oyo,Marketplace,Completed,3,19500,10500,0.05,No,,Birthday
+LLH-01236,2025-03-18,LLH-C0483,G03,Gift Sets,Thank You Gift Set,Kwara,Website,Completed,1,21400,11700,0.05,Yes,5,Birthday
+LLH-00691,2025-03-19,LLH-C0251,B03,Textiles,Linen Table Runner,Oyo,Website,Completed,2,12200,6900,0.1,No,4,Holiday
+LLH-00468,2025-03-20,LLH-C0217,A01,Aromas,Scented Candle Trio,Ogun,Instagram,Returned,1,14900,6900,0,No,,Everyday
+LLH-00032,2025-03-21,LLH-C0074,G02,Gift Sets,Housewarming Bundle,Rivers,WhatsApp,Completed,1,44500,25100,0.05,Yes,5,Birthday
+LLH-00354,2025-03-22,LLH-C0441,D02,Decor,Ceramic Flower Vase,Osun,Referral,Completed,2,15400,8400,0.05,No,4,Wedding
+LLH-00833,2025-03-22,LLH-C0429,A01,Aromas,Scented Candle Trio,Rivers,WhatsApp,Completed,1,14900,6900,0,Yes,3,Birthday
+LLH-00752,2025-03-23,LLH-C0368,T02,Tableware,Serving Tray Set,Abuja,Instagram,Completed,1,24900,13300,0,No,5,Everyday
+LLH-01200,2025-03-25,LLH-C0131,B02,Textiles,Premium Cushion Set,Lagos,Website,Completed,1,19500,10500,0.1,Yes,,Birthday
+LLH-00218,2025-03-27,LLH-C0423,T01,Tableware,Stoneware Mug Pair,Kwara,Referral,Completed,1,16900,9200,0,No,4,Birthday
+LLH-00900,2025-03-27,LLH-C0349,L01,Lighting,Pendant Lantern,Enugu,Walk-in,Returned,1,28500,15500,0,Yes,,Birthday
+LLH-00943,2025-03-28,LLH-C0485,B03,Textiles,Linen Table Runner,Lagos,Marketplace,Returned,1,12200,6900,0.1,No,,Everyday
+LLH-00202,2025-03-29,LLH-C0288,T01,Tableware,Stoneware Mug Pair,Lagos,Not Provided,Completed,3,16900,9200,0.05,No,,Everyday
+LLH-00216,2025-03-30,LLH-C0225,A03,Aromas,Room Spray Duo,Lagos,Instagram,Completed,1,11300,5200,0.1,No,4,Everyday
+LLH-00907,2025-03-31,LLH-C0444,T02,Tableware,Serving Tray Set,Osun,WhatsApp,Completed,2,24900,13300,0.1,No,4,Everyday
+LLH-01021,2025-03-31,LLH-C0292,D01,Decor,Woven Wall Basket,Kwara,Walk-in,Completed,2,13700,7300,0,No,4,Everyday
+LLH-01427,2025-03-31,LLH-C0082,A01,Aromas,Scented Candle Trio,Osun,Referral,Completed,2,14900,6900,0.05,Yes,5,Birthday
+LLH-00043,2025-04-02,LLH-C0118,L02,Lighting,Ambient Table Lamp,Rivers,WhatsApp,Completed,1,22500,12300,0.1,No,,Everyday
+LLH-00667,2025-04-02,LLH-C0132,G02,Gift Sets,Housewarming Bundle,Ogun,Referral,Completed,3,44500,25100,0.1,Yes,,Everyday
+LLH-00406,2025-04-03,LLH-C0355,B03,Textiles,Linen Table Runner,Oyo,Referral,Completed,1,12200,6900,0,No,5,Birthday
+LLH-00647,2025-04-03,LLH-C0157,L02,Lighting,Ambient Table Lamp,Lagos,Marketplace,Completed,1,22500,12300,0.05,Yes,5,Birthday
+LLH-00029,2025-04-04,LLH-C0425,A01,Aromas,Scented Candle Trio,Abuja,Instagram,Completed,2,14900,6900,0,No,3,Everyday
+LLH-01038,2025-04-04,LLH-C0118,L01,Lighting,Pendant Lantern,Lagos,WhatsApp,Completed,1,28500,15500,0,Yes,5,Housewarming
+LLH-00627,2025-04-05,LLH-C0277,B01,Textiles,Cotton Throw Blanket,Ogun,Walk-in,Completed,3,24500,14000,0.05,No,3,Everyday
+LLH-00841,2025-04-05,LLH-C0100,D02,Decor,Ceramic Flower Vase,Oyo,WhatsApp,Completed,2,15400,8400,0,No,3,Everyday
+LLH-01055,2025-04-05,LLH-C0026,A03,Aromas,Room Spray Duo,Lagos,Instagram,Completed,1,11300,5200,0,Yes,5,Housewarming
+LLH-01330,2025-04-05,LLH-C0251,A02,Aromas,Essential Oil Diffuser,Ogun,Instagram,Completed,1,26600,14800,0,No,5,Everyday
+LLH-00586,2025-04-06,LLH-C0094,B03,Textiles,Linen Table Runner,Abuja,Marketplace,Completed,1,12200,6900,0,No,5,Everyday
+LLH-00793,2025-04-06,LLH-C0055,A03,Aromas,Room Spray Duo,Rivers,WhatsApp,Completed,1,11300,5200,0,No,4,Everyday
+LLH-00401,2025-04-07,LLH-C0116,D01,Decor,Woven Wall Basket,Osun,Instagram,Completed,1,13700,7300,0,No,4,Holiday
+LLH-01240,2025-04-08,LLH-C0450,D01,Decor,Woven Wall Basket,Enugu,Website,Completed,1,13700,7300,0,Yes,3,Birthday
+LLH-00170,2025-04-10,LLH-C0297,T01,Tableware,Stoneware Mug Pair,Lagos,Instagram,Completed,1,16900,9200,0,No,4,Everyday
+LLH-01031,2025-04-10,LLH-C0270,T02,Tableware,Serving Tray Set,Abuja,Referral,Returned,1,24900,13300,0,No,,Everyday
+LLH-00403,2025-04-11,LLH-C0291,A02,Aromas,Essential Oil Diffuser,Lagos,Website,Returned,1,26600,14800,0.05,No,,Everyday
+LLH-00861,2025-04-11,LLH-C0008,A02,Aromas,Essential Oil Diffuser,Lagos,WhatsApp,Completed,2,26600,14800,0.15,Yes,,Anniversary
+LLH-01062,2025-04-11,LLH-C0205,B03,Textiles,Linen Table Runner,Lagos,Instagram,Completed,2,12200,6900,0,No,4,Everyday
+LLH-00756,2025-04-12,LLH-C0117,L02,Lighting,Ambient Table Lamp,Lagos,Referral,Completed,2,22500,12300,0.1,Yes,2,Holiday
+LLH-00091,2025-04-13,LLH-C0131,B03,Textiles,Linen Table Runner,Osun,Marketplace,Completed,1,12200,6900,0.05,No,4,Everyday
+LLH-00398,2025-04-13,LLH-C0176,A02,Aromas,Essential Oil Diffuser,Abuja,Website,Completed,1,26600,14800,0.05,No,4,Anniversary
+LLH-00633,2025-04-15,LLH-C0297,L03,Lighting,Minimalist Desk Light,Lagos,Instagram,Completed,1,18800,10200,0.1,No,5,Everyday
+LLH-01224,2025-04-15,LLH-C0127,T02,Tableware,Serving Tray Set,Lagos,WhatsApp,Completed,1,24900,13300,0.05,No,2,Everyday
+LLH-01084,2025-04-17,LLH-C0047,L03,Lighting,Minimalist Desk Light,Osun,Website,Cancelled,1,18800,10200,0,No,,Housewarming
+LLH-01387,2025-04-17,LLH-C0272,T02,Tableware,Serving Tray Set,Not Provided,Referral,Completed,1,24900,13300,0,No,3,Everyday
+LLH-01423,2025-04-17,LLH-C0387,L03,Lighting,Minimalist Desk Light,Kwara,Website,Completed,1,18800,10200,0,No,4,Everyday
+LLH-00807,2025-04-18,LLH-C0358,G03,Gift Sets,Thank You Gift Set,Enugu,Website,Completed,1,21400,11700,0,Yes,5,Everyday
+LLH-01253,2025-04-18,LLH-C0183,L03,Lighting,Minimalist Desk Light,Lagos,Marketplace,Completed,1,18800,10200,0.1,No,4,Everyday
+LLH-00149,2025-04-19,LLH-C0068,G01,Gift Sets,Celebration Gift Box,Lagos,Instagram,Completed,1,31500,17900,0,Yes,,Birthday
+LLH-00838,2025-04-19,LLH-C0196,B03,Textiles,Linen Table Runner,Enugu,Instagram,Returned,1,12200,6900,0,No,,Holiday
+LLH-00983,2025-04-19,LLH-C0051,A02,Aromas,Essential Oil Diffuser,Abuja,Walk-in,Cancelled,1,26600,14800,0.1,No,,Everyday
+LLH-00435,2025-04-20,LLH-C0437,A03,Aromas,Room Spray Duo,Lagos,Walk-in,Completed,1,11300,5200,0.1,No,3,Birthday
+LLH-01220,2025-04-20,LLH-C0269,D01,Decor,Woven Wall Basket,Ogun,Walk-in,Completed,1,13700,7300,0.05,No,5,Everyday
+LLH-01360,2025-04-20,LLH-C0459,B01,Textiles,Cotton Throw Blanket,Lagos,WhatsApp,Completed,1,24500,14000,0.05,No,3,Birthday
+LLH-00012,2025-04-22,LLH-C0093,B03,Textiles,Linen Table Runner,Ogun,Website,Completed,2,12200,6900,0.1,No,4,Birthday
+LLH-00725,2025-04-22,LLH-C0518,A03,Aromas,Room Spray Duo,Rivers,Referral,Completed,1,11300,5200,0.05,No,4,Everyday
+LLH-01301,2025-04-22,LLH-C0438,B03,Textiles,Linen Table Runner,Abuja,Website,Completed,1,12200,6900,0.05,No,,Everyday
+LLH-01130,2025-04-23,LLH-C0178,D01,Decor,Woven Wall Basket,Lagos,Referral,Completed,1,13700,7300,0,No,4,Anniversary
+LLH-00052,2025-04-24,LLH-C0483,A01,Aromas,Scented Candle Trio,Lagos,Instagram,Completed,1,14900,6900,0,No,3,Everyday
+LLH-01415,2025-04-24,LLH-C0454,L01,Lighting,Pendant Lantern,Osun,Walk-in,Completed,3,28500,15500,0.1,No,,Everyday
+LLH-01441,2025-04-24,LLH-C0403,T02,Tableware,Serving Tray Set,Lagos,Website,Completed,1,24900,13300,0,No,,Everyday
+LLH-00336,2025-04-25,LLH-C0335,B01,Textiles,Cotton Throw Blanket,Abuja,Referral,Completed,1,24500,14000,0,No,4,Birthday
+LLH-01184,2025-04-25,LLH-C0043,T01,Tableware,Stoneware Mug Pair,Enugu,Instagram,Completed,1,16900,9200,0.1,No,3,Holiday
+LLH-00529,2025-04-26,LLH-C0483,T02,Tableware,Serving Tray Set,Rivers,Referral,Completed,1,24900,13300,0.05,No,5,Housewarming
+LLH-00605,2025-04-26,LLH-C0307,B01,Textiles,Cotton Throw Blanket,Abuja,WhatsApp,Completed,2,24500,14000,0.05,Yes,4,Birthday
+LLH-01024,2025-04-26,LLH-C0129,B02,Textiles,Premium Cushion Set,Abuja,Website,Completed,2,19500,10500,0,Yes,,Birthday
+LLH-01251,2025-04-26,LLH-C0483,D01,Decor,Woven Wall Basket,Osun,Referral,Completed,2,13700,7300,0,No,2,Anniversary
+LLH-00141,2025-04-27,LLH-C0062,L02,Lighting,Ambient Table Lamp,Rivers,Website,Completed,2,22500,12300,0.1,No,,Anniversary
+LLH-00044,2025-04-28,LLH-C0211,D03,Decor,Handcrafted Wall Frame,Rivers,Walk-in,Completed,1,17500,9600,0,No,4,Everyday
+LLH-00779,2025-04-28,LLH-C0006,L03,Lighting,Minimalist Desk Light,Abuja,Website,Completed,1,18800,10200,0.1,No,,Wedding
+LLH-01171,2025-04-28,LLH-C0064,G01,Gift Sets,Celebration Gift Box,Osun,Website,Completed,1,31500,17900,0,Yes,,Everyday
+LLH-00038,2025-04-29,LLH-C0225,D03,Decor,Handcrafted Wall Frame,Lagos,Website,Returned,2,17500,9600,0,No,,Everyday
+LLH-00579,2025-04-29,LLH-C0005,T02,Tableware,Serving Tray Set,Lagos,Marketplace,Completed,1,24900,13300,0,No,5,Everyday
+LLH-01307,2025-04-29,LLH-C0272,A01,Aromas,Scented Candle Trio,Lagos,Referral,Completed,1,14900,6900,0.1,Yes,3,Anniversary
+LLH-00196,2025-04-30,LLH-C0142,D02,Decor,Ceramic Flower Vase,Lagos,WhatsApp,Completed,1,15400,8400,0.05,No,4,Everyday
+LLH-01295,2025-04-30,LLH-C0216,L02,Lighting,Ambient Table Lamp,Abuja,Website,Completed,2,22500,12300,0.15,No,5,Birthday
+LLH-00850,2025-05-01,LLH-C0047,L02,Lighting,Ambient Table Lamp,Oyo,WhatsApp,Completed,1,22500,12300,0.1,No,4,Everyday
+LLH-00086,2025-05-02,LLH-C0187,L01,Lighting,Pendant Lantern,Lagos,Website,Completed,1,28500,15500,0,Yes,4,Birthday
+LLH-00254,2025-05-02,LLH-C0225,D01,Decor,Woven Wall Basket,Lagos,Referral,Completed,1,13700,7300,0,No,5,Holiday
+LLH-00631,2025-05-02,LLH-C0502,B03,Textiles,Linen Table Runner,Lagos,Website,Completed,1,12200,6900,0.05,No,,Everyday
+LLH-00672,2025-05-02,LLH-C0085,D01,Decor,Woven Wall Basket,Oyo,Walk-in,Completed,1,13700,7300,0.1,Yes,,Holiday
+LLH-01194,2025-05-02,LLH-C0453,G01,Gift Sets,Celebration Gift Box,Ogun,Instagram,Completed,3,31500,17900,0,Yes,,Holiday
+LLH-01340,2025-05-02,LLH-C0495,A02,Aromas,Essential Oil Diffuser,Abuja,Referral,Completed,2,26600,14800,0.05,No,4,Everyday
+LLH-00856,2025-05-05,LLH-C0010,D02,Decor,Ceramic Flower Vase,Oyo,Website,Completed,4,15400,8400,0,No,4,Everyday
+LLH-01096,2025-05-05,LLH-C0047,T03,Tableware,Dinner Plate Set,Oyo,Walk-in,Completed,1,37900,21200,0.05,No,4,Everyday
+LLH-00798,2025-05-06,LLH-C0391,D01,Decor,Woven Wall Basket,Lagos,Referral,Completed,2,13700,7300,0.15,No,3,Everyday
+LLH-00003,2025-05-07,LLH-C0454,A02,Aromas,Essential Oil Diffuser,Lagos,WhatsApp,Completed,1,26600,14800,0,No,,Everyday
+LLH-00249,2025-05-07,LLH-C0242,B03,Textiles,Linen Table Runner,Lagos,Walk-in,Completed,1,12200,6900,0,No,,Everyday
+LLH-00915,2025-05-08,LLH-C0235,A01,Aromas,Scented Candle Trio,Oyo,Instagram,Completed,1,14900,6900,0,No,4,Housewarming
+LLH-00345,2025-05-09,LLH-C0509,G03,Gift Sets,Thank You Gift Set,Abuja,Walk-in,Completed,3,21400,11700,0.05,Yes,4,Everyday
+LLH-00533,2025-05-09,LLH-C0451,D03,Decor,Handcrafted Wall Frame,Oyo,Walk-in,Completed,1,17500,9600,0.1,No,,Everyday
+LLH-00711,2025-05-09,LLH-C0456,A02,Aromas,Essential Oil Diffuser,Osun,WhatsApp,Cancelled,1,26600,14800,0.15,No,,Everyday
+LLH-00771,2025-05-09,LLH-C0059,D03,Decor,Handcrafted Wall Frame,Osun,Referral,Completed,1,17500,9600,0.05,No,3,Holiday
+LLH-01121,2025-05-09,LLH-C0244,B02,Textiles,Premium Cushion Set,Lagos,Instagram,Returned,1,19500,10500,0.15,Yes,,Birthday
+LLH-00004,2025-05-10,LLH-C0174,T03,Tableware,Dinner Plate Set,Abuja,Website,Completed,1,37900,21200,0.1,No,,Housewarming
+LLH-00347,2025-05-10,LLH-C0328,A02,Aromas,Essential Oil Diffuser,Lagos,WhatsApp,Completed,1,26600,14800,0,No,5,Everyday
+LLH-00566,2025-05-10,LLH-C0483,L02,Lighting,Ambient Table Lamp,Enugu,WhatsApp,Completed,1,22500,12300,0,No,5,Birthday
+LLH-01259,2025-05-10,LLH-C0415,L03,Lighting,Minimalist Desk Light,Osun,Instagram,Completed,1,18800,10200,0.15,No,5,Everyday
+LLH-00496,2025-05-11,LLH-C0074,A01,Aromas,Scented Candle Trio,Ogun,Referral,Completed,1,14900,6900,0.05,No,4,Everyday
+LLH-01320,2025-05-11,LLH-C0074,G01,Gift Sets,Celebration Gift Box,Oyo,Instagram,Completed,1,31500,17900,0,Yes,,Anniversary
+LLH-01358,2025-05-11,LLH-C0103,B03,Textiles,Linen Table Runner,Ogun,WhatsApp,Returned,1,12200,6900,0,No,,Birthday
+LLH-00913,2025-05-12,LLH-C0479,T01,Tableware,Stoneware Mug Pair,Kwara,Instagram,Returned,1,16900,9200,0.1,No,,Anniversary
+LLH-01172,2025-05-12,LLH-C0131,D03,Decor,Handcrafted Wall Frame,Enugu,Website,Cancelled,1,17500,9600,0.05,No,,Everyday
+LLH-00110,2025-05-13,LLH-C0376,T02,Tableware,Serving Tray Set,Rivers,Website,Completed,1,24900,13300,0,No,4,Anniversary
+LLH-00239,2025-05-13,LLH-C0219,G01,Gift Sets,Celebration Gift Box,Rivers,WhatsApp,Completed,1,31500,17900,0,Yes,5,Everyday
+LLH-01327,2025-05-13,LLH-C0158,G01,Gift Sets,Celebration Gift Box,Abuja,Website,Completed,1,31500,17900,0,Yes,4,Everyday
+LLH-01245,2025-05-14,LLH-C0149,T03,Tableware,Dinner Plate Set,Osun,Instagram,Cancelled,1,37900,21200,0.1,No,,Birthday
+LLH-01175,2025-05-15,LLH-C0233,G01,Gift Sets,Celebration Gift Box,Lagos,Website,Completed,2,31500,17900,0,Yes,4,Holiday
+LLH-01283,2025-05-15,LLH-C0296,G03,Gift Sets,Thank You Gift Set,Lagos,Website,Completed,1,21400,11700,0.05,Yes,4,Housewarming
+LLH-00876,2025-05-17,LLH-C0290,L03,Lighting,Minimalist Desk Light,Not Provided,Website,Completed,1,18800,10200,0,No,4,Everyday
+LLH-01081,2025-05-17,LLH-C0225,A02,Aromas,Essential Oil Diffuser,Kwara,WhatsApp,Completed,1,26600,14800,0,No,,Everyday
+LLH-00741,2025-05-18,LLH-C0378,B01,Textiles,Cotton Throw Blanket,Ogun,Walk-in,Completed,2,24500,14000,0,No,4,Everyday
+LLH-00245,2025-05-19,LLH-C0208,D03,Decor,Handcrafted Wall Frame,Rivers,Walk-in,Completed,4,17500,9600,0,No,4,Birthday
+LLH-00659,2025-05-19,LLH-C0062,G02,Gift Sets,Housewarming Bundle,Oyo,WhatsApp,Completed,1,44500,25100,0.1,Yes,5,Everyday
+LLH-01017,2025-05-19,LLH-C0462,T03,Tableware,Dinner Plate Set,Lagos,WhatsApp,Completed,1,37900,21200,0,No,5,Everyday
+LLH-00208,2025-05-20,LLH-C0392,G03,Gift Sets,Thank You Gift Set,Rivers,Instagram,Completed,1,21400,11700,0,Yes,5,Everyday
+LLH-00501,2025-05-20,LLH-C0317,G01,Gift Sets,Celebration Gift Box,Kwara,WhatsApp,Completed,1,31500,17900,0,Yes,,Everyday
+LLH-01032,2025-05-20,LLH-C0487,L01,Lighting,Pendant Lantern,Lagos,Instagram,Completed,1,28500,15500,0.1,No,4,Everyday
+LLH-01290,2025-05-20,LLH-C0146,L01,Lighting,Pendant Lantern,Oyo,Referral,Completed,1,28500,15500,0,No,,Anniversary
+LLH-01375,2025-05-21,LLH-C0034,L01,Lighting,Pendant Lantern,Ogun,Referral,Completed,2,28500,15500,0,No,4,Birthday
+LLH-00535,2025-05-22,LLH-C0219,D03,Decor,Handcrafted Wall Frame,Abuja,Walk-in,Completed,1,17500,9600,0.05,Yes,4,Wedding
+LLH-00045,2025-05-23,LLH-C0001,B02,Textiles,Premium Cushion Set,Oyo,Website,Completed,2,19500,10500,0,No,5,Housewarming
+LLH-00384,2025-05-23,LLH-C0094,L02,Lighting,Ambient Table Lamp,Ogun,Marketplace,Completed,1,22500,12300,0.1,No,,Wedding
+LLH-01354,2025-05-23,LLH-C0225,D03,Decor,Handcrafted Wall Frame,Abuja,Website,Completed,3,17500,9600,0.1,No,3,Birthday
+LLH-00173,2025-05-24,LLH-C0037,T03,Tableware,Dinner Plate Set,Lagos,Referral,Completed,2,37900,21200,0.1,Yes,,Housewarming
+LLH-00237,2025-05-24,LLH-C0482,L02,Lighting,Ambient Table Lamp,Oyo,Referral,Completed,2,22500,12300,0,No,5,Birthday
+LLH-01392,2025-05-24,LLH-C0288,D03,Decor,Handcrafted Wall Frame,Osun,Website,Completed,1,17500,9600,0,Yes,,Housewarming
+LLH-00061,2025-05-25,LLH-C0389,T03,Tableware,Dinner Plate Set,Osun,Walk-in,Completed,1,37900,21200,0,No,5,Birthday
+LLH-00268,2025-05-25,LLH-C0225,L03,Lighting,Minimalist Desk Light,Lagos,Website,Completed,2,18800,10200,0.1,No,,Everyday
+LLH-01433,2025-05-25,LLH-C0081,L02,Lighting,Ambient Table Lamp,Lagos,Walk-in,Completed,1,22500,12300,0,Yes,5,Anniversary
+LLH-00965,2025-05-26,LLH-C0483,T03,Tableware,Dinner Plate Set,Lagos,Website,Returned,1,37900,21200,0,Yes,,Housewarming
+LLH-01124,2025-05-27,LLH-C0026,L02,Lighting,Ambient Table Lamp,Osun,Instagram,Cancelled,1,22500,12300,0.1,No,,Everyday
+LLH-01221,2025-05-27,LLH-C0261,D01,Decor,Woven Wall Basket,Oyo,Website,Completed,1,13700,7300,0.05,No,3,Wedding
+LLH-00079,2025-05-28,LLH-C0261,L01,Lighting,Pendant Lantern,Oyo,Website,Returned,1,28500,15500,0.05,No,,Everyday
+LLH-00593,2025-05-28,LLH-C0094,D01,Decor,Woven Wall Basket,Lagos,WhatsApp,Completed,1,13700,7300,0,No,4,Everyday
+LLH-00736,2025-05-28,LLH-C0281,L02,Lighting,Ambient Table Lamp,Rivers,Referral,Cancelled,1,22500,12300,0.05,Yes,,Anniversary
+LLH-00626,2025-05-29,LLH-C0483,D01,Decor,Woven Wall Basket,Lagos,Instagram,Completed,2,13700,7300,0,No,,Everyday
+LLH-00854,2025-05-30,LLH-C0370,G02,Gift Sets,Housewarming Bundle,Lagos,WhatsApp,Returned,1,44500,25100,0,Yes,,Birthday
+LLH-00802,2025-05-31,LLH-C0041,G02,Gift Sets,Housewarming Bundle,Ogun,Marketplace,Completed,1,44500,25100,0,Yes,,Everyday
+LLH-00933,2025-05-31,LLH-C0221,L02,Lighting,Ambient Table Lamp,Abuja,Referral,Completed,1,22500,12300,0.15,No,4,Anniversary
+LLH-00291,2025-06-02,LLH-C0032,L01,Lighting,Pendant Lantern,Lagos,Walk-in,Completed,2,28500,15500,0,No,4,Wedding
+LLH-00390,2025-06-02,LLH-C0373,G01,Gift Sets,Celebration Gift Box,Lagos,Website,Completed,2,31500,17900,0.05,Yes,4,Everyday
+LLH-00792,2025-06-02,LLH-C0047,G01,Gift Sets,Celebration Gift Box,Rivers,Website,Completed,2,31500,17900,0,Yes,,Housewarming
+LLH-00234,2025-06-04,LLH-C0067,A01,Aromas,Scented Candle Trio,Ogun,Instagram,Completed,1,14900,6900,0,No,,Everyday
+LLH-01440,2025-06-04,LLH-C0178,A03,Aromas,Room Spray Duo,Enugu,Instagram,Completed,2,11300,5200,0,No,2,Housewarming
+LLH-00814,2025-06-06,LLH-C0167,D02,Decor,Ceramic Flower Vase,Osun,Instagram,Completed,1,15400,8400,0.15,No,,Everyday
+LLH-00895,2025-06-06,LLH-C0225,G03,Gift Sets,Thank You Gift Set,Lagos,WhatsApp,Cancelled,1,21400,11700,0,Yes,,Birthday
+LLH-00457,2025-06-07,LLH-C0133,D01,Decor,Woven Wall Basket,Abuja,Instagram,Completed,1,13700,7300,0.05,Yes,4,Anniversary
+LLH-00921,2025-06-07,LLH-C0279,B03,Textiles,Linen Table Runner,Lagos,Referral,Completed,1,12200,6900,0,No,4,Anniversary
+LLH-00970,2025-06-07,LLH-C0082,T03,Tableware,Dinner Plate Set,Kwara,Website,Completed,1,37900,21200,0.15,No,4,Birthday
+LLH-00255,2025-06-08,LLH-C0253,A03,Aromas,Room Spray Duo,Oyo,Referral,Completed,1,11300,5200,0.1,No,,Holiday
+LLH-00992,2025-06-08,LLH-C0094,G02,Gift Sets,Housewarming Bundle,Abuja,Website,Completed,1,44500,25100,0,Yes,4,Birthday
+LLH-01029,2025-06-08,LLH-C0484,D02,Decor,Ceramic Flower Vase,Rivers,Website,Completed,1,15400,8400,0.05,No,3,Birthday
+LLH-01385,2025-06-08,LLH-C0347,L02,Lighting,Ambient Table Lamp,Osun,Referral,Completed,1,22500,12300,0,No,5,Everyday
+LLH-00959,2025-06-09,LLH-C0375,L01,Lighting,Pendant Lantern,Lagos,Website,Completed,1,28500,15500,0,No,,Birthday
+LLH-01164,2025-06-09,LLH-C0413,G03,Gift Sets,Thank You Gift Set,Ogun,WhatsApp,Completed,1,21400,11700,0.1,Yes,4,Holiday
+LLH-00167,2025-06-10,LLH-C0303,A02,Aromas,Essential Oil Diffuser,Enugu,Walk-in,Completed,1,26600,14800,0.05,No,,Everyday
+LLH-00409,2025-06-11,LLH-C0251,D01,Decor,Woven Wall Basket,Lagos,Marketplace,Completed,1,13700,7300,0.1,No,3,Anniversary
+LLH-00485,2025-06-11,LLH-C0009,B03,Textiles,Linen Table Runner,Abuja,WhatsApp,Completed,3,12200,6900,0,No,4,Birthday
+LLH-00525,2025-06-11,LLH-C0354,A02,Aromas,Essential Oil Diffuser,Osun,Instagram,Completed,1,26600,14800,0.05,No,3,Birthday
+LLH-00653,2025-06-11,LLH-C0059,A02,Aromas,Essential Oil Diffuser,Kwara,Website,Completed,1,26600,14800,0,No,2,Birthday
+LLH-00864,2025-06-11,LLH-C0167,A01,Aromas,Scented Candle Trio,Kwara,Instagram,Completed,1,14900,6900,0.1,No,4,Everyday
+LLH-00878,2025-06-12,LLH-C0191,A01,Aromas,Scented Candle Trio,Lagos,WhatsApp,Completed,1,14900,6900,0.1,No,5,Everyday
+LLH-01015,2025-06-12,LLH-C0462,A02,Aromas,Essential Oil Diffuser,Enugu,Website,Completed,1,26600,14800,0,No,,Everyday
+LLH-00165,2025-06-13,LLH-C0483,L03,Lighting,Minimalist Desk Light,Abuja,Referral,Cancelled,1,18800,10200,0.1,No,,Everyday
+LLH-00172,2025-06-14,LLH-C0462,B01,Textiles,Cotton Throw Blanket,Rivers,Referral,Completed,1,24500,14000,0.1,Yes,,Anniversary
+LLH-00801,2025-06-14,LLH-C0305,L03,Lighting,Minimalist Desk Light,Lagos,WhatsApp,Completed,1,18800,10200,0.05,Yes,,Birthday
+LLH-01322,2025-06-14,LLH-C0268,D02,Decor,Ceramic Flower Vase,Kwara,Website,Completed,2,15400,8400,0.05,Yes,5,Wedding
+LLH-00518,2025-06-15,LLH-C0078,A02,Aromas,Essential Oil Diffuser,Enugu,Marketplace,Completed,2,26600,14800,0,No,,Everyday
+LLH-00346,2025-06-16,LLH-C0217,A02,Aromas,Essential Oil Diffuser,Rivers,Instagram,Completed,1,26600,14800,0.15,No,,Everyday
+LLH-00574,2025-06-16,LLH-C0409,T02,Tableware,Serving Tray Set,Abuja,Instagram,Completed,1,24900,13300,0.1,No,3,Everyday
+LLH-00977,2025-06-16,LLH-C0165,D03,Decor,Handcrafted Wall Frame,Ogun,Website,Returned,2,17500,9600,0,Yes,,Housewarming
+LLH-01046,2025-06-17,LLH-C0483,B03,Textiles,Linen Table Runner,Kwara,Referral,Completed,1,12200,6900,0.1,No,4,Everyday
+LLH-01169,2025-06-17,LLH-C0114,T03,Tableware,Dinner Plate Set,Abuja,WhatsApp,Completed,2,37900,21200,0,No,3,Everyday
+LLH-01218,2025-06-17,LLH-C0263,A01,Aromas,Scented Candle Trio,Enugu,WhatsApp,Completed,1,14900,6900,0,Yes,3,Wedding
+LLH-01325,2025-06-17,LLH-C0339,B01,Textiles,Cotton Throw Blanket,Lagos,Referral,Completed,3,24500,14000,0,Yes,,Birthday
+LLH-01319,2025-06-18,LLH-C0158,B03,Textiles,Linen Table Runner,Ogun,WhatsApp,Completed,3,12200,6900,0,No,4,Everyday
+LLH-00015,2025-06-19,LLH-C0048,T02,Tableware,Serving Tray Set,Ogun,WhatsApp,Completed,1,24900,13300,0.1,No,4,Everyday
+LLH-00830,2025-06-19,LLH-C0178,B03,Textiles,Linen Table Runner,Abuja,Referral,Completed,3,12200,6900,0.05,Yes,5,Wedding
+LLH-01384,2025-06-19,LLH-C0129,A03,Aromas,Room Spray Duo,Oyo,Instagram,Completed,2,11300,5200,0,Yes,4,Housewarming
+LLH-00610,2025-06-20,LLH-C0352,L03,Lighting,Minimalist Desk Light,Lagos,Referral,Completed,3,18800,10200,0,No,3,Wedding
+LLH-01318,2025-06-20,LLH-C0068,T01,Tableware,Stoneware Mug Pair,Abuja,Marketplace,Completed,1,16900,9200,0.1,No,4,Everyday
+LLH-01129,2025-06-21,LLH-C0215,D02,Decor,Ceramic Flower Vase,Lagos,WhatsApp,Completed,1,15400,8400,0,Yes,5,Housewarming
+LLH-00824,2025-06-22,LLH-C0438,T02,Tableware,Serving Tray Set,Rivers,Referral,Returned,1,24900,13300,0.05,No,,Everyday
+LLH-00960,2025-06-22,LLH-C0328,T03,Tableware,Dinner Plate Set,Osun,Walk-in,Completed,2,37900,21200,0.05,No,5,Housewarming
+LLH-00099,2025-06-23,LLH-C0031,D01,Decor,Woven Wall Basket,Abuja,Website,Completed,1,13700,7300,0.1,No,5,Everyday
+LLH-00108,2025-06-23,LLH-C0026,L02,Lighting,Ambient Table Lamp,Lagos,Instagram,Completed,1,22500,12300,0,Yes,5,Anniversary
+LLH-00199,2025-06-23,LLH-C0337,D03,Decor,Handcrafted Wall Frame,Oyo,WhatsApp,Completed,1,17500,9600,0,No,,Anniversary
+LLH-01157,2025-06-23,LLH-C0202,G03,Gift Sets,Thank You Gift Set,Enugu,Website,Completed,1,21400,11700,0,Yes,4,Birthday
+LLH-00532,2025-06-25,LLH-C0419,L01,Lighting,Pendant Lantern,Abuja,Instagram,Completed,2,28500,15500,0.05,Yes,5,Anniversary
+LLH-00426,2025-06-26,LLH-C0198,L03,Lighting,Minimalist Desk Light,Abuja,Referral,Completed,2,18800,10200,0,Yes,,Anniversary
+LLH-00495,2025-06-26,LLH-C0298,A02,Aromas,Essential Oil Diffuser,Abuja,WhatsApp,Completed,2,26600,14800,0,No,3,Birthday
+LLH-01019,2025-06-27,LLH-C0032,G02,Gift Sets,Housewarming Bundle,Lagos,Walk-in,Completed,1,44500,25100,0,Yes,5,Everyday
+LLH-01034,2025-06-27,LLH-C0383,B02,Textiles,Premium Cushion Set,Kwara,Instagram,Completed,1,19500,10500,0,Yes,,Anniversary
+LLH-00675,2025-06-29,LLH-C0270,B03,Textiles,Linen Table Runner,Ogun,Website,Completed,1,12200,6900,0.05,No,,Everyday
+LLH-00700,2025-06-29,LLH-C0175,B01,Textiles,Cotton Throw Blanket,Oyo,Website,Completed,2,24500,14000,0,No,2,Housewarming
+LLH-00405,2025-06-30,LLH-C0337,G03,Gift Sets,Thank You Gift Set,Kwara,Website,Completed,1,21400,11700,0.1,Yes,4,Everyday
+LLH-00507,2025-07-01,LLH-C0391,B02,Textiles,Premium Cushion Set,Oyo,Website,Completed,2,19500,10500,0,No,4,Everyday
+LLH-00982,2025-07-01,LLH-C0223,A03,Aromas,Room Spray Duo,Abuja,Referral,Completed,1,11300,5200,0.1,No,,Everyday
+LLH-01150,2025-07-01,LLH-C0421,B03,Textiles,Linen Table Runner,Enugu,Referral,Cancelled,1,12200,6900,0,No,,Everyday
+LLH-00516,2025-07-02,LLH-C0451,L01,Lighting,Pendant Lantern,Kwara,Referral,Completed,1,28500,15500,0,Yes,4,Birthday
+LLH-00857,2025-07-02,LLH-C0503,B03,Textiles,Linen Table Runner,Abuja,Walk-in,Completed,1,12200,6900,0.05,No,5,Everyday
+LLH-01212,2025-07-02,LLH-C0026,G03,Gift Sets,Thank You Gift Set,Enugu,Not Provided,Completed,1,21400,11700,0,Yes,4,Housewarming
+LLH-00608,2025-07-03,LLH-C0168,L03,Lighting,Minimalist Desk Light,Rivers,Referral,Cancelled,1,18800,10200,0.05,Yes,,Anniversary
+LLH-01214,2025-07-03,LLH-C0483,B03,Textiles,Linen Table Runner,Lagos,Marketplace,Completed,1,12200,6900,0.1,No,5,Everyday
+LLH-00984,2025-07-04,LLH-C0218,A01,Aromas,Scented Candle Trio,Rivers,Walk-in,Completed,2,14900,6900,0,Yes,5,Housewarming
+LLH-01309,2025-07-04,LLH-C0164,T01,Tableware,Stoneware Mug Pair,Ogun,Referral,Completed,3,16900,9200,0.05,No,2,Everyday
+LLH-00436,2025-07-05,LLH-C0328,A03,Aromas,Room Spray Duo,Abuja,WhatsApp,Cancelled,3,11300,5200,0.05,No,,Everyday
+LLH-01289,2025-07-05,LLH-C0399,B02,Textiles,Premium Cushion Set,Abuja,WhatsApp,Completed,1,19500,10500,0,No,4,Anniversary
+LLH-00776,2025-07-06,LLH-C0463,D02,Decor,Ceramic Flower Vase,Lagos,WhatsApp,Completed,2,15400,8400,0.15,No,5,Everyday
+LLH-01202,2025-07-06,LLH-C0229,B03,Textiles,Linen Table Runner,Lagos,Instagram,Cancelled,2,12200,6900,0.05,Yes,,Anniversary
+LLH-00662,2025-07-07,LLH-C0169,B01,Textiles,Cotton Throw Blanket,Lagos,Website,Completed,1,24500,14000,0.05,No,4,Everyday
+LLH-00157,2025-07-08,LLH-C0021,L02,Lighting,Ambient Table Lamp,Kwara,WhatsApp,Completed,1,22500,12300,0.15,No,2,Housewarming
+LLH-00190,2025-07-09,LLH-C0439,T01,Tableware,Stoneware Mug Pair,Rivers,Referral,Completed,1,16900,9200,0,No,4,Everyday
+LLH-00733,2025-07-09,LLH-C0447,D01,Decor,Woven Wall Basket,Ogun,Walk-in,Completed,1,13700,7300,0,No,5,Anniversary
+LLH-01089,2025-07-09,LLH-C0295,A03,Aromas,Room Spray Duo,Lagos,Website,Completed,2,11300,5200,0,No,2,Everyday
+LLH-00136,2025-07-10,LLH-C0366,G03,Gift Sets,Thank You Gift Set,Kwara,WhatsApp,Completed,1,21400,11700,0,Yes,,Everyday
+LLH-00540,2025-07-11,LLH-C0357,D02,Decor,Ceramic Flower Vase,Abuja,Marketplace,Completed,1,15400,8400,0,No,,Birthday
+LLH-00257,2025-07-12,LLH-C0469,B01,Textiles,Cotton Throw Blanket,Ogun,Walk-in,Completed,2,24500,14000,0.05,Yes,4,Housewarming
+LLH-01425,2025-07-12,LLH-C0089,T02,Tableware,Serving Tray Set,Osun,Instagram,Completed,2,24900,13300,0.1,No,4,Housewarming
+LLH-01310,2025-07-13,LLH-C0500,T02,Tableware,Serving Tray Set,Rivers,Marketplace,Completed,1,24900,13300,0.1,No,,Everyday
+LLH-00809,2025-07-15,LLH-C0049,T03,Tableware,Dinner Plate Set,Abuja,Instagram,Returned,2,37900,21200,0.05,Yes,,Housewarming
+LLH-01370,2025-07-15,LLH-C0098,B02,Textiles,Premium Cushion Set,Lagos,Website,Completed,1,19500,10500,0,No,,Everyday
+LLH-00393,2025-07-16,LLH-C0131,B03,Textiles,Linen Table Runner,Abuja,Instagram,Returned,1,12200,6900,0.1,Yes,,Housewarming
+LLH-00041,2025-07-17,LLH-C0483,L03,Lighting,Minimalist Desk Light,Lagos,WhatsApp,Completed,2,18800,10200,0,No,,Everyday
+LLH-00837,2025-07-17,LLH-C0188,A01,Aromas,Scented Candle Trio,Osun,Referral,Completed,1,14900,6900,0.05,No,,Everyday
+LLH-00571,2025-07-18,LLH-C0154,L03,Lighting,Minimalist Desk Light,Kwara,Website,Completed,1,18800,10200,0.05,No,,Everyday
+LLH-00967,2025-07-18,LLH-C0260,G03,Gift Sets,Thank You Gift Set,Enugu,Instagram,Completed,1,21400,11700,0.1,Yes,4,Everyday
+LLH-00138,2025-07-19,LLH-C0116,D03,Decor,Handcrafted Wall Frame,Abuja,WhatsApp,Completed,1,17500,9600,0,Yes,4,Wedding
+LLH-00301,2025-07-20,LLH-C0316,A01,Aromas,Scented Candle Trio,Oyo,Instagram,Completed,1,14900,6900,0,No,,Everyday
+LLH-00192,2025-07-21,LLH-C0318,B02,Textiles,Premium Cushion Set,Oyo,Website,Completed,3,19500,10500,0,No,2,Holiday
+LLH-00718,2025-07-21,LLH-C0477,A02,Aromas,Essential Oil Diffuser,Lagos,Instagram,Completed,1,26600,14800,0,No,4,Everyday
+LLH-01252,2025-07-21,LLH-C0417,A03,Aromas,Room Spray Duo,Abuja,Website,Completed,1,11300,5200,0,Yes,4,Holiday
+LLH-00158,2025-07-22,LLH-C0501,D02,Decor,Ceramic Flower Vase,Oyo,Referral,Completed,1,15400,8400,0.05,No,5,Housewarming
+LLH-00227,2025-07-23,LLH-C0047,B02,Textiles,Premium Cushion Set,Oyo,WhatsApp,Returned,2,19500,10500,0,No,,Everyday
+LLH-00503,2025-07-23,LLH-C0081,T03,Tableware,Dinner Plate Set,Abuja,Website,Completed,2,37900,21200,0,Yes,2,Birthday
+LLH-00559,2025-07-23,LLH-C0128,G02,Gift Sets,Housewarming Bundle,Kwara,Website,Completed,1,44500,25100,0,Yes,4,Everyday
+LLH-00715,2025-07-24,LLH-C0051,G02,Gift Sets,Housewarming Bundle,Abuja,WhatsApp,Cancelled,2,44500,25100,0,Yes,,Housewarming
+LLH-00971,2025-07-24,LLH-C0417,T02,Tableware,Serving Tray Set,Abuja,Website,Completed,1,24900,13300,0.15,No,,Holiday
+LLH-00995,2025-07-24,LLH-C0103,T02,Tableware,Serving Tray Set,Abuja,Website,Completed,1,24900,13300,0.1,No,,Everyday
+LLH-01156,2025-07-24,LLH-C0278,G01,Gift Sets,Celebration Gift Box,Osun,Instagram,Completed,1,31500,17900,0.05,Yes,,Housewarming
+LLH-00066,2025-07-25,LLH-C0275,A01,Aromas,Scented Candle Trio,Oyo,Marketplace,Completed,1,14900,6900,0.15,Yes,4,Wedding
+LLH-00514,2025-07-25,LLH-C0254,D03,Decor,Handcrafted Wall Frame,Oyo,Instagram,Completed,1,17500,9600,0.05,No,3,Housewarming
+LLH-01066,2025-07-25,LLH-C0060,G02,Gift Sets,Housewarming Bundle,Rivers,Instagram,Completed,1,44500,25100,0,Yes,5,Holiday
+LLH-01413,2025-07-26,LLH-C0371,T03,Tableware,Dinner Plate Set,Rivers,Referral,Completed,1,37900,21200,0.1,No,5,Everyday
+LLH-00322,2025-07-27,LLH-C0191,B02,Textiles,Premium Cushion Set,Enugu,Website,Cancelled,1,19500,10500,0,No,,Housewarming
+LLH-00251,2025-07-28,LLH-C0277,A03,Aromas,Room Spray Duo,Oyo,WhatsApp,Completed,2,11300,5200,0,No,3,Anniversary
+LLH-00547,2025-07-28,LLH-C0142,G03,Gift Sets,Thank You Gift Set,Lagos,Instagram,Completed,1,21400,11700,0,Yes,,Birthday
+LLH-00449,2025-07-29,LLH-C0028,T03,Tableware,Dinner Plate Set,Ogun,Website,Completed,2,37900,21200,0,Yes,5,Birthday
+LLH-00704,2025-07-29,LLH-C0042,G02,Gift Sets,Housewarming Bundle,Oyo,Instagram,Completed,1,44500,25100,0.1,Yes,5,Housewarming
+LLH-00478,2025-07-30,LLH-C0335,T02,Tableware,Serving Tray Set,Lagos,WhatsApp,Completed,1,24900,13300,0,Yes,5,Wedding
+LLH-00150,2025-07-31,LLH-C0013,B03,Textiles,Linen Table Runner,Lagos,Instagram,Completed,1,12200,6900,0.05,No,,Anniversary
+LLH-00575,2025-07-31,LLH-C0502,T02,Tableware,Serving Tray Set,Osun,WhatsApp,Completed,1,24900,13300,0.15,No,3,Everyday
+LLH-00423,2025-08-01,LLH-C0503,G03,Gift Sets,Thank You Gift Set,Abuja,Instagram,Completed,1,21400,11700,0,Yes,5,Everyday
+LLH-00215,2025-08-02,LLH-C0485,B02,Textiles,Premium Cushion Set,Rivers,WhatsApp,Completed,1,19500,10500,0,Yes,4,Birthday
+LLH-00762,2025-08-02,LLH-C0114,T03,Tableware,Dinner Plate Set,Oyo,Instagram,Completed,1,37900,21200,0.1,No,4,Everyday
+LLH-01407,2025-08-02,LLH-C0314,G02,Gift Sets,Housewarming Bundle,Lagos,Instagram,Completed,1,44500,25100,0.05,Yes,5,Everyday
+LLH-00417,2025-08-03,LLH-C0286,D02,Decor,Ceramic Flower Vase,Enugu,Walk-in,Completed,2,15400,8400,0.05,No,,Everyday
+LLH-00471,2025-08-03,LLH-C0254,T01,Tableware,Stoneware Mug Pair,Kwara,Marketplace,Completed,1,16900,9200,0.1,No,,Everyday
+LLH-00747,2025-08-03,LLH-C0447,L03,Lighting,Minimalist Desk Light,Lagos,Instagram,Completed,1,18800,10200,0,Yes,3,Housewarming
+LLH-01350,2025-08-04,LLH-C0107,D02,Decor,Ceramic Flower Vase,Lagos,Instagram,Completed,3,15400,8400,0.1,No,5,Everyday
+LLH-01152,2025-08-05,LLH-C0032,B02,Textiles,Premium Cushion Set,Kwara,Walk-in,Completed,1,19500,10500,0.05,No,4,Everyday
+LLH-00185,2025-08-06,LLH-C0254,T03,Tableware,Dinner Plate Set,Rivers,Walk-in,Completed,1,37900,21200,0.05,No,4,Everyday
+LLH-00247,2025-08-06,LLH-C0043,B03,Textiles,Linen Table Runner,Abuja,Referral,Completed,1,12200,6900,0,No,5,Everyday
+LLH-00884,2025-08-06,LLH-C0451,D03,Decor,Handcrafted Wall Frame,Abuja,Instagram,Completed,1,17500,9600,0,Yes,4,Holiday
+LLH-00284,2025-08-07,LLH-C0015,T03,Tableware,Dinner Plate Set,Oyo,Website,Completed,1,37900,21200,0,No,,Everyday
+LLH-00829,2025-08-07,LLH-C0484,B01,Textiles,Cotton Throw Blanket,Abuja,Referral,Completed,1,24500,14000,0.1,No,5,Everyday
+LLH-00852,2025-08-07,LLH-C0139,T03,Tableware,Dinner Plate Set,Ogun,Referral,Completed,1,37900,21200,0,No,4,Birthday
+LLH-01199,2025-08-07,LLH-C0130,A02,Aromas,Essential Oil Diffuser,Lagos,Walk-in,Completed,1,26600,14800,0,No,,Everyday
+LLH-01213,2025-08-07,LLH-C0368,L01,Lighting,Pendant Lantern,Rivers,Walk-in,Completed,1,28500,15500,0,No,3,Everyday
+LLH-00048,2025-08-08,LLH-C0368,L01,Lighting,Pendant Lantern,Lagos,WhatsApp,Completed,2,28500,15500,0.1,Yes,5,Birthday
+LLH-00177,2025-08-08,LLH-C0483,D02,Decor,Ceramic Flower Vase,Lagos,Marketplace,Cancelled,3,15400,8400,0,Yes,,Birthday
+LLH-00372,2025-08-08,LLH-C0131,D03,Decor,Handcrafted Wall Frame,Oyo,Referral,Completed,1,17500,9600,0,Yes,,Anniversary
+LLH-01122,2025-08-08,LLH-C0207,A02,Aromas,Essential Oil Diffuser,Ogun,Referral,Completed,2,26600,14800,0.15,No,4,Holiday
+LLH-01161,2025-08-08,LLH-C0085,G02,Gift Sets,Housewarming Bundle,Rivers,WhatsApp,Completed,1,44500,25100,0,Yes,,Everyday
+LLH-01181,2025-08-09,LLH-C0075,T03,Tableware,Dinner Plate Set,Rivers,Referral,Completed,1,37900,21200,0,No,3,Everyday
+LLH-00020,2025-08-10,LLH-C0367,L02,Lighting,Ambient Table Lamp,Lagos,WhatsApp,Completed,2,22500,12300,0,No,5,Birthday
+LLH-00378,2025-08-10,LLH-C0321,D02,Decor,Ceramic Flower Vase,Abuja,Walk-in,Completed,1,15400,8400,0.05,No,,Everyday
+LLH-00601,2025-08-10,LLH-C0225,B01,Textiles,Cotton Throw Blanket,Abuja,Website,Completed,1,24500,14000,0.1,Yes,4,Anniversary
+LLH-01269,2025-08-10,LLH-C0512,A01,Aromas,Scented Candle Trio,Kwara,WhatsApp,Completed,1,14900,6900,0,Yes,5,Housewarming
+LLH-00174,2025-08-12,LLH-C0275,T03,Tableware,Dinner Plate Set,Ogun,WhatsApp,Completed,3,37900,21200,0,No,5,Everyday
+LLH-01133,2025-08-12,LLH-C0225,T03,Tableware,Dinner Plate Set,Lagos,Instagram,Completed,2,37900,21200,0.1,No,5,Everyday
+LLH-00883,2025-08-13,LLH-C0308,B03,Textiles,Linen Table Runner,Ogun,Referral,Completed,2,12200,6900,0.1,No,,Everyday
+LLH-00978,2025-08-13,LLH-C0055,L02,Lighting,Ambient Table Lamp,Enugu,Instagram,Completed,1,22500,12300,0,No,4,Housewarming
+LLH-00402,2025-08-14,LLH-C0225,T01,Tableware,Stoneware Mug Pair,Lagos,Website,Completed,1,16900,9200,0.15,No,4,Everyday
+LLH-00287,2025-08-16,LLH-C0485,D02,Decor,Ceramic Flower Vase,Osun,WhatsApp,Completed,1,15400,8400,0,No,3,Birthday
+LLH-00198,2025-08-17,LLH-C0509,B01,Textiles,Cotton Throw Blanket,Lagos,Marketplace,Completed,3,24500,14000,0,Yes,5,Birthday
+LLH-01362,2025-08-17,LLH-C0483,L02,Lighting,Ambient Table Lamp,Oyo,WhatsApp,Completed,1,22500,12300,0.05,No,5,Wedding
+LLH-01118,2025-08-19,LLH-C0310,L01,Lighting,Pendant Lantern,Rivers,Referral,Returned,1,28500,15500,0,No,,Everyday
+LLH-00213,2025-08-20,LLH-C0026,A01,Aromas,Scented Candle Trio,Abuja,Walk-in,Completed,2,14900,6900,0,No,5,Everyday
+LLH-01060,2025-08-20,LLH-C0392,D03,Decor,Handcrafted Wall Frame,Lagos,Walk-in,Completed,1,17500,9600,0,No,5,Housewarming
+LLH-01216,2025-08-20,LLH-C0050,B03,Textiles,Linen Table Runner,Lagos,Referral,Cancelled,1,12200,6900,0.05,No,,Everyday
+LLH-00570,2025-08-21,LLH-C0032,B03,Textiles,Linen Table Runner,Osun,Walk-in,Completed,1,12200,6900,0.05,No,4,Housewarming
+LLH-01123,2025-08-21,LLH-C0401,B01,Textiles,Cotton Throw Blanket,Enugu,Instagram,Completed,1,24500,14000,0.1,Yes,3,Birthday
+LLH-00026,2025-08-22,LLH-C0180,L01,Lighting,Pendant Lantern,Oyo,Marketplace,Completed,1,28500,15500,0,Yes,4,Birthday
+LLH-00486,2025-08-22,LLH-C0342,B02,Textiles,Premium Cushion Set,Abuja,Instagram,Completed,1,19500,10500,0,Yes,,Housewarming
+LLH-01241,2025-08-23,LLH-C0462,D01,Decor,Woven Wall Basket,Not Provided,Website,Completed,1,13700,7300,0.1,No,4,Everyday
+LLH-01177,2025-08-24,LLH-C0444,D03,Decor,Handcrafted Wall Frame,Lagos,Walk-in,Completed,1,17500,9600,0.15,No,3,Birthday
+LLH-01401,2025-08-24,LLH-C0517,T03,Tableware,Dinner Plate Set,Rivers,Referral,Cancelled,2,37900,21200,0,No,,Everyday
+LLH-00544,2025-08-25,LLH-C0075,T01,Tableware,Stoneware Mug Pair,Lagos,Website,Completed,3,16900,9200,0,No,4,Birthday
+LLH-01068,2025-08-25,LLH-C0515,B03,Textiles,Linen Table Runner,Enugu,WhatsApp,Completed,1,12200,6900,0.05,No,3,Everyday
+LLH-00419,2025-08-26,LLH-C0375,L03,Lighting,Minimalist Desk Light,Osun,Referral,Completed,1,18800,10200,0.1,No,3,Everyday
+LLH-01149,2025-08-26,LLH-C0399,G01,Gift Sets,Celebration Gift Box,Kwara,Referral,Returned,1,31500,17900,0,Yes,,Everyday
+LLH-00887,2025-08-28,LLH-C0161,D01,Decor,Woven Wall Basket,Enugu,Instagram,Cancelled,2,13700,7300,0.05,Yes,,Wedding
+LLH-00958,2025-08-28,LLH-C0270,G01,Gift Sets,Celebration Gift Box,Osun,Walk-in,Cancelled,2,31500,17900,0.1,Yes,,Wedding
+LLH-01271,2025-08-30,LLH-C0419,T02,Tableware,Serving Tray Set,Kwara,Instagram,Completed,1,24900,13300,0.15,No,5,Everyday
+LLH-01030,2025-08-31,LLH-C0493,A03,Aromas,Room Spray Duo,Oyo,Website,Completed,2,11300,5200,0.1,Yes,4,Holiday
+LLH-01349,2025-08-31,LLH-C0181,T02,Tableware,Serving Tray Set,Ogun,Walk-in,Completed,1,24900,13300,0.05,No,5,Holiday
+LLH-00812,2025-09-01,LLH-C0219,L01,Lighting,Pendant Lantern,Ogun,WhatsApp,Completed,1,28500,15500,0.05,Yes,3,Anniversary
+LLH-00353,2025-09-02,LLH-C0046,A02,Aromas,Essential Oil Diffuser,Abuja,Instagram,Completed,1,26600,14800,0.05,Yes,,Housewarming
+LLH-01086,2025-09-02,LLH-C0279,A02,Aromas,Essential Oil Diffuser,Abuja,Website,Completed,2,26600,14800,0.1,No,,Everyday
+LLH-01364,2025-09-03,LLH-C0516,G01,Gift Sets,Celebration Gift Box,Rivers,WhatsApp,Completed,2,31500,17900,0.15,Yes,4,Anniversary
+LLH-00120,2025-09-04,LLH-C0254,L01,Lighting,Pendant Lantern,Oyo,Instagram,Completed,1,28500,15500,0,Yes,,Housewarming
+LLH-00205,2025-09-05,LLH-C0131,T01,Tableware,Stoneware Mug Pair,Ogun,WhatsApp,Completed,1,16900,9200,0.05,Yes,5,Wedding
+LLH-00285,2025-09-05,LLH-C0110,D03,Decor,Handcrafted Wall Frame,Kwara,Marketplace,Cancelled,1,17500,9600,0.1,No,,Everyday
+LLH-00050,2025-09-06,LLH-C0455,A03,Aromas,Room Spray Duo,Abuja,Website,Completed,1,11300,5200,0,No,4,Housewarming
+LLH-00233,2025-09-06,LLH-C0367,G03,Gift Sets,Thank You Gift Set,Lagos,Instagram,Completed,1,21400,11700,0.05,Yes,3,Housewarming
+LLH-00155,2025-09-07,LLH-C0132,B03,Textiles,Linen Table Runner,Oyo,Website,Completed,1,12200,6900,0.05,No,,Everyday
+LLH-00411,2025-09-08,LLH-C0449,B03,Textiles,Linen Table Runner,Lagos,Website,Completed,1,12200,6900,0.1,No,,Everyday
+LLH-00651,2025-09-08,LLH-C0047,G01,Gift Sets,Celebration Gift Box,Kwara,Walk-in,Completed,1,31500,17900,0.1,Yes,4,Everyday
+LLH-00664,2025-09-09,LLH-C0156,T02,Tableware,Serving Tray Set,Lagos,WhatsApp,Completed,2,24900,13300,0.05,No,4,Everyday
+LLH-00909,2025-09-09,LLH-C0158,G02,Gift Sets,Housewarming Bundle,Abuja,Not Provided,Completed,1,44500,25100,0,Yes,4,Everyday
+LLH-01009,2025-09-09,LLH-C0303,G02,Gift Sets,Housewarming Bundle,Abuja,Website,Completed,2,44500,25100,0,Yes,,Birthday
+LLH-01390,2025-09-09,LLH-C0375,T01,Tableware,Stoneware Mug Pair,Enugu,Website,Completed,1,16900,9200,0,No,,Everyday
+LLH-00437,2025-09-10,LLH-C0440,T01,Tableware,Stoneware Mug Pair,Rivers,Website,Completed,3,16900,9200,0.15,No,4,Everyday
+LLH-00442,2025-09-10,LLH-C0218,G03,Gift Sets,Thank You Gift Set,Lagos,Website,Completed,1,21400,11700,0.15,Yes,3,Birthday
+LLH-00788,2025-09-10,LLH-C0351,L01,Lighting,Pendant Lantern,Lagos,Website,Cancelled,1,28500,15500,0.1,No,,Everyday
+LLH-01215,2025-09-10,LLH-C0251,T02,Tableware,Serving Tray Set,Lagos,Referral,Completed,1,24900,13300,0,No,4,Everyday
+LLH-00017,2025-09-12,LLH-C0264,B02,Textiles,Premium Cushion Set,Kwara,Referral,Completed,4,19500,10500,0.1,No,,Everyday
+LLH-00161,2025-09-12,LLH-C0094,B03,Textiles,Linen Table Runner,Enugu,Walk-in,Returned,2,12200,6900,0,No,,Holiday
+LLH-00523,2025-09-12,LLH-C0304,T01,Tableware,Stoneware Mug Pair,Osun,Instagram,Completed,1,16900,9200,0.05,No,,Everyday
+LLH-00526,2025-09-12,LLH-C0190,B03,Textiles,Linen Table Runner,Oyo,Marketplace,Completed,1,12200,6900,0.1,No,,Birthday
+LLH-00561,2025-09-12,LLH-C0496,D03,Decor,Handcrafted Wall Frame,Ogun,Referral,Completed,1,17500,9600,0,No,5,Housewarming
+LLH-00719,2025-09-12,LLH-C0258,A02,Aromas,Essential Oil Diffuser,Lagos,Website,Completed,3,26600,14800,0,Yes,,Birthday
+LLH-01193,2025-09-12,LLH-C0026,L01,Lighting,Pendant Lantern,Lagos,WhatsApp,Completed,1,28500,15500,0,No,5,Everyday
+LLH-01266,2025-09-12,LLH-C0376,B01,Textiles,Cotton Throw Blanket,Oyo,Website,Completed,1,24500,14000,0.05,No,,Everyday
+LLH-00039,2025-09-13,LLH-C0193,A03,Aromas,Room Spray Duo,Oyo,WhatsApp,Cancelled,3,11300,5200,0,No,,Everyday
+LLH-01063,2025-09-13,LLH-C0449,A01,Aromas,Scented Candle Trio,Lagos,Referral,Completed,1,14900,6900,0,No,,Wedding
+LLH-01067,2025-09-13,LLH-C0347,D03,Decor,Handcrafted Wall Frame,Rivers,Walk-in,Completed,1,17500,9600,0,No,,Everyday
+LLH-01072,2025-09-13,LLH-C0035,B03,Textiles,Linen Table Runner,Lagos,Marketplace,Completed,1,12200,6900,0.05,Yes,,Anniversary
+LLH-01243,2025-09-13,LLH-C0037,D03,Decor,Handcrafted Wall Frame,Lagos,Website,Completed,1,17500,9600,0,No,,Everyday
+LLH-00132,2025-09-15,LLH-C0204,D01,Decor,Woven Wall Basket,Oyo,Instagram,Completed,1,13700,7300,0,Yes,4,Holiday
+LLH-01191,2025-09-15,LLH-C0341,B02,Textiles,Premium Cushion Set,Enugu,Marketplace,Cancelled,1,19500,10500,0.1,No,,Housewarming
+LLH-01247,2025-09-15,LLH-C0026,D03,Decor,Handcrafted Wall Frame,Osun,Referral,Completed,1,17500,9600,0,Yes,5,Wedding
+LLH-01300,2025-09-15,LLH-C0121,B01,Textiles,Cotton Throw Blanket,Ogun,Walk-in,Completed,1,24500,14000,0.05,No,,Everyday
+LLH-01409,2025-09-15,LLH-C0098,B01,Textiles,Cotton Throw Blanket,Abuja,Instagram,Completed,1,24500,14000,0.05,No,4,Holiday
+LLH-00071,2025-09-16,LLH-C0069,B01,Textiles,Cotton Throw Blanket,Rivers,Walk-in,Completed,1,24500,14000,0,No,,Birthday
+LLH-00178,2025-09-16,LLH-C0307,T02,Tableware,Serving Tray Set,Rivers,Website,Completed,1,24900,13300,0.05,No,,Everyday
+LLH-00317,2025-09-16,LLH-C0274,A03,Aromas,Room Spray Duo,Lagos,Marketplace,Completed,3,11300,5200,0,No,4,Everyday
+LLH-01137,2025-09-16,LLH-C0352,B03,Textiles,Linen Table Runner,Oyo,Website,Completed,1,12200,6900,0.05,No,4,Housewarming
+LLH-01232,2025-09-16,LLH-C0483,T02,Tableware,Serving Tray Set,Lagos,Walk-in,Returned,1,24900,13300,0.05,Yes,,Birthday
+LLH-01382,2025-09-16,LLH-C0451,A01,Aromas,Scented Candle Trio,Lagos,Walk-in,Completed,2,14900,6900,0.05,Yes,4,Birthday
+LLH-00459,2025-09-17,LLH-C0036,L02,Lighting,Ambient Table Lamp,Osun,Instagram,Completed,1,22500,12300,0.1,No,5,Birthday
+LLH-00260,2025-09-18,LLH-C0164,D03,Decor,Handcrafted Wall Frame,Oyo,Instagram,Completed,1,17500,9600,0.05,No,,Everyday
+LLH-01082,2025-09-18,LLH-C0383,B03,Textiles,Linen Table Runner,Osun,Website,Completed,4,12200,6900,0,No,4,Anniversary
+LLH-01249,2025-09-19,LLH-C0259,T01,Tableware,Stoneware Mug Pair,Abuja,Instagram,Cancelled,1,16900,9200,0,No,,Anniversary
+LLH-00524,2025-09-20,LLH-C0373,A02,Aromas,Essential Oil Diffuser,Lagos,Website,Completed,1,26600,14800,0,Yes,4,Housewarming
+LLH-01265,2025-09-20,LLH-C0396,D01,Decor,Woven Wall Basket,Lagos,Website,Completed,1,13700,7300,0.15,No,5,Everyday
+LLH-01380,2025-09-20,LLH-C0103,B03,Textiles,Linen Table Runner,Lagos,Walk-in,Completed,1,12200,6900,0,No,5,Everyday
+LLH-00016,2025-09-21,LLH-C0354,G01,Gift Sets,Celebration Gift Box,Ogun,WhatsApp,Completed,2,31500,17900,0,Yes,,Housewarming
+LLH-00217,2025-09-21,LLH-C0134,B02,Textiles,Premium Cushion Set,Lagos,Referral,Completed,1,19500,10500,0.1,No,3,Holiday
+LLH-00981,2025-09-21,LLH-C0231,A02,Aromas,Essential Oil Diffuser,Oyo,Marketplace,Completed,1,26600,14800,0.1,No,5,Everyday
+LLH-00640,2025-09-22,LLH-C0244,G01,Gift Sets,Celebration Gift Box,Rivers,Walk-in,Completed,1,31500,17900,0.05,Yes,5,Everyday
+LLH-00819,2025-09-22,LLH-C0417,T01,Tableware,Stoneware Mug Pair,Rivers,Website,Completed,1,16900,9200,0,No,,Everyday
+LLH-00259,2025-09-23,LLH-C0337,L03,Lighting,Minimalist Desk Light,Abuja,Instagram,Completed,1,18800,10200,0.1,No,3,Wedding
+LLH-01343,2025-09-23,LLH-C0240,B01,Textiles,Cotton Throw Blanket,Ogun,Marketplace,Cancelled,4,24500,14000,0,No,,Birthday
+LLH-01398,2025-09-24,LLH-C0395,A01,Aromas,Scented Candle Trio,Lagos,Instagram,Completed,1,14900,6900,0,Yes,,Anniversary
+LLH-01270,2025-09-25,LLH-C0021,D01,Decor,Woven Wall Basket,Kwara,Walk-in,Completed,1,13700,7300,0,No,4,Anniversary
+LLH-01308,2025-09-25,LLH-C0247,B03,Textiles,Linen Table Runner,Lagos,WhatsApp,Returned,1,12200,6900,0,No,,Everyday
+LLH-00146,2025-09-26,LLH-C0207,A02,Aromas,Essential Oil Diffuser,Not Provided,Referral,Completed,1,26600,14800,0,No,5,Everyday
+LLH-00327,2025-09-26,LLH-C0008,G03,Gift Sets,Thank You Gift Set,Rivers,Instagram,Completed,1,21400,11700,0,Yes,5,Wedding
+LLH-00874,2025-09-26,LLH-C0136,B03,Textiles,Linen Table Runner,Lagos,Marketplace,Completed,2,12200,6900,0,No,5,Holiday
+LLH-00279,2025-09-27,LLH-C0201,D02,Decor,Ceramic Flower Vase,Lagos,Instagram,Cancelled,1,15400,8400,0,No,,Housewarming
+LLH-00934,2025-09-27,LLH-C0454,T02,Tableware,Serving Tray Set,Lagos,Website,Completed,2,24900,13300,0.15,Yes,4,Holiday
+LLH-01414,2025-09-27,LLH-C0291,G02,Gift Sets,Housewarming Bundle,Rivers,Not Provided,Completed,3,44500,25100,0.1,Yes,3,Birthday
+LLH-00344,2025-09-28,LLH-C0306,G03,Gift Sets,Thank You Gift Set,Abuja,Instagram,Completed,1,21400,11700,0,Yes,4,Housewarming
+LLH-00189,2025-09-29,LLH-C0219,D01,Decor,Woven Wall Basket,Osun,Website,Completed,3,13700,7300,0,Yes,4,Anniversary
+LLH-00844,2025-09-29,LLH-C0039,L01,Lighting,Pendant Lantern,Lagos,WhatsApp,Completed,1,28500,15500,0.1,No,5,Holiday
+LLH-01227,2025-09-29,LLH-C0090,D02,Decor,Ceramic Flower Vase,Lagos,Referral,Completed,2,15400,8400,0,No,,Anniversary
+LLH-01235,2025-09-30,LLH-C0355,B03,Textiles,Linen Table Runner,Rivers,Instagram,Completed,1,12200,6900,0.1,Yes,4,Housewarming
+LLH-00379,2025-10-01,LLH-C0480,B02,Textiles,Premium Cushion Set,Rivers,Website,Completed,1,19500,10500,0,No,4,Birthday
+LLH-01344,2025-10-01,LLH-C0291,T03,Tableware,Dinner Plate Set,Kwara,WhatsApp,Cancelled,3,37900,21200,0,Yes,,Anniversary
+LLH-00588,2025-10-02,LLH-C0516,A02,Aromas,Essential Oil Diffuser,Oyo,Website,Completed,1,26600,14800,0,Yes,3,Housewarming
+LLH-01368,2025-10-02,LLH-C0209,A01,Aromas,Scented Candle Trio,Rivers,Referral,Completed,1,14900,6900,0,No,4,Everyday
+LLH-00206,2025-10-03,LLH-C0449,G03,Gift Sets,Thank You Gift Set,Osun,Website,Completed,4,21400,11700,0.05,Yes,5,Birthday
+LLH-00539,2025-10-03,LLH-C0245,B02,Textiles,Premium Cushion Set,Enugu,Walk-in,Completed,1,19500,10500,0,Yes,3,Housewarming
+LLH-00708,2025-10-03,LLH-C0265,T02,Tableware,Serving Tray Set,Lagos,Website,Cancelled,1,24900,13300,0.1,No,,Birthday
+LLH-00996,2025-10-03,LLH-C0036,A03,Aromas,Room Spray Duo,Lagos,Instagram,Completed,1,11300,5200,0.05,Yes,3,Anniversary
+LLH-00430,2025-10-04,LLH-C0413,D02,Decor,Ceramic Flower Vase,Lagos,Website,Completed,1,15400,8400,0,Yes,4,Birthday
+LLH-00278,2025-10-05,LLH-C0051,A02,Aromas,Essential Oil Diffuser,Abuja,Website,Completed,1,26600,14800,0,No,5,Housewarming
+LLH-00369,2025-10-05,LLH-C0377,L02,Lighting,Ambient Table Lamp,Osun,Referral,Cancelled,1,22500,12300,0.05,No,,Everyday
+LLH-00847,2025-10-07,LLH-C0071,B02,Textiles,Premium Cushion Set,Ogun,WhatsApp,Completed,3,19500,10500,0.1,No,3,Everyday
+LLH-00855,2025-10-07,LLH-C0449,L01,Lighting,Pendant Lantern,Abuja,Website,Completed,2,28500,15500,0,Yes,,Wedding
+LLH-01250,2025-10-08,LLH-C0380,D02,Decor,Ceramic Flower Vase,Abuja,Website,Completed,1,15400,8400,0.05,No,4,Everyday
+LLH-00569,2025-10-09,LLH-C0287,G03,Gift Sets,Thank You Gift Set,Lagos,Instagram,Completed,1,21400,11700,0.05,Yes,5,Housewarming
+LLH-00919,2025-10-09,LLH-C0491,G02,Gift Sets,Housewarming Bundle,Osun,Instagram,Completed,1,44500,25100,0.05,Yes,4,Anniversary
+LLH-00956,2025-10-10,LLH-C0094,A01,Aromas,Scented Candle Trio,Rivers,Website,Completed,2,14900,6900,0.1,Yes,,Housewarming
+LLH-00463,2025-10-11,LLH-C0194,A01,Aromas,Scented Candle Trio,Abuja,Walk-in,Completed,2,14900,6900,0.05,Yes,5,Holiday
+LLH-00734,2025-10-12,LLH-C0127,B02,Textiles,Premium Cushion Set,Lagos,Website,Completed,1,19500,10500,0.05,No,4,Everyday
+LLH-00743,2025-10-12,LLH-C0074,T02,Tableware,Serving Tray Set,Oyo,Instagram,Completed,3,24900,13300,0.1,No,4,Birthday
+LLH-00465,2025-10-13,LLH-C0502,A01,Aromas,Scented Candle Trio,Oyo,WhatsApp,Completed,1,14900,6900,0,No,,Birthday
+LLH-00598,2025-10-13,LLH-C0332,T03,Tableware,Dinner Plate Set,Lagos,Referral,Completed,1,37900,21200,0,No,,Everyday
+LLH-00295,2025-10-14,LLH-C0286,B03,Textiles,Linen Table Runner,Oyo,Instagram,Returned,1,12200,6900,0,No,,Everyday
+LLH-00623,2025-10-14,LLH-C0188,T01,Tableware,Stoneware Mug Pair,Ogun,Instagram,Completed,1,16900,9200,0.05,Yes,3,Holiday
+LLH-00634,2025-10-14,LLH-C0519,A03,Aromas,Room Spray Duo,Oyo,Instagram,Completed,3,11300,5200,0,No,,Housewarming
+LLH-00685,2025-10-14,LLH-C0495,A02,Aromas,Essential Oil Diffuser,Enugu,Walk-in,Completed,1,26600,14800,0,Yes,4,Holiday
+LLH-00988,2025-10-14,LLH-C0409,D02,Decor,Ceramic Flower Vase,Ogun,Website,Cancelled,1,15400,8400,0,No,,Everyday
+LLH-00289,2025-10-15,LLH-C0067,D03,Decor,Handcrafted Wall Frame,Kwara,Walk-in,Cancelled,1,17500,9600,0.05,No,,Everyday
+LLH-00080,2025-10-16,LLH-C0125,L02,Lighting,Ambient Table Lamp,Lagos,Walk-in,Completed,2,22500,12300,0,No,,Everyday
+LLH-00454,2025-10-16,LLH-C0274,D03,Decor,Handcrafted Wall Frame,Lagos,Walk-in,Completed,1,17500,9600,0,No,5,Everyday
+LLH-00742,2025-10-16,LLH-C0111,L03,Lighting,Minimalist Desk Light,Kwara,WhatsApp,Completed,1,18800,10200,0.05,No,5,Housewarming
+LLH-01094,2025-10-16,LLH-C0338,L01,Lighting,Pendant Lantern,Osun,WhatsApp,Completed,1,28500,15500,0.05,No,4,Everyday
+LLH-01182,2025-10-16,LLH-C0477,T01,Tableware,Stoneware Mug Pair,Enugu,Website,Completed,1,16900,9200,0,Yes,,Birthday
+LLH-00665,2025-10-17,LLH-C0053,L01,Lighting,Pendant Lantern,Ogun,Instagram,Completed,2,28500,15500,0.05,No,,Everyday
+LLH-01013,2025-10-17,LLH-C0383,A01,Aromas,Scented Candle Trio,Lagos,Instagram,Completed,1,14900,6900,0.05,No,3,Everyday
+LLH-00009,2025-10-18,LLH-C0354,A03,Aromas,Room Spray Duo,Osun,Referral,Completed,3,11300,5200,0.15,No,,Everyday
+LLH-00292,2025-10-18,LLH-C0349,L03,Lighting,Minimalist Desk Light,Not Provided,Walk-in,Completed,1,18800,10200,0.1,No,4,Wedding
+LLH-00668,2025-10-19,LLH-C0288,D01,Decor,Woven Wall Basket,Lagos,Walk-in,Completed,3,13700,7300,0.15,No,5,Everyday
+LLH-00761,2025-10-19,LLH-C0311,D02,Decor,Ceramic Flower Vase,Kwara,Referral,Completed,1,15400,8400,0.1,No,4,Everyday
+LLH-01087,2025-10-19,LLH-C0486,B01,Textiles,Cotton Throw Blanket,Enugu,Walk-in,Completed,1,24500,14000,0.05,No,4,Everyday
+LLH-00137,2025-10-20,LLH-C0103,A02,Aromas,Essential Oil Diffuser,Abuja,Instagram,Completed,1,26600,14800,0.1,No,4,Everyday
+LLH-00356,2025-10-20,LLH-C0517,T03,Tableware,Dinner Plate Set,Rivers,Instagram,Completed,1,37900,21200,0,No,,Everyday
+LLH-00962,2025-10-20,LLH-C0482,G03,Gift Sets,Thank You Gift Set,Enugu,WhatsApp,Completed,1,21400,11700,0,Yes,4,Holiday
+LLH-01383,2025-10-20,LLH-C0131,D03,Decor,Handcrafted Wall Frame,Lagos,Instagram,Completed,1,17500,9600,0.05,Yes,5,Wedding
+LLH-00271,2025-10-21,LLH-C0047,A02,Aromas,Essential Oil Diffuser,Rivers,Website,Completed,1,26600,14800,0,No,4,Birthday
+LLH-00690,2025-10-21,LLH-C0257,D01,Decor,Woven Wall Basket,Lagos,Website,Cancelled,1,13700,7300,0.05,No,,Everyday
+LLH-00504,2025-10-22,LLH-C0439,T03,Tableware,Dinner Plate Set,Ogun,WhatsApp,Completed,1,37900,21200,0,No,5,Birthday
+LLH-00673,2025-10-22,LLH-C0483,A01,Aromas,Scented Candle Trio,Lagos,Referral,Completed,3,14900,6900,0,Yes,4,Birthday
+LLH-00731,2025-10-23,LLH-C0148,D01,Decor,Woven Wall Basket,Oyo,Website,Completed,1,13700,7300,0.1,No,,Birthday
+LLH-01126,2025-10-23,LLH-C0490,D02,Decor,Ceramic Flower Vase,Oyo,WhatsApp,Completed,1,15400,8400,0.1,Yes,5,Housewarming
+LLH-00188,2025-10-24,LLH-C0399,A03,Aromas,Room Spray Duo,Ogun,Instagram,Completed,2,11300,5200,0,No,4,Everyday
+LLH-00938,2025-10-24,LLH-C0460,B01,Textiles,Cotton Throw Blanket,Lagos,WhatsApp,Returned,1,24500,14000,0,No,,Everyday
+LLH-00954,2025-10-24,LLH-C0275,A02,Aromas,Essential Oil Diffuser,Osun,Website,Completed,1,26600,14800,0,Yes,5,Anniversary
+LLH-00069,2025-10-25,LLH-C0377,B01,Textiles,Cotton Throw Blanket,Enugu,WhatsApp,Completed,1,24500,14000,0.1,No,4,Birthday
+LLH-00825,2025-10-25,LLH-C0270,T02,Tableware,Serving Tray Set,Lagos,WhatsApp,Completed,1,24900,13300,0,No,,Birthday
+LLH-00394,2025-10-27,LLH-C0217,L01,Lighting,Pendant Lantern,Abuja,Instagram,Cancelled,1,28500,15500,0,No,,Everyday
+LLH-00858,2025-10-27,LLH-C0131,L02,Lighting,Ambient Table Lamp,Lagos,Walk-in,Returned,1,22500,12300,0,Yes,,Wedding
+LLH-00319,2025-10-28,LLH-C0325,T02,Tableware,Serving Tray Set,Enugu,Referral,Completed,2,24900,13300,0.05,Yes,,Housewarming
+LLH-00366,2025-10-28,LLH-C0503,D02,Decor,Ceramic Flower Vase,Oyo,Walk-in,Cancelled,1,15400,8400,0,Yes,,Anniversary
+LLH-00276,2025-10-30,LLH-C0181,G01,Gift Sets,Celebration Gift Box,Rivers,WhatsApp,Completed,2,31500,17900,0.05,Yes,5,Housewarming
+LLH-01128,2025-10-31,LLH-C0185,B01,Textiles,Cotton Throw Blanket,Enugu,Instagram,Completed,1,24500,14000,0.05,No,4,Everyday
+LLH-00272,2025-11-01,LLH-C0477,A01,Aromas,Scented Candle Trio,Lagos,Marketplace,Completed,1,14900,6900,0.1,No,4,Wedding
+LLH-00680,2025-11-01,LLH-C0483,A02,Aromas,Essential Oil Diffuser,Osun,Referral,Completed,1,26600,14800,0.1,No,,Housewarming
+LLH-00002,2025-11-03,LLH-C0163,L01,Lighting,Pendant Lantern,Lagos,Marketplace,Cancelled,1,28500,15500,0,No,,Everyday
+LLH-00531,2025-11-03,LLH-C0335,D02,Decor,Ceramic Flower Vase,Kwara,Instagram,Cancelled,1,15400,8400,0.1,No,,Everyday
+LLH-01335,2025-11-03,LLH-C0327,G02,Gift Sets,Housewarming Bundle,Enugu,Website,Completed,1,44500,25100,0,Yes,4,Housewarming
+LLH-00706,2025-11-04,LLH-C0376,G03,Gift Sets,Thank You Gift Set,Kwara,Website,Completed,1,21400,11700,0,Yes,,Anniversary
+LLH-00724,2025-11-04,LLH-C0270,B03,Textiles,Linen Table Runner,Lagos,Instagram,Completed,1,12200,6900,0,No,,Everyday
+LLH-00795,2025-11-04,LLH-C0240,D03,Decor,Handcrafted Wall Frame,Oyo,WhatsApp,Completed,1,17500,9600,0,Yes,,Anniversary
+LLH-01393,2025-11-05,LLH-C0161,D01,Decor,Woven Wall Basket,Rivers,Instagram,Completed,2,13700,7300,0.15,No,4,Birthday
+LLH-00037,2025-11-06,LLH-C0307,T02,Tableware,Serving Tray Set,Lagos,Referral,Completed,2,24900,13300,0,Yes,2,Housewarming
+LLH-00644,2025-11-06,LLH-C0288,B03,Textiles,Linen Table Runner,Ogun,Instagram,Completed,1,12200,6900,0,No,5,Everyday
+LLH-00969,2025-11-06,LLH-C0111,A03,Aromas,Room Spray Duo,Kwara,Website,Completed,1,11300,5200,0.05,No,,Everyday
+LLH-01280,2025-11-06,LLH-C0332,B02,Textiles,Premium Cushion Set,Lagos,WhatsApp,Completed,1,19500,10500,0,No,5,Anniversary
+LLH-00224,2025-11-07,LLH-C0256,A02,Aromas,Essential Oil Diffuser,Enugu,Referral,Completed,1,26600,14800,0,No,,Birthday
+LLH-00697,2025-11-07,LLH-C0072,B03,Textiles,Linen Table Runner,Rivers,WhatsApp,Completed,3,12200,6900,0,Yes,5,Housewarming
+LLH-00786,2025-11-07,LLH-C0064,L03,Lighting,Minimalist Desk Light,Oyo,WhatsApp,Completed,1,18800,10200,0,No,4,Everyday
+LLH-01386,2025-11-07,LLH-C0324,B03,Textiles,Linen Table Runner,Kwara,Marketplace,Completed,3,12200,6900,0.15,No,,Everyday
+LLH-01420,2025-11-07,LLH-C0293,T02,Tableware,Serving Tray Set,Abuja,Website,Completed,1,24900,13300,0,No,4,Housewarming
+LLH-00500,2025-11-08,LLH-C0124,B03,Textiles,Linen Table Runner,Lagos,WhatsApp,Completed,2,12200,6900,0.1,No,4,Everyday
+LLH-01435,2025-11-09,LLH-C0398,G01,Gift Sets,Celebration Gift Box,Ogun,Instagram,Completed,1,31500,17900,0,Yes,4,Everyday
+LLH-00452,2025-11-11,LLH-C0380,G02,Gift Sets,Housewarming Bundle,Enugu,WhatsApp,Completed,1,44500,25100,0.1,Yes,,Everyday
+LLH-00637,2025-11-11,LLH-C0065,G02,Gift Sets,Housewarming Bundle,Lagos,Walk-in,Completed,1,44500,25100,0,Yes,4,Housewarming
+LLH-00738,2025-11-11,LLH-C0367,B03,Textiles,Linen Table Runner,Abuja,Website,Completed,1,12200,6900,0,Yes,3,Anniversary
+LLH-00817,2025-11-11,LLH-C0110,B01,Textiles,Cotton Throw Blanket,Rivers,Referral,Completed,2,24500,14000,0.1,No,,Wedding
+LLH-00975,2025-11-11,LLH-C0174,D01,Decor,Woven Wall Basket,Rivers,Instagram,Completed,2,13700,7300,0,No,5,Everyday
+LLH-01005,2025-11-11,LLH-C0191,D01,Decor,Woven Wall Basket,Lagos,Referral,Completed,2,13700,7300,0.1,No,,Housewarming
+LLH-00109,2025-11-12,LLH-C0184,L03,Lighting,Minimalist Desk Light,Rivers,Website,Completed,1,18800,10200,0,Yes,3,Housewarming
+LLH-00585,2025-11-12,LLH-C0447,D01,Decor,Woven Wall Basket,Lagos,WhatsApp,Completed,2,13700,7300,0.05,No,4,Birthday
+LLH-00755,2025-11-12,LLH-C0173,B03,Textiles,Linen Table Runner,Lagos,Instagram,Cancelled,1,12200,6900,0,No,,Housewarming
+LLH-00843,2025-11-14,LLH-C0321,T02,Tableware,Serving Tray Set,Lagos,Walk-in,Completed,3,24900,13300,0,No,5,Birthday
+LLH-00902,2025-11-14,LLH-C0354,D01,Decor,Woven Wall Basket,Abuja,Website,Cancelled,1,13700,7300,0,No,,Everyday
+LLH-00910,2025-11-14,LLH-C0364,T02,Tableware,Serving Tray Set,Enugu,Referral,Cancelled,2,24900,13300,0.1,No,,Birthday
+LLH-01328,2025-11-14,LLH-C0043,G02,Gift Sets,Housewarming Bundle,Lagos,WhatsApp,Completed,1,44500,25100,0,Yes,,Birthday
+LLH-00262,2025-11-15,LLH-C0009,L01,Lighting,Pendant Lantern,Rivers,Website,Completed,1,28500,15500,0.15,No,5,Housewarming
+LLH-00986,2025-11-15,LLH-C0251,T03,Tableware,Dinner Plate Set,Oyo,Website,Completed,1,37900,21200,0,No,5,Everyday
+LLH-01004,2025-11-15,LLH-C0090,G03,Gift Sets,Thank You Gift Set,Rivers,WhatsApp,Completed,1,21400,11700,0,Yes,,Housewarming
+LLH-00014,2025-11-16,LLH-C0046,D01,Decor,Woven Wall Basket,Abuja,Marketplace,Completed,1,13700,7300,0.05,No,4,Housewarming
+LLH-00180,2025-11-16,LLH-C0449,D01,Decor,Woven Wall Basket,Kwara,Marketplace,Completed,1,13700,7300,0,Yes,5,Birthday
+LLH-00611,2025-11-16,LLH-C0324,A02,Aromas,Essential Oil Diffuser,Abuja,WhatsApp,Completed,1,26600,14800,0,No,5,Birthday
+LLH-01064,2025-11-17,LLH-C0350,D02,Decor,Ceramic Flower Vase,Oyo,Instagram,Returned,2,15400,8400,0,Yes,,Holiday
+LLH-01394,2025-11-17,LLH-C0220,L03,Lighting,Minimalist Desk Light,Lagos,Website,Returned,2,18800,10200,0,No,,Everyday
+LLH-00565,2025-11-18,LLH-C0325,B03,Textiles,Linen Table Runner,Abuja,Instagram,Completed,1,12200,6900,0,No,4,Everyday
+LLH-00422,2025-11-19,LLH-C0415,L03,Lighting,Minimalist Desk Light,Lagos,WhatsApp,Completed,2,18800,10200,0.1,No,3,Everyday
+LLH-01371,2025-11-19,LLH-C0502,L02,Lighting,Ambient Table Lamp,Osun,WhatsApp,Completed,2,22500,12300,0,No,,Housewarming
+LLH-01408,2025-11-19,LLH-C0310,B03,Textiles,Linen Table Runner,Rivers,WhatsApp,Completed,4,12200,6900,0.1,Yes,4,Wedding
+LLH-01105,2025-11-20,LLH-C0358,L01,Lighting,Pendant Lantern,Abuja,Referral,Completed,3,28500,15500,0.1,No,5,Everyday
+LLH-01444,2025-11-20,LLH-C0131,L01,Lighting,Pendant Lantern,Osun,Website,Completed,1,28500,15500,0.05,Yes,4,Birthday
+LLH-00125,2025-11-21,LLH-C0261,B01,Textiles,Cotton Throw Blanket,Rivers,Referral,Completed,1,24500,14000,0,No,,Everyday
+LLH-00335,2025-11-21,LLH-C0354,A02,Aromas,Essential Oil Diffuser,Lagos,Website,Completed,1,26600,14800,0.05,Yes,,Housewarming
+LLH-00160,2025-11-22,LLH-C0483,A03,Aromas,Room Spray Duo,Kwara,Referral,Returned,1,11300,5200,0,No,,Anniversary
+LLH-00840,2025-11-22,LLH-C0043,G03,Gift Sets,Thank You Gift Set,Rivers,Instagram,Completed,1,21400,11700,0.05,Yes,5,Holiday
+LLH-01028,2025-11-22,LLH-C0486,L01,Lighting,Pendant Lantern,Lagos,Instagram,Completed,2,28500,15500,0.05,No,4,Everyday
+LLH-00483,2025-11-23,LLH-C0128,T03,Tableware,Dinner Plate Set,Oyo,Referral,Returned,2,37900,21200,0.15,No,,Birthday
+LLH-01143,2025-11-24,LLH-C0252,B02,Textiles,Premium Cushion Set,Abuja,WhatsApp,Completed,1,19500,10500,0,No,4,Anniversary
+LLH-01187,2025-11-24,LLH-C0394,D01,Decor,Woven Wall Basket,Kwara,Website,Completed,1,13700,7300,0.05,No,4,Everyday
+LLH-01206,2025-11-24,LLH-C0239,T01,Tableware,Stoneware Mug Pair,Lagos,WhatsApp,Cancelled,1,16900,9200,0.05,No,,Everyday
+LLH-00362,2025-11-25,LLH-C0326,L02,Lighting,Ambient Table Lamp,Oyo,Walk-in,Completed,3,22500,12300,0.1,No,4,Birthday
+LLH-00619,2025-11-25,LLH-C0256,B02,Textiles,Premium Cushion Set,Lagos,Website,Completed,4,19500,10500,0.1,No,4,Everyday
+LLH-01057,2025-11-25,LLH-C0047,G02,Gift Sets,Housewarming Bundle,Lagos,Website,Returned,3,44500,25100,0,Yes,,Holiday
+LLH-00445,2025-11-26,LLH-C0142,G02,Gift Sets,Housewarming Bundle,Abuja,Marketplace,Completed,1,44500,25100,0.05,Yes,4,Everyday
+LLH-00505,2025-11-26,LLH-C0239,G01,Gift Sets,Celebration Gift Box,Oyo,Not Provided,Completed,1,31500,17900,0,Yes,5,Housewarming
+LLH-01419,2025-11-26,LLH-C0051,G02,Gift Sets,Housewarming Bundle,Rivers,WhatsApp,Completed,1,44500,25100,0.05,Yes,4,Birthday
+LLH-01167,2025-11-27,LLH-C0028,G02,Gift Sets,Housewarming Bundle,Rivers,Instagram,Returned,1,44500,25100,0,Yes,,Everyday
+LLH-00381,2025-11-28,LLH-C0350,L01,Lighting,Pendant Lantern,Kwara,WhatsApp,Completed,1,28500,15500,0,Yes,5,Birthday
+LLH-00783,2025-11-28,LLH-C0074,B02,Textiles,Premium Cushion Set,Osun,Walk-in,Completed,1,19500,10500,0.05,No,,Everyday
+LLH-00589,2025-11-29,LLH-C0321,A02,Aromas,Essential Oil Diffuser,Lagos,Instagram,Completed,1,26600,14800,0,No,3,Everyday
+LLH-01136,2025-11-29,LLH-C0307,L03,Lighting,Minimalist Desk Light,Rivers,Website,Returned,2,18800,10200,0,Yes,,Wedding
+LLH-01158,2025-11-29,LLH-C0198,L01,Lighting,Pendant Lantern,Abuja,Website,Completed,1,28500,15500,0.1,No,4,Everyday
+LLH-01160,2025-11-29,LLH-C0074,D02,Decor,Ceramic Flower Vase,Rivers,WhatsApp,Completed,1,15400,8400,0,No,4,Everyday
+LLH-01163,2025-11-29,LLH-C0131,D01,Decor,Woven Wall Basket,Osun,Website,Completed,1,13700,7300,0,No,,Housewarming
+LLH-01402,2025-11-29,LLH-C0461,G02,Gift Sets,Housewarming Bundle,Kwara,WhatsApp,Completed,2,44500,25100,0.1,Yes,3,Everyday
+LLH-00489,2025-11-30,LLH-C0103,G02,Gift Sets,Housewarming Bundle,Enugu,WhatsApp,Completed,2,44500,25100,0.15,Yes,,Everyday
+LLH-00007,2025-12-01,LLH-C0079,D02,Decor,Ceramic Flower Vase,Rivers,Website,Completed,1,15400,8400,0.05,No,4,Everyday
+LLH-00240,2025-12-01,LLH-C0051,T03,Tableware,Dinner Plate Set,Rivers,Referral,Completed,3,37900,21200,0.05,No,5,Everyday
+LLH-00890,2025-12-01,LLH-C0026,G02,Gift Sets,Housewarming Bundle,Osun,Instagram,Returned,1,44500,25100,0.05,Yes,,Everyday
+LLH-00922,2025-12-01,LLH-C0374,A01,Aromas,Scented Candle Trio,Lagos,Website,Completed,1,14900,6900,0.15,Yes,2,Housewarming
+LLH-01219,2025-12-01,LLH-C0347,B02,Textiles,Premium Cushion Set,Osun,Walk-in,Completed,2,19500,10500,0,No,3,Everyday
+LLH-01442,2025-12-01,LLH-C0237,D01,Decor,Woven Wall Basket,Oyo,WhatsApp,Completed,1,13700,7300,0,Yes,5,Birthday
+LLH-00827,2025-12-02,LLH-C0287,D02,Decor,Ceramic Flower Vase,Abuja,Website,Completed,2,15400,8400,0,No,,Everyday
+LLH-00145,2025-12-03,LLH-C0204,A02,Aromas,Essential Oil Diffuser,Osun,Instagram,Completed,1,26600,14800,0,Yes,4,Birthday
+LLH-00635,2025-12-03,LLH-C0094,T03,Tableware,Dinner Plate Set,Abuja,Website,Completed,1,37900,21200,0.05,No,4,Everyday
+LLH-01262,2025-12-03,LLH-C0447,B01,Textiles,Cotton Throw Blanket,Osun,Website,Returned,1,24500,14000,0,No,,Everyday
+LLH-01448,2025-12-03,LLH-C0043,D03,Decor,Handcrafted Wall Frame,Ogun,Marketplace,Completed,2,17500,9600,0,No,4,Everyday
+LLH-00142,2025-12-04,LLH-C0025,G02,Gift Sets,Housewarming Bundle,Oyo,Website,Completed,1,44500,25100,0,Yes,,Holiday
+LLH-00712,2025-12-04,LLH-C0262,D03,Decor,Handcrafted Wall Frame,Kwara,Instagram,Completed,1,17500,9600,0.1,No,4,Holiday
+LLH-01165,2025-12-04,LLH-C0302,B03,Textiles,Linen Table Runner,Oyo,WhatsApp,Completed,1,12200,6900,0,Yes,2,Holiday
+LLH-00119,2025-12-05,LLH-C0429,G01,Gift Sets,Celebration Gift Box,Rivers,Walk-in,Completed,1,31500,17900,0,Yes,,Everyday
+LLH-00612,2025-12-05,LLH-C0444,D01,Decor,Woven Wall Basket,Ogun,Website,Completed,1,13700,7300,0,No,3,Birthday
+LLH-00620,2025-12-05,LLH-C0256,L02,Lighting,Ambient Table Lamp,Enugu,Marketplace,Completed,1,22500,12300,0,No,,Birthday
+LLH-00650,2025-12-05,LLH-C0270,G02,Gift Sets,Housewarming Bundle,Lagos,Instagram,Completed,1,44500,25100,0.05,Yes,4,Everyday
+LLH-01079,2025-12-05,LLH-C0254,B01,Textiles,Cotton Throw Blanket,Oyo,Website,Completed,2,24500,14000,0.15,Yes,5,Wedding
+LLH-00073,2025-12-06,LLH-C0368,B02,Textiles,Premium Cushion Set,Not Provided,WhatsApp,Completed,1,19500,10500,0,No,4,Housewarming
+LLH-00498,2025-12-06,LLH-C0278,B03,Textiles,Linen Table Runner,Abuja,Website,Completed,1,12200,6900,0.1,No,4,Birthday
+LLH-00707,2025-12-06,LLH-C0167,B02,Textiles,Premium Cushion Set,Lagos,Not Provided,Completed,2,19500,10500,0.05,No,,Everyday
+LLH-00805,2025-12-06,LLH-C0506,B02,Textiles,Premium Cushion Set,Lagos,Website,Completed,1,19500,10500,0,No,4,Anniversary
+LLH-01287,2025-12-06,LLH-C0503,B03,Textiles,Linen Table Runner,Abuja,Walk-in,Cancelled,1,12200,6900,0,No,,Everyday
+LLH-00897,2025-12-07,LLH-C0483,L03,Lighting,Minimalist Desk Light,Ogun,Website,Completed,1,18800,10200,0,No,3,Everyday
+LLH-00695,2025-12-08,LLH-C0389,L03,Lighting,Minimalist Desk Light,Oyo,Walk-in,Completed,1,18800,10200,0,No,2,Everyday
+LLH-00350,2025-12-09,LLH-C0150,A01,Aromas,Scented Candle Trio,Lagos,Walk-in,Completed,1,14900,6900,0.05,No,,Everyday
+LLH-00580,2025-12-09,LLH-C0213,G01,Gift Sets,Celebration Gift Box,Kwara,Referral,Completed,1,31500,17900,0,Yes,4,Birthday
+LLH-01049,2025-12-09,LLH-C0483,D03,Decor,Handcrafted Wall Frame,Abuja,Website,Completed,1,17500,9600,0,Yes,,Birthday
+LLH-01275,2025-12-09,LLH-C0352,G01,Gift Sets,Celebration Gift Box,Osun,Instagram,Completed,1,31500,17900,0,Yes,,Everyday
+LLH-00822,2025-12-10,LLH-C0100,G02,Gift Sets,Housewarming Bundle,Enugu,Referral,Completed,4,44500,25100,0.15,Yes,5,Birthday
+LLH-01278,2025-12-10,LLH-C0268,G01,Gift Sets,Celebration Gift Box,Ogun,Referral,Cancelled,1,31500,17900,0.1,Yes,,Housewarming
+LLH-01003,2025-12-11,LLH-C0483,T02,Tableware,Serving Tray Set,Oyo,Website,Completed,1,24900,13300,0,No,5,Housewarming
+LLH-00446,2025-12-12,LLH-C0015,G02,Gift Sets,Housewarming Bundle,Osun,WhatsApp,Completed,1,44500,25100,0,Yes,2,Birthday
+LLH-01090,2025-12-12,LLH-C0267,D03,Decor,Handcrafted Wall Frame,Enugu,WhatsApp,Completed,1,17500,9600,0,No,4,Everyday
+LLH-01365,2025-12-12,LLH-C0362,G03,Gift Sets,Thank You Gift Set,Ogun,Referral,Returned,1,21400,11700,0,Yes,,Everyday
+LLH-01446,2025-12-12,LLH-C0464,T01,Tableware,Stoneware Mug Pair,Abuja,Referral,Completed,1,16900,9200,0.05,Yes,,Birthday
+LLH-00321,2025-12-13,LLH-C0392,T02,Tableware,Serving Tray Set,Oyo,Website,Completed,2,24900,13300,0,No,4,Housewarming
+LLH-00338,2025-12-13,LLH-C0110,T01,Tableware,Stoneware Mug Pair,Lagos,WhatsApp,Completed,1,16900,9200,0.15,No,5,Everyday
+LLH-00462,2025-12-13,LLH-C0139,B01,Textiles,Cotton Throw Blanket,Oyo,WhatsApp,Completed,1,24500,14000,0,No,5,Everyday
+LLH-00499,2025-12-13,LLH-C0132,G01,Gift Sets,Celebration Gift Box,Lagos,Instagram,Completed,1,31500,17900,0.15,Yes,5,Wedding
+LLH-00682,2025-12-13,LLH-C0081,B01,Textiles,Cotton Throw Blanket,Lagos,Referral,Completed,1,24500,14000,0.1,No,,Anniversary
+LLH-00953,2025-12-13,LLH-C0207,B03,Textiles,Linen Table Runner,Kwara,Instagram,Cancelled,1,12200,6900,0,No,,Everyday
+LLH-01201,2025-12-14,LLH-C0465,B03,Textiles,Linen Table Runner,Rivers,WhatsApp,Completed,2,12200,6900,0.1,Yes,5,Housewarming
+LLH-00103,2025-12-15,LLH-C0087,T01,Tableware,Stoneware Mug Pair,Lagos,Instagram,Completed,1,16900,9200,0.15,No,,Everyday
+LLH-00374,2025-12-15,LLH-C0360,T02,Tableware,Serving Tray Set,Osun,Referral,Completed,1,24900,13300,0.05,No,5,Everyday
+LLH-00818,2025-12-15,LLH-C0466,T01,Tableware,Stoneware Mug Pair,Abuja,Walk-in,Completed,1,16900,9200,0.15,No,5,Anniversary
+LLH-00990,2025-12-16,LLH-C0091,T03,Tableware,Dinner Plate Set,Lagos,Referral,Completed,2,37900,21200,0.05,Yes,4,Housewarming
+LLH-01352,2025-12-16,LLH-C0158,G01,Gift Sets,Celebration Gift Box,Lagos,Website,Completed,1,31500,17900,0,Yes,4,Birthday
+LLH-01363,2025-12-16,LLH-C0367,L01,Lighting,Pendant Lantern,Abuja,Walk-in,Completed,2,28500,15500,0.05,No,4,Everyday
+LLH-00107,2025-12-17,LLH-C0294,L02,Lighting,Ambient Table Lamp,Lagos,Walk-in,Completed,1,22500,12300,0,No,,Everyday
+LLH-00431,2025-12-17,LLH-C0020,A01,Aromas,Scented Candle Trio,Abuja,Website,Completed,1,14900,6900,0,No,,Wedding
+LLH-00604,2025-12-17,LLH-C0197,T01,Tableware,Stoneware Mug Pair,Rivers,Instagram,Completed,1,16900,9200,0,No,5,Everyday
+LLH-00994,2025-12-18,LLH-C0251,T02,Tableware,Serving Tray Set,Osun,Referral,Completed,1,24900,13300,0.15,No,5,Everyday
+LLH-00025,2025-12-19,LLH-C0272,G03,Gift Sets,Thank You Gift Set,Lagos,Walk-in,Completed,1,21400,11700,0.05,Yes,5,Everyday
+LLH-00082,2025-12-19,LLH-C0063,T02,Tableware,Serving Tray Set,Abuja,Referral,Completed,1,24900,13300,0,No,4,Everyday
+LLH-00184,2025-12-19,LLH-C0122,G03,Gift Sets,Thank You Gift Set,Oyo,Referral,Completed,1,21400,11700,0.05,Yes,4,Everyday
+LLH-01445,2025-12-19,LLH-C0108,L03,Lighting,Minimalist Desk Light,Lagos,Website,Completed,1,18800,10200,0.05,Yes,3,Anniversary
+LLH-00065,2025-12-20,LLH-C0188,L03,Lighting,Minimalist Desk Light,Enugu,Website,Cancelled,3,18800,10200,0.1,Yes,,Housewarming
+LLH-00326,2025-12-20,LLH-C0254,T02,Tableware,Serving Tray Set,Lagos,Instagram,Completed,1,24900,13300,0,Yes,,Birthday
+LLH-00808,2025-12-20,LLH-C0383,L02,Lighting,Ambient Table Lamp,Osun,Not Provided,Returned,1,22500,12300,0,Yes,,Housewarming
+LLH-00848,2025-12-20,LLH-C0059,D02,Decor,Ceramic Flower Vase,Osun,Walk-in,Completed,2,15400,8400,0.15,No,,Wedding
+LLH-00493,2025-12-21,LLH-C0502,G02,Gift Sets,Housewarming Bundle,Abuja,Instagram,Cancelled,1,44500,25100,0.1,Yes,,Housewarming
+LLH-00832,2025-12-21,LLH-C0135,D02,Decor,Ceramic Flower Vase,Abuja,Referral,Completed,2,15400,8400,0.05,Yes,3,Wedding
+LLH-00998,2025-12-21,LLH-C0225,T02,Tableware,Serving Tray Set,Oyo,Website,Completed,3,24900,13300,0.1,No,5,Wedding
+LLH-01198,2025-12-21,LLH-C0418,B02,Textiles,Premium Cushion Set,Osun,Website,Completed,1,19500,10500,0,No,4,Everyday
+LLH-00076,2025-12-22,LLH-C0305,G02,Gift Sets,Housewarming Bundle,Oyo,Referral,Completed,1,44500,25100,0,Yes,4,Everyday
+LLH-00873,2025-12-22,LLH-C0259,G03,Gift Sets,Thank You Gift Set,Lagos,Website,Completed,1,21400,11700,0.1,Yes,4,Everyday
+LLH-01023,2025-12-22,LLH-C0347,G02,Gift Sets,Housewarming Bundle,Rivers,Instagram,Cancelled,1,44500,25100,0.1,Yes,,Everyday
+LLH-01147,2025-12-22,LLH-C0035,L03,Lighting,Minimalist Desk Light,Lagos,Walk-in,Completed,1,18800,10200,0.15,No,4,Everyday
+LLH-00400,2025-12-23,LLH-C0416,G02,Gift Sets,Housewarming Bundle,Abuja,Instagram,Completed,1,44500,25100,0,Yes,,Everyday
+LLH-00434,2025-12-23,LLH-C0082,A03,Aromas,Room Spray Duo,Enugu,Instagram,Completed,1,11300,5200,0.05,No,5,Anniversary
+LLH-01114,2025-12-24,LLH-C0094,T01,Tableware,Stoneware Mug Pair,Enugu,WhatsApp,Completed,1,16900,9200,0,No,5,Everyday
+LLH-00212,2025-12-25,LLH-C0304,D03,Decor,Handcrafted Wall Frame,Lagos,Referral,Completed,1,17500,9600,0.1,No,4,Everyday
+LLH-00464,2025-12-25,LLH-C0424,B02,Textiles,Premium Cushion Set,Abuja,Marketplace,Cancelled,1,19500,10500,0,No,,Everyday
+LLH-01010,2025-12-25,LLH-C0041,T03,Tableware,Dinner Plate Set,Lagos,Not Provided,Returned,1,37900,21200,0.05,No,,Everyday
+LLH-01166,2025-12-25,LLH-C0110,G02,Gift Sets,Housewarming Bundle,Abuja,WhatsApp,Completed,2,44500,25100,0,Yes,5,Housewarming
+LLH-01225,2025-12-25,LLH-C0259,L03,Lighting,Minimalist Desk Light,Abuja,Instagram,Completed,1,18800,10200,0.15,No,,Everyday
+LLH-00705,2025-12-27,LLH-C0164,D03,Decor,Handcrafted Wall Frame,Lagos,Walk-in,Completed,2,17500,9600,0,No,4,Housewarming
+LLH-00058,2025-12-28,LLH-C0149,D03,Decor,Handcrafted Wall Frame,Lagos,Website,Completed,1,17500,9600,0,Yes,3,Birthday
+LLH-00067,2025-12-29,LLH-C0503,D01,Decor,Woven Wall Basket,Lagos,Website,Completed,1,13700,7300,0,No,4,Anniversary
+LLH-01103,2025-12-29,LLH-C0347,D01,Decor,Woven Wall Basket,Abuja,Website,Completed,1,13700,7300,0.15,No,,Everyday
+LLH-00297,2025-12-30,LLH-C0138,D01,Decor,Woven Wall Basket,Rivers,Instagram,Completed,2,13700,7300,0.05,No,4,Everyday
+LLH-00228,2025-12-31,LLH-C0244,L01,Lighting,Pendant Lantern,Ogun,WhatsApp,Completed,1,28500,15500,0,No,4,Anniversary
+LLH-01113,2025-12-31,LLH-C0110,D01,Decor,Woven Wall Basket,Oyo,Instagram,Completed,1,13700,7300,0,No,4,Everyday
+LLH-00179,2026-01-01,LLH-C0074,G03,Gift Sets,Thank You Gift Set,Oyo,Referral,Completed,1,21400,11700,0.15,Yes,5,Housewarming
+LLH-00420,2026-01-01,LLH-C0251,G03,Gift Sets,Thank You Gift Set,Lagos,Website,Completed,1,21400,11700,0.1,Yes,4,Everyday
+LLH-00100,2026-01-02,LLH-C0315,T01,Tableware,Stoneware Mug Pair,Lagos,Instagram,Completed,2,16900,9200,0.1,No,5,Everyday
+LLH-00930,2026-01-02,LLH-C0375,L02,Lighting,Ambient Table Lamp,Lagos,Instagram,Completed,1,22500,12300,0.1,No,3,Anniversary
+LLH-00951,2026-01-02,LLH-C0270,B01,Textiles,Cotton Throw Blanket,Lagos,Referral,Completed,1,24500,14000,0,No,,Birthday
+LLH-01056,2026-01-02,LLH-C0462,T02,Tableware,Serving Tray Set,Rivers,WhatsApp,Returned,1,24900,13300,0.1,No,,Everyday
+LLH-01302,2026-01-02,LLH-C0047,L01,Lighting,Pendant Lantern,Kwara,Website,Returned,1,28500,15500,0,No,,Birthday
+LLH-00328,2026-01-03,LLH-C0155,D03,Decor,Handcrafted Wall Frame,Kwara,Instagram,Completed,1,17500,9600,0,Yes,,Housewarming
+LLH-01369,2026-01-03,LLH-C0412,T01,Tableware,Stoneware Mug Pair,Enugu,Website,Completed,1,16900,9200,0,No,,Everyday
+LLH-00122,2026-01-04,LLH-C0423,D03,Decor,Handcrafted Wall Frame,Rivers,Instagram,Completed,1,17500,9600,0.05,No,5,Birthday
+LLH-00036,2026-01-05,LLH-C0080,G01,Gift Sets,Celebration Gift Box,Abuja,Walk-in,Completed,2,31500,17900,0.05,Yes,3,Everyday
+LLH-00325,2026-01-05,LLH-C0262,T01,Tableware,Stoneware Mug Pair,Lagos,Instagram,Completed,1,16900,9200,0,No,4,Everyday
+LLH-01195,2026-01-05,LLH-C0451,G01,Gift Sets,Celebration Gift Box,Oyo,Walk-in,Completed,2,31500,17900,0,Yes,2,Wedding
+LLH-00375,2026-01-06,LLH-C0204,D01,Decor,Woven Wall Basket,Lagos,Instagram,Completed,1,13700,7300,0,Yes,,Wedding
+LLH-00550,2026-01-06,LLH-C0208,G02,Gift Sets,Housewarming Bundle,Oyo,WhatsApp,Completed,1,44500,25100,0,Yes,5,Anniversary
+LLH-01111,2026-01-07,LLH-C0251,B01,Textiles,Cotton Throw Blanket,Rivers,Not Provided,Returned,1,24500,14000,0,No,,Everyday
+LLH-01447,2026-01-07,LLH-C0495,A02,Aromas,Essential Oil Diffuser,Ogun,Website,Completed,2,26600,14800,0.05,Yes,4,Anniversary
+LLH-01102,2026-01-09,LLH-C0251,G02,Gift Sets,Housewarming Bundle,Lagos,Referral,Returned,1,44500,25100,0.05,Yes,,Birthday
+LLH-01361,2026-01-09,LLH-C0047,T02,Tableware,Serving Tray Set,Kwara,Walk-in,Cancelled,2,24900,13300,0,No,,Everyday
+LLH-00113,2026-01-10,LLH-C0448,T02,Tableware,Serving Tray Set,Kwara,Instagram,Returned,1,24900,13300,0.15,Yes,,Anniversary
+LLH-00508,2026-01-10,LLH-C0304,D03,Decor,Handcrafted Wall Frame,Oyo,WhatsApp,Completed,1,17500,9600,0.05,No,,Birthday
+LLH-00948,2026-01-10,LLH-C0356,D02,Decor,Ceramic Flower Vase,Lagos,Walk-in,Cancelled,2,15400,8400,0.1,Yes,,Birthday
+LLH-01041,2026-01-10,LLH-C0302,L03,Lighting,Minimalist Desk Light,Kwara,Website,Completed,1,18800,10200,0.1,No,3,Everyday
+LLH-01042,2026-01-10,LLH-C0513,T03,Tableware,Dinner Plate Set,Ogun,Referral,Completed,1,37900,21200,0,No,3,Everyday
+LLH-00935,2026-01-11,LLH-C0044,D01,Decor,Woven Wall Basket,Enugu,Website,Completed,1,13700,7300,0.1,No,5,Birthday
+LLH-01449,2026-01-11,LLH-C0229,G01,Gift Sets,Celebration Gift Box,Lagos,WhatsApp,Completed,1,31500,17900,0,Yes,5,Birthday
+LLH-00616,2026-01-12,LLH-C0274,A03,Aromas,Room Spray Duo,Ogun,Walk-in,Returned,2,11300,5200,0,Yes,,Housewarming
+LLH-00156,2026-01-13,LLH-C0217,T02,Tableware,Serving Tray Set,Rivers,Instagram,Completed,2,24900,13300,0.15,No,5,Everyday
+LLH-00474,2026-01-13,LLH-C0136,B02,Textiles,Premium Cushion Set,Rivers,Instagram,Returned,1,19500,10500,0.1,No,,Everyday
+LLH-00976,2026-01-13,LLH-C0001,G01,Gift Sets,Celebration Gift Box,Ogun,Referral,Completed,1,31500,17900,0.1,Yes,4,Birthday
+LLH-00197,2026-01-14,LLH-C0502,B03,Textiles,Linen Table Runner,Rivers,Website,Completed,1,12200,6900,0,Yes,,Housewarming
+LLH-00543,2026-01-14,LLH-C0316,D02,Decor,Ceramic Flower Vase,Abuja,WhatsApp,Completed,2,15400,8400,0.05,No,,Everyday
+LLH-00568,2026-01-14,LLH-C0350,D02,Decor,Ceramic Flower Vase,Lagos,Website,Cancelled,2,15400,8400,0.15,No,,Anniversary
+LLH-01291,2026-01-14,LLH-C0135,L02,Lighting,Ambient Table Lamp,Abuja,Website,Completed,1,22500,12300,0,Yes,4,Wedding
+LLH-01312,2026-01-14,LLH-C0259,A02,Aromas,Essential Oil Diffuser,Oyo,WhatsApp,Completed,1,26600,14800,0,Yes,5,Housewarming
+LLH-01315,2026-01-14,LLH-C0487,B01,Textiles,Cotton Throw Blanket,Osun,Referral,Returned,1,24500,14000,0,Yes,,Birthday
+LLH-00639,2026-01-15,LLH-C0483,G01,Gift Sets,Celebration Gift Box,Ogun,Instagram,Completed,3,31500,17900,0.1,Yes,2,Holiday
+LLH-01296,2026-01-15,LLH-C0079,A01,Aromas,Scented Candle Trio,Rivers,Walk-in,Completed,1,14900,6900,0.1,No,,Everyday
+LLH-00567,2026-01-16,LLH-C0251,B02,Textiles,Premium Cushion Set,Lagos,Instagram,Completed,1,19500,10500,0.1,No,3,Everyday
+LLH-00686,2026-01-16,LLH-C0492,G03,Gift Sets,Thank You Gift Set,Ogun,Referral,Completed,1,21400,11700,0.1,Yes,4,Everyday
+LLH-00309,2026-01-17,LLH-C0276,T01,Tableware,Stoneware Mug Pair,Lagos,Marketplace,Completed,1,16900,9200,0,No,2,Everyday
+LLH-00128,2026-01-18,LLH-C0203,T03,Tableware,Dinner Plate Set,Kwara,Referral,Completed,1,37900,21200,0.05,No,,Everyday
+LLH-00803,2026-01-19,LLH-C0483,A02,Aromas,Essential Oil Diffuser,Not Provided,Website,Completed,3,26600,14800,0,No,5,Anniversary
+LLH-00961,2026-01-19,LLH-C0004,G02,Gift Sets,Housewarming Bundle,Abuja,Walk-in,Completed,2,44500,25100,0.15,Yes,,Everyday
+LLH-01197,2026-01-19,LLH-C0064,T02,Tableware,Serving Tray Set,Abuja,Instagram,Completed,2,24900,13300,0.15,No,3,Everyday
+LLH-00368,2026-01-20,LLH-C0063,D03,Decor,Handcrafted Wall Frame,Abuja,Instagram,Completed,1,17500,9600,0.1,No,5,Holiday
+LLH-00222,2026-01-21,LLH-C0335,A02,Aromas,Essential Oil Diffuser,Kwara,Referral,Completed,4,26600,14800,0,No,3,Everyday
+LLH-01207,2026-01-21,LLH-C0355,T02,Tableware,Serving Tray Set,Lagos,Instagram,Completed,1,24900,13300,0,No,5,Anniversary
+LLH-00482,2026-01-22,LLH-C0375,B01,Textiles,Cotton Throw Blanket,Osun,Website,Completed,2,24500,14000,0.15,No,,Housewarming
+LLH-01061,2026-01-22,LLH-C0026,B03,Textiles,Linen Table Runner,Lagos,Walk-in,Completed,2,12200,6900,0,No,4,Birthday
+LLH-00395,2026-01-23,LLH-C0415,B03,Textiles,Linen Table Runner,Rivers,WhatsApp,Completed,2,12200,6900,0,No,5,Anniversary
+LLH-00754,2026-01-23,LLH-C0051,B03,Textiles,Linen Table Runner,Abuja,WhatsApp,Completed,1,12200,6900,0.05,Yes,5,Housewarming
+LLH-00622,2026-01-24,LLH-C0386,A01,Aromas,Scented Candle Trio,Lagos,WhatsApp,Completed,1,14900,6900,0.05,No,4,Everyday
+LLH-00815,2026-01-24,LLH-C0510,L02,Lighting,Ambient Table Lamp,Ogun,Instagram,Completed,1,22500,12300,0.1,No,4,Birthday
+LLH-00056,2026-01-25,LLH-C0213,B02,Textiles,Premium Cushion Set,Lagos,Website,Completed,1,19500,10500,0.05,Yes,5,Housewarming
+LLH-00118,2026-01-25,LLH-C0412,B02,Textiles,Premium Cushion Set,Abuja,Referral,Completed,1,19500,10500,0.05,Yes,,Birthday
+LLH-00151,2026-01-25,LLH-C0477,A02,Aromas,Essential Oil Diffuser,Rivers,Website,Returned,1,26600,14800,0.05,No,,Everyday
+LLH-00267,2026-01-25,LLH-C0051,G03,Gift Sets,Thank You Gift Set,Enugu,Referral,Completed,1,21400,11700,0,Yes,5,Housewarming
+LLH-01376,2026-01-25,LLH-C0141,L03,Lighting,Minimalist Desk Light,Abuja,Instagram,Cancelled,2,18800,10200,0,Yes,,Housewarming
+LLH-00936,2026-01-26,LLH-C0335,D01,Decor,Woven Wall Basket,Lagos,Instagram,Returned,1,13700,7300,0.05,No,,Everyday
+LLH-01146,2026-01-26,LLH-C0226,D03,Decor,Handcrafted Wall Frame,Lagos,Referral,Completed,1,17500,9600,0,No,,Everyday
+LLH-00473,2026-01-27,LLH-C0483,L03,Lighting,Minimalist Desk Light,Ogun,Marketplace,Completed,1,18800,10200,0.15,No,,Everyday
+LLH-00947,2026-01-27,LLH-C0462,A01,Aromas,Scented Candle Trio,Rivers,Walk-in,Completed,1,14900,6900,0,No,3,Everyday
+LLH-00033,2026-01-28,LLH-C0483,G02,Gift Sets,Housewarming Bundle,Enugu,WhatsApp,Completed,2,44500,25100,0.05,Yes,4,Everyday
+LLH-00687,2026-01-28,LLH-C0435,D01,Decor,Woven Wall Basket,Ogun,WhatsApp,Completed,1,13700,7300,0,No,5,Birthday
+LLH-00979,2026-01-28,LLH-C0475,B03,Textiles,Linen Table Runner,Lagos,WhatsApp,Completed,1,12200,6900,0,Yes,4,Housewarming
+LLH-01203,2026-01-28,LLH-C0344,L02,Lighting,Ambient Table Lamp,Lagos,Website,Completed,1,22500,12300,0.05,No,,Housewarming
+LLH-00068,2026-01-29,LLH-C0305,L03,Lighting,Minimalist Desk Light,Lagos,Website,Completed,3,18800,10200,0,No,5,Everyday
+LLH-00102,2026-01-29,LLH-C0363,A02,Aromas,Essential Oil Diffuser,Lagos,WhatsApp,Completed,1,26600,14800,0,No,4,Everyday
+LLH-00872,2026-01-29,LLH-C0238,G01,Gift Sets,Celebration Gift Box,Oyo,Instagram,Returned,1,31500,17900,0.1,Yes,,Housewarming
+LLH-00946,2026-01-29,LLH-C0126,T02,Tableware,Serving Tray Set,Lagos,WhatsApp,Completed,1,24900,13300,0,No,3,Birthday
+LLH-01286,2026-01-29,LLH-C0430,T02,Tableware,Serving Tray Set,Ogun,Instagram,Completed,1,24900,13300,0,Yes,,Anniversary
+LLH-00304,2026-01-30,LLH-C0139,A01,Aromas,Scented Candle Trio,Kwara,WhatsApp,Completed,2,14900,6900,0.05,No,4,Everyday
+LLH-00632,2026-01-30,LLH-C0431,L02,Lighting,Ambient Table Lamp,Ogun,Referral,Completed,4,22500,12300,0.05,Yes,5,Birthday
+LLH-00957,2026-01-30,LLH-C0259,D03,Decor,Handcrafted Wall Frame,Rivers,WhatsApp,Completed,1,17500,9600,0.05,Yes,4,Birthday
+LLH-00428,2026-01-31,LLH-C0504,G01,Gift Sets,Celebration Gift Box,Lagos,Referral,Returned,1,31500,17900,0,Yes,,Anniversary
+LLH-00955,2026-01-31,LLH-C0477,A01,Aromas,Scented Candle Trio,Lagos,Instagram,Completed,1,14900,6900,0,No,4,Everyday
+LLH-01279,2026-02-01,LLH-C0327,D02,Decor,Ceramic Flower Vase,Abuja,Instagram,Completed,2,15400,8400,0,Yes,3,Birthday
+LLH-00797,2026-02-02,LLH-C0291,B03,Textiles,Linen Table Runner,Lagos,Referral,Completed,1,12200,6900,0,No,,Everyday
+LLH-00846,2026-02-03,LLH-C0254,T03,Tableware,Dinner Plate Set,Lagos,Instagram,Returned,1,37900,21200,0.05,No,,Everyday
+LLH-00758,2026-02-04,LLH-C0384,B01,Textiles,Cotton Throw Blanket,Oyo,WhatsApp,Completed,1,24500,14000,0.05,No,4,Everyday
+LLH-01047,2026-02-04,LLH-C0052,T03,Tableware,Dinner Plate Set,Lagos,Referral,Completed,2,37900,21200,0,Yes,3,Holiday
+LLH-01180,2026-02-04,LLH-C0447,B02,Textiles,Premium Cushion Set,Lagos,WhatsApp,Completed,1,19500,10500,0.1,No,3,Everyday
+LLH-00006,2026-02-05,LLH-C0254,A03,Aromas,Room Spray Duo,Abuja,Referral,Completed,1,11300,5200,0,No,,Everyday
+LLH-01074,2026-02-05,LLH-C0430,D03,Decor,Handcrafted Wall Frame,Lagos,Walk-in,Completed,1,17500,9600,0.15,No,,Everyday
+LLH-00796,2026-02-06,LLH-C0129,T03,Tableware,Dinner Plate Set,Ogun,Instagram,Completed,2,37900,21200,0,No,4,Everyday
+LLH-01258,2026-02-06,LLH-C0483,G01,Gift Sets,Celebration Gift Box,Enugu,Instagram,Completed,1,31500,17900,0.15,Yes,4,Everyday
+LLH-00049,2026-02-07,LLH-C0250,A03,Aromas,Room Spray Duo,Abuja,Walk-in,Completed,1,11300,5200,0,No,4,Housewarming
+LLH-00235,2026-02-07,LLH-C0131,L02,Lighting,Ambient Table Lamp,Lagos,Instagram,Completed,1,22500,12300,0.1,Yes,4,Birthday
+LLH-00019,2026-02-08,LLH-C0006,T01,Tableware,Stoneware Mug Pair,Kwara,Instagram,Completed,1,16900,9200,0.15,Yes,3,Anniversary
+LLH-00252,2026-02-08,LLH-C0357,B01,Textiles,Cotton Throw Blanket,Lagos,Referral,Completed,1,24500,14000,0,No,,Holiday
+LLH-00870,2026-02-08,LLH-C0225,L01,Lighting,Pendant Lantern,Abuja,Referral,Completed,1,28500,15500,0,Yes,2,Anniversary
+LLH-01054,2026-02-08,LLH-C0224,B03,Textiles,Linen Table Runner,Kwara,Website,Completed,1,12200,6900,0.1,Yes,,Wedding
+LLH-00140,2026-02-09,LLH-C0259,B03,Textiles,Linen Table Runner,Lagos,Instagram,Cancelled,1,12200,6900,0.05,Yes,,Birthday
+LLH-00770,2026-02-09,LLH-C0038,D02,Decor,Ceramic Flower Vase,Lagos,Website,Completed,2,15400,8400,0.05,Yes,4,Housewarming
+LLH-01257,2026-02-09,LLH-C0062,D02,Decor,Ceramic Flower Vase,Lagos,Referral,Completed,2,15400,8400,0,No,3,Everyday
+LLH-00230,2026-02-10,LLH-C0412,D02,Decor,Ceramic Flower Vase,Lagos,Website,Completed,1,15400,8400,0.15,Yes,,Wedding
+LLH-00780,2026-02-10,LLH-C0451,G03,Gift Sets,Thank You Gift Set,Abuja,Marketplace,Completed,1,21400,11700,0,Yes,,Wedding
+LLH-01377,2026-02-10,LLH-C0278,B01,Textiles,Cotton Throw Blanket,Osun,Walk-in,Completed,1,24500,14000,0,No,5,Everyday
+LLH-00028,2026-02-11,LLH-C0086,L03,Lighting,Minimalist Desk Light,Abuja,WhatsApp,Completed,1,18800,10200,0.15,No,4,Everyday
+LLH-00055,2026-02-12,LLH-C0101,L01,Lighting,Pendant Lantern,Lagos,WhatsApp,Completed,1,28500,15500,0.1,No,4,Everyday
+LLH-01016,2026-02-12,LLH-C0254,L01,Lighting,Pendant Lantern,Lagos,Website,Completed,1,28500,15500,0,No,3,Everyday
+LLH-01209,2026-02-12,LLH-C0331,L02,Lighting,Ambient Table Lamp,Oyo,Marketplace,Cancelled,1,22500,12300,0.15,No,,Everyday
+LLH-00211,2026-02-13,LLH-C0352,T02,Tableware,Serving Tray Set,Rivers,WhatsApp,Cancelled,2,24900,13300,0.05,No,,Everyday
+LLH-00432,2026-02-13,LLH-C0272,D03,Decor,Handcrafted Wall Frame,Lagos,Instagram,Completed,1,17500,9600,0,No,5,Housewarming
+LLH-00479,2026-02-13,LLH-C0469,T02,Tableware,Serving Tray Set,Ogun,Instagram,Completed,3,24900,13300,0.05,No,3,Everyday
+LLH-00513,2026-02-13,LLH-C0325,G03,Gift Sets,Thank You Gift Set,Abuja,Instagram,Completed,1,21400,11700,0,Yes,,Birthday
+LLH-01304,2026-02-13,LLH-C0145,G02,Gift Sets,Housewarming Bundle,Lagos,Website,Cancelled,1,44500,25100,0.05,Yes,,Birthday
+LLH-01388,2026-02-13,LLH-C0483,A03,Aromas,Room Spray Duo,Abuja,Instagram,Completed,1,11300,5200,0.15,No,5,Everyday
+LLH-00460,2026-02-14,LLH-C0251,T02,Tableware,Serving Tray Set,Lagos,Referral,Completed,1,24900,13300,0,No,,Birthday
+LLH-00182,2026-02-15,LLH-C0456,L01,Lighting,Pendant Lantern,Lagos,Instagram,Completed,1,28500,15500,0,No,4,Everyday
+LLH-01341,2026-02-15,LLH-C0347,A02,Aromas,Essential Oil Diffuser,Lagos,Referral,Completed,1,26600,14800,0.1,No,,Everyday
+LLH-00596,2026-02-16,LLH-C0122,B03,Textiles,Linen Table Runner,Lagos,Website,Completed,1,12200,6900,0.1,Yes,2,Birthday
+LLH-00643,2026-02-16,LLH-C0208,D01,Decor,Woven Wall Basket,Abuja,Instagram,Completed,2,13700,7300,0,No,4,Housewarming
+LLH-00757,2026-02-16,LLH-C0444,G03,Gift Sets,Thank You Gift Set,Lagos,Instagram,Completed,1,21400,11700,0.1,Yes,4,Everyday
+LLH-00519,2026-02-19,LLH-C0424,L01,Lighting,Pendant Lantern,Lagos,Instagram,Returned,1,28500,15500,0,Yes,,Birthday
+LLH-01317,2026-02-19,LLH-C0463,G01,Gift Sets,Celebration Gift Box,Ogun,WhatsApp,Completed,1,31500,17900,0.1,Yes,4,Housewarming
+LLH-01359,2026-02-19,LLH-C0205,B03,Textiles,Linen Table Runner,Enugu,Website,Completed,1,12200,6900,0,No,,Everyday
+LLH-01438,2026-02-19,LLH-C0291,T01,Tableware,Stoneware Mug Pair,Kwara,WhatsApp,Completed,1,16900,9200,0.05,No,3,Anniversary
+LLH-00311,2026-02-20,LLH-C0404,G01,Gift Sets,Celebration Gift Box,Kwara,WhatsApp,Returned,3,31500,17900,0,Yes,,Holiday
+LLH-01014,2026-02-20,LLH-C0427,T03,Tableware,Dinner Plate Set,Abuja,Walk-in,Completed,1,37900,21200,0.15,No,5,Everyday
+LLH-01077,2026-02-20,LLH-C0254,G02,Gift Sets,Housewarming Bundle,Lagos,Website,Cancelled,2,44500,25100,0,Yes,,Everyday
+LLH-01183,2026-02-20,LLH-C0347,T02,Tableware,Serving Tray Set,Ogun,WhatsApp,Completed,1,24900,13300,0.15,No,5,Housewarming
+LLH-01277,2026-02-20,LLH-C0051,B02,Textiles,Premium Cushion Set,Oyo,Instagram,Completed,2,19500,10500,0.05,No,4,Everyday
+LLH-00210,2026-02-21,LLH-C0451,D03,Decor,Handcrafted Wall Frame,Ogun,Referral,Returned,1,17500,9600,0,No,,Everyday
+LLH-00554,2026-02-21,LLH-C0167,B01,Textiles,Cotton Throw Blanket,Ogun,Website,Completed,1,24500,14000,0.15,No,,Everyday
+LLH-00842,2026-02-21,LLH-C0457,T03,Tableware,Dinner Plate Set,Abuja,Instagram,Completed,2,37900,21200,0.05,No,4,Wedding
+LLH-00349,2026-02-22,LLH-C0225,B03,Textiles,Linen Table Runner,Lagos,Referral,Completed,4,12200,6900,0,No,4,Housewarming
+LLH-00693,2026-02-22,LLH-C0251,G03,Gift Sets,Thank You Gift Set,Oyo,Walk-in,Cancelled,1,21400,11700,0.05,Yes,,Everyday
+LLH-00084,2026-02-25,LLH-C0269,B01,Textiles,Cotton Throw Blanket,Abuja,WhatsApp,Completed,3,24500,14000,0.05,No,4,Birthday
+LLH-00339,2026-02-25,LLH-C0267,G03,Gift Sets,Thank You Gift Set,Ogun,Marketplace,Completed,1,21400,11700,0,Yes,4,Anniversary
+LLH-00397,2026-02-25,LLH-C0368,G01,Gift Sets,Celebration Gift Box,Lagos,Marketplace,Completed,2,31500,17900,0.1,Yes,4,Everyday
+LLH-00904,2026-02-25,LLH-C0002,A03,Aromas,Room Spray Duo,Abuja,Instagram,Completed,1,11300,5200,0.05,No,,Anniversary
+LLH-01065,2026-02-25,LLH-C0131,A03,Aromas,Room Spray Duo,Abuja,Referral,Completed,1,11300,5200,0,No,,Everyday
+LLH-00265,2026-02-26,LLH-C0229,L02,Lighting,Ambient Table Lamp,Rivers,WhatsApp,Completed,1,22500,12300,0.15,Yes,3,Holiday
+LLH-01125,2026-02-26,LLH-C0259,D02,Decor,Ceramic Flower Vase,Oyo,WhatsApp,Completed,1,15400,8400,0,Yes,5,Birthday
+LLH-00656,2026-02-27,LLH-C0358,T01,Tableware,Stoneware Mug Pair,Abuja,WhatsApp,Returned,1,16900,9200,0,No,,Everyday
+LLH-01276,2026-02-27,LLH-C0291,B03,Textiles,Linen Table Runner,Abuja,Website,Completed,3,12200,6900,0.15,No,,Everyday
+LLH-01357,2026-02-27,LLH-C0339,D01,Decor,Woven Wall Basket,Abuja,Website,Completed,1,13700,7300,0.15,No,4,Everyday
+LLH-00332,2026-02-28,LLH-C0131,D01,Decor,Woven Wall Basket,Oyo,Walk-in,Completed,1,13700,7300,0.1,No,,Everyday
+LLH-00386,2026-03-01,LLH-C0025,L01,Lighting,Pendant Lantern,Lagos,Instagram,Completed,3,28500,15500,0.1,Yes,,Holiday
+LLH-01138,2026-03-01,LLH-C0181,T03,Tableware,Dinner Plate Set,Lagos,Instagram,Completed,1,37900,21200,0.05,No,5,Birthday
+LLH-01189,2026-03-01,LLH-C0204,B02,Textiles,Premium Cushion Set,Rivers,WhatsApp,Completed,1,19500,10500,0,Yes,,Housewarming
+LLH-00607,2026-03-02,LLH-C0267,L01,Lighting,Pendant Lantern,Lagos,Website,Completed,2,28500,15500,0,Yes,5,Anniversary
+LLH-00893,2026-03-02,LLH-C0440,L01,Lighting,Pendant Lantern,Lagos,WhatsApp,Returned,1,28500,15500,0.05,No,,Everyday
+LLH-00191,2026-03-03,LLH-C0026,A01,Aromas,Scented Candle Trio,Ogun,Website,Returned,1,14900,6900,0,No,,Everyday
+LLH-00671,2026-03-03,LLH-C0103,D01,Decor,Woven Wall Basket,Enugu,Referral,Completed,1,13700,7300,0,No,,Holiday
+LLH-01092,2026-03-03,LLH-C0502,T01,Tableware,Stoneware Mug Pair,Lagos,Walk-in,Completed,1,16900,9200,0.05,No,3,Everyday
+LLH-00629,2026-03-05,LLH-C0462,G03,Gift Sets,Thank You Gift Set,Oyo,Instagram,Completed,1,21400,11700,0,Yes,4,Wedding
+LLH-00869,2026-03-05,LLH-C0181,L02,Lighting,Ambient Table Lamp,Rivers,WhatsApp,Cancelled,2,22500,12300,0.05,Yes,,Anniversary
+LLH-01417,2026-03-05,LLH-C0173,T02,Tableware,Serving Tray Set,Abuja,WhatsApp,Completed,1,24900,13300,0.05,No,,Birthday
+LLH-00563,2026-03-06,LLH-C0010,D03,Decor,Handcrafted Wall Frame,Oyo,Instagram,Completed,1,17500,9600,0.05,No,3,Housewarming
+LLH-00713,2026-03-06,LLH-C0254,A02,Aromas,Essential Oil Diffuser,Abuja,Website,Completed,1,26600,14800,0.1,No,,Everyday
+LLH-00090,2026-03-07,LLH-C0355,B01,Textiles,Cotton Throw Blanket,Lagos,Marketplace,Returned,1,24500,14000,0,No,,Everyday
+LLH-01085,2026-03-07,LLH-C0369,D01,Decor,Woven Wall Basket,Oyo,Instagram,Cancelled,1,13700,7300,0,No,,Everyday
+LLH-01323,2026-03-07,LLH-C0365,G01,Gift Sets,Celebration Gift Box,Lagos,Marketplace,Cancelled,1,31500,17900,0,Yes,,Everyday
+LLH-00416,2026-03-08,LLH-C0366,G01,Gift Sets,Celebration Gift Box,Lagos,Referral,Completed,1,31500,17900,0,Yes,,Anniversary
+LLH-00583,2026-03-08,LLH-C0358,L03,Lighting,Minimalist Desk Light,Ogun,Walk-in,Completed,2,18800,10200,0,No,5,Everyday
+LLH-00851,2026-03-08,LLH-C0390,D03,Decor,Handcrafted Wall Frame,Lagos,Referral,Completed,1,17500,9600,0.05,No,,Wedding
+LLH-00678,2026-03-09,LLH-C0136,L03,Lighting,Minimalist Desk Light,Kwara,WhatsApp,Completed,1,18800,10200,0,No,2,Holiday
+LLH-01058,2026-03-09,LLH-C0246,D01,Decor,Woven Wall Basket,Rivers,Website,Returned,1,13700,7300,0,Yes,,Wedding
+LLH-01210,2026-03-09,LLH-C0153,D02,Decor,Ceramic Flower Vase,Abuja,Marketplace,Completed,1,15400,8400,0.05,No,,Everyday
+LLH-00466,2026-03-10,LLH-C0129,G02,Gift Sets,Housewarming Bundle,Enugu,Referral,Cancelled,2,44500,25100,0.15,Yes,,Birthday
+LLH-00506,2026-03-10,LLH-C0348,T02,Tableware,Serving Tray Set,Oyo,Walk-in,Completed,1,24900,13300,0,No,4,Birthday
+LLH-00821,2026-03-10,LLH-C0025,A03,Aromas,Room Spray Duo,Lagos,Instagram,Completed,1,11300,5200,0.1,No,3,Everyday
+LLH-00024,2026-03-11,LLH-C0516,A01,Aromas,Scented Candle Trio,Lagos,Website,Cancelled,1,14900,6900,0,No,,Everyday
+LLH-00096,2026-03-11,LLH-C0332,G01,Gift Sets,Celebration Gift Box,Lagos,Instagram,Completed,1,31500,17900,0.1,Yes,,Holiday
+LLH-01078,2026-03-11,LLH-C0261,L03,Lighting,Minimalist Desk Light,Ogun,Walk-in,Completed,1,18800,10200,0,No,,Everyday
+LLH-00745,2026-03-12,LLH-C0438,T02,Tableware,Serving Tray Set,Lagos,WhatsApp,Completed,1,24900,13300,0,No,5,Everyday
+LLH-01076,2026-03-12,LLH-C0392,T01,Tableware,Stoneware Mug Pair,Lagos,Referral,Completed,1,16900,9200,0,Yes,,Anniversary
+LLH-00243,2026-03-13,LLH-C0343,G02,Gift Sets,Housewarming Bundle,Lagos,Website,Completed,1,44500,25100,0,Yes,,Housewarming
+LLH-00714,2026-03-13,LLH-C0131,L03,Lighting,Minimalist Desk Light,Kwara,Website,Cancelled,1,18800,10200,0.1,No,,Birthday
+LLH-01088,2026-03-13,LLH-C0437,B01,Textiles,Cotton Throw Blanket,Lagos,WhatsApp,Completed,4,24500,14000,0.1,No,4,Everyday
+LLH-00456,2026-03-14,LLH-C0012,T03,Tableware,Dinner Plate Set,Kwara,Walk-in,Completed,1,37900,21200,0.1,Yes,5,Birthday
+LLH-00590,2026-03-14,LLH-C0157,L02,Lighting,Ambient Table Lamp,Oyo,Website,Completed,3,22500,12300,0,No,4,Birthday
+LLH-00735,2026-03-14,LLH-C0477,A01,Aromas,Scented Candle Trio,Lagos,WhatsApp,Cancelled,1,14900,6900,0,No,,Birthday
+LLH-00991,2026-03-16,LLH-C0129,L02,Lighting,Ambient Table Lamp,Oyo,Website,Cancelled,1,22500,12300,0,No,,Anniversary
+LLH-01261,2026-03-17,LLH-C0290,G02,Gift Sets,Housewarming Bundle,Ogun,Referral,Completed,3,44500,25100,0,Yes,4,Birthday
+LLH-00159,2026-03-18,LLH-C0064,A01,Aromas,Scented Candle Trio,Abuja,Instagram,Completed,2,14900,6900,0,No,,Everyday
+LLH-00341,2026-03-18,LLH-C0294,D02,Decor,Ceramic Flower Vase,Kwara,Instagram,Completed,1,15400,8400,0.1,No,5,Housewarming
+LLH-01329,2026-03-18,LLH-C0328,D03,Decor,Handcrafted Wall Frame,Lagos,Referral,Cancelled,2,17500,9600,0.15,Yes,,Housewarming
+LLH-00059,2026-03-19,LLH-C0461,L03,Lighting,Minimalist Desk Light,Ogun,Instagram,Completed,1,18800,10200,0,No,4,Everyday
+LLH-00246,2026-03-19,LLH-C0263,L02,Lighting,Ambient Table Lamp,Rivers,Instagram,Completed,3,22500,12300,0.1,No,,Birthday
+LLH-00688,2026-03-19,LLH-C0251,L03,Lighting,Minimalist Desk Light,Kwara,Website,Completed,3,18800,10200,0.05,No,,Anniversary
+LLH-00794,2026-03-19,LLH-C0009,A01,Aromas,Scented Candle Trio,Abuja,WhatsApp,Completed,2,14900,6900,0,No,,Everyday
+LLH-01131,2026-03-19,LLH-C0145,L01,Lighting,Pendant Lantern,Lagos,Referral,Completed,1,28500,15500,0.1,No,3,Birthday
+LLH-00760,2026-03-20,LLH-C0483,B03,Textiles,Linen Table Runner,Lagos,Instagram,Completed,2,12200,6900,0.05,No,5,Anniversary
+LLH-00949,2026-03-20,LLH-C0190,B03,Textiles,Linen Table Runner,Not Provided,Website,Completed,1,12200,6900,0,No,4,Everyday
+LLH-01299,2026-03-20,LLH-C0048,B02,Textiles,Premium Cushion Set,Lagos,Instagram,Returned,1,19500,10500,0,No,,Everyday
+LLH-01334,2026-03-20,LLH-C0094,L01,Lighting,Pendant Lantern,Lagos,WhatsApp,Completed,1,28500,15500,0,No,5,Everyday
+LLH-01255,2026-03-21,LLH-C0345,L03,Lighting,Minimalist Desk Light,Oyo,Website,Completed,1,18800,10200,0,No,5,Everyday
+LLH-00905,2026-03-23,LLH-C0316,B02,Textiles,Premium Cushion Set,Lagos,Referral,Completed,1,19500,10500,0.1,No,4,Everyday
+LLH-01018,2026-03-23,LLH-C0041,G03,Gift Sets,Thank You Gift Set,Abuja,WhatsApp,Completed,1,21400,11700,0.15,Yes,4,Birthday
+LLH-01294,2026-03-23,LLH-C0079,A01,Aromas,Scented Candle Trio,Lagos,WhatsApp,Completed,2,14900,6900,0,No,5,Everyday
+LLH-00162,2026-03-24,LLH-C0505,D03,Decor,Handcrafted Wall Frame,Kwara,Instagram,Completed,1,17500,9600,0.1,Yes,4,Housewarming
+LLH-00425,2026-03-24,LLH-C0074,A02,Aromas,Essential Oil Diffuser,Rivers,Referral,Completed,2,26600,14800,0.05,No,5,Birthday
+LLH-00737,2026-03-24,LLH-C0358,L03,Lighting,Minimalist Desk Light,Lagos,Walk-in,Completed,1,18800,10200,0.05,No,4,Everyday
+LLH-01071,2026-03-24,LLH-C0495,B03,Textiles,Linen Table Runner,Ogun,Instagram,Completed,1,12200,6900,0.15,No,5,Everyday
+LLH-01142,2026-03-24,LLH-C0136,L02,Lighting,Ambient Table Lamp,Lagos,Referral,Completed,1,22500,12300,0,No,,Anniversary
+LLH-00133,2026-03-25,LLH-C0225,G02,Gift Sets,Housewarming Bundle,Ogun,Marketplace,Completed,1,44500,25100,0,Yes,5,Everyday
+LLH-00396,2026-03-25,LLH-C0028,A01,Aromas,Scented Candle Trio,Lagos,Instagram,Completed,1,14900,6900,0,No,4,Wedding
+LLH-00576,2026-03-25,LLH-C0508,G01,Gift Sets,Celebration Gift Box,Oyo,WhatsApp,Returned,1,31500,17900,0,Yes,,Everyday
+LLH-00702,2026-03-25,LLH-C0278,L01,Lighting,Pendant Lantern,Lagos,Referral,Completed,1,28500,15500,0,No,,Wedding
+LLH-01141,2026-03-25,LLH-C0471,D03,Decor,Handcrafted Wall Frame,Lagos,Website,Completed,1,17500,9600,0.1,No,,Everyday
+LLH-01306,2026-03-25,LLH-C0340,A03,Aromas,Room Spray Duo,Lagos,Marketplace,Completed,1,11300,5200,0.1,No,4,Everyday
+LLH-00064,2026-03-26,LLH-C0462,B03,Textiles,Linen Table Runner,Oyo,WhatsApp,Completed,2,12200,6900,0,No,3,Everyday
+LLH-00472,2026-03-26,LLH-C0079,L02,Lighting,Ambient Table Lamp,Lagos,WhatsApp,Cancelled,1,22500,12300,0,No,,Birthday
+LLH-00918,2026-03-26,LLH-C0128,B03,Textiles,Linen Table Runner,Rivers,Instagram,Returned,1,12200,6900,0.1,No,,Housewarming
+LLH-01144,2026-03-26,LLH-C0286,A03,Aromas,Room Spray Duo,Osun,Instagram,Completed,1,11300,5200,0.1,No,5,Housewarming
+LLH-01331,2026-03-26,LLH-C0395,D02,Decor,Ceramic Flower Vase,Enugu,Referral,Completed,1,15400,8400,0.05,No,,Everyday
+LLH-00139,2026-03-27,LLH-C0209,A01,Aromas,Scented Candle Trio,Rivers,Instagram,Returned,1,14900,6900,0.1,No,,Birthday
+LLH-00144,2026-03-27,LLH-C0476,T03,Tableware,Dinner Plate Set,Ogun,Website,Completed,1,37900,21200,0,No,4,Housewarming
+LLH-01316,2026-03-28,LLH-C0066,T02,Tableware,Serving Tray Set,Kwara,Instagram,Completed,1,24900,13300,0.1,No,5,Everyday
+LLH-01008,2026-03-29,LLH-C0117,B02,Textiles,Premium Cushion Set,Lagos,WhatsApp,Completed,1,19500,10500,0,No,3,Everyday
+LLH-01120,2026-03-29,LLH-C0315,L01,Lighting,Pendant Lantern,Abuja,Website,Completed,1,28500,15500,0.05,No,,Everyday
+LLH-01134,2026-03-29,LLH-C0060,L01,Lighting,Pendant Lantern,Abuja,Website,Cancelled,1,28500,15500,0.05,No,,Anniversary
+LLH-00866,2026-03-30,LLH-C0083,A01,Aromas,Scented Candle Trio,Abuja,WhatsApp,Completed,2,14900,6900,0.05,No,5,Everyday
+LLH-00784,2026-03-31,LLH-C0029,D02,Decor,Ceramic Flower Vase,Rivers,Referral,Completed,1,15400,8400,0,No,4,Wedding
+LLH-00912,2026-03-31,LLH-C0109,B01,Textiles,Cotton Throw Blanket,Abuja,Referral,Completed,1,24500,14000,0.05,No,4,Everyday
+LLH-01439,2026-03-31,LLH-C0422,L02,Lighting,Ambient Table Lamp,Lagos,Website,Completed,2,22500,12300,0.15,No,4,Birthday
+LLH-00744,2026-04-01,LLH-C0225,T01,Tableware,Stoneware Mug Pair,Kwara,Walk-in,Cancelled,1,16900,9200,0.05,Yes,,Holiday
+LLH-00877,2026-04-01,LLH-C0094,D02,Decor,Ceramic Flower Vase,Rivers,Instagram,Cancelled,2,15400,8400,0,No,,Everyday
+LLH-00925,2026-04-01,LLH-C0517,A01,Aromas,Scented Candle Trio,Ogun,Marketplace,Completed,1,14900,6900,0,No,4,Housewarming
+LLH-00937,2026-04-01,LLH-C0399,L02,Lighting,Ambient Table Lamp,Lagos,Instagram,Completed,1,22500,12300,0.15,No,,Everyday
+LLH-01109,2026-04-01,LLH-C0449,D01,Decor,Woven Wall Basket,Enugu,Instagram,Completed,1,13700,7300,0,No,4,Housewarming
+LLH-00129,2026-04-02,LLH-C0440,D01,Decor,Woven Wall Basket,Kwara,Instagram,Completed,2,13700,7300,0,No,,Everyday
+LLH-00359,2026-04-02,LLH-C0066,D02,Decor,Ceramic Flower Vase,Lagos,Instagram,Completed,1,15400,8400,0.15,No,,Everyday
+LLH-01176,2026-04-02,LLH-C0368,T03,Tableware,Dinner Plate Set,Kwara,WhatsApp,Returned,1,37900,21200,0.1,Yes,,Housewarming
+LLH-00968,2026-04-03,LLH-C0413,L03,Lighting,Minimalist Desk Light,Ogun,Walk-in,Completed,2,18800,10200,0.05,Yes,4,Housewarming
+LLH-00370,2026-04-04,LLH-C0356,A01,Aromas,Scented Candle Trio,Kwara,Website,Completed,1,14900,6900,0,Yes,3,Birthday
+LLH-01022,2026-04-04,LLH-C0092,L03,Lighting,Minimalist Desk Light,Not Provided,WhatsApp,Completed,1,18800,10200,0,No,4,Everyday
+LLH-00548,2026-04-06,LLH-C0316,B03,Textiles,Linen Table Runner,Abuja,Referral,Completed,1,12200,6900,0.05,No,4,Everyday
+LLH-00716,2026-04-06,LLH-C0516,D02,Decor,Ceramic Flower Vase,Oyo,WhatsApp,Completed,1,15400,8400,0.1,No,4,Birthday
+LLH-00740,2026-04-06,LLH-C0412,T01,Tableware,Stoneware Mug Pair,Lagos,Walk-in,Completed,1,16900,9200,0,Yes,5,Housewarming
+LLH-01332,2026-04-06,LLH-C0296,B01,Textiles,Cotton Throw Blanket,Lagos,Website,Cancelled,1,24500,14000,0.1,No,,Housewarming
+LLH-00013,2026-04-07,LLH-C0251,T02,Tableware,Serving Tray Set,Lagos,Instagram,Completed,1,24900,13300,0.05,No,5,Birthday
+LLH-00264,2026-04-07,LLH-C0307,L02,Lighting,Ambient Table Lamp,Rivers,Referral,Completed,1,22500,12300,0,No,,Everyday
+LLH-00438,2026-04-07,LLH-C0225,D01,Decor,Woven Wall Basket,Not Provided,WhatsApp,Completed,1,13700,7300,0,No,5,Wedding
+LLH-00666,2026-04-07,LLH-C0292,T01,Tableware,Stoneware Mug Pair,Lagos,Website,Completed,1,16900,9200,0.1,No,,Everyday
+LLH-01095,2026-04-08,LLH-C0380,G01,Gift Sets,Celebration Gift Box,Not Provided,Website,Completed,1,31500,17900,0,Yes,2,Wedding
+LLH-01288,2026-04-08,LLH-C0333,G01,Gift Sets,Celebration Gift Box,Osun,Website,Cancelled,1,31500,17900,0.05,Yes,,Everyday
+LLH-00114,2026-04-09,LLH-C0046,G03,Gift Sets,Thank You Gift Set,Oyo,Instagram,Completed,1,21400,11700,0,Yes,4,Everyday
+LLH-00853,2026-04-10,LLH-C0157,A01,Aromas,Scented Candle Trio,Enugu,Website,Completed,1,14900,6900,0.05,No,4,Everyday
+LLH-00127,2026-04-11,LLH-C0129,G02,Gift Sets,Housewarming Bundle,Lagos,Website,Completed,2,44500,25100,0,Yes,2,Everyday
+LLH-01242,2026-04-11,LLH-C0304,A01,Aromas,Scented Candle Trio,Lagos,WhatsApp,Completed,1,14900,6900,0,Yes,4,Birthday
+LLH-00592,2026-04-12,LLH-C0074,A01,Aromas,Scented Candle Trio,Lagos,Instagram,Completed,3,14900,6900,0,No,2,Everyday
+LLH-01366,2026-04-12,LLH-C0483,L03,Lighting,Minimalist Desk Light,Oyo,Website,Completed,1,18800,10200,0,No,,Everyday
+LLH-00509,2026-04-13,LLH-C0293,A02,Aromas,Essential Oil Diffuser,Rivers,Instagram,Completed,2,26600,14800,0.15,No,5,Housewarming
+LLH-00615,2026-04-13,LLH-C0213,A01,Aromas,Scented Candle Trio,Oyo,Instagram,Returned,1,14900,6900,0,No,,Everyday
+LLH-01431,2026-04-13,LLH-C0103,B02,Textiles,Premium Cushion Set,Osun,Website,Completed,2,19500,10500,0.05,No,5,Wedding
+LLH-00130,2026-04-14,LLH-C0483,L01,Lighting,Pendant Lantern,Abuja,Website,Completed,1,28500,15500,0,Yes,,Birthday
+LLH-00536,2026-04-14,LLH-C0125,B03,Textiles,Linen Table Runner,Ogun,WhatsApp,Completed,1,12200,6900,0.05,No,,Wedding
+LLH-00669,2026-04-14,LLH-C0291,B03,Textiles,Linen Table Runner,Lagos,Website,Cancelled,1,12200,6900,0,Yes,,Birthday
+LLH-00892,2026-04-14,LLH-C0350,B03,Textiles,Linen Table Runner,Abuja,Website,Completed,2,12200,6900,0.1,No,,Everyday
+LLH-01367,2026-04-14,LLH-C0416,A03,Aromas,Room Spray Duo,Oyo,WhatsApp,Completed,1,11300,5200,0,No,4,Everyday
+LLH-00882,2026-04-15,LLH-C0363,L02,Lighting,Ambient Table Lamp,Oyo,Instagram,Cancelled,2,22500,12300,0.05,No,,Everyday
+LLH-00914,2026-04-15,LLH-C0451,L03,Lighting,Minimalist Desk Light,Abuja,Instagram,Completed,1,18800,10200,0.1,No,5,Wedding
+LLH-01405,2026-04-15,LLH-C0380,T01,Tableware,Stoneware Mug Pair,Enugu,Referral,Completed,2,16900,9200,0,No,4,Everyday
+LLH-00323,2026-04-16,LLH-C0190,T03,Tableware,Dinner Plate Set,Lagos,WhatsApp,Completed,1,37900,21200,0,No,4,Everyday
+LLH-00342,2026-04-16,LLH-C0406,G01,Gift Sets,Celebration Gift Box,Ogun,WhatsApp,Completed,3,31500,17900,0.05,Yes,,Birthday
+LLH-00480,2026-04-16,LLH-C0164,D02,Decor,Ceramic Flower Vase,Oyo,Referral,Cancelled,1,15400,8400,0.1,Yes,,Birthday
+LLH-00879,2026-04-16,LLH-C0119,B03,Textiles,Linen Table Runner,Abuja,Walk-in,Completed,1,12200,6900,0,Yes,4,Housewarming
+LLH-01196,2026-04-16,LLH-C0286,G01,Gift Sets,Celebration Gift Box,Enugu,Instagram,Completed,1,31500,17900,0,Yes,4,Anniversary
+LLH-00549,2026-04-17,LLH-C0121,G01,Gift Sets,Celebration Gift Box,Lagos,Referral,Completed,2,31500,17900,0,Yes,5,Anniversary
+LLH-00753,2026-04-17,LLH-C0475,A02,Aromas,Essential Oil Diffuser,Lagos,Marketplace,Completed,1,26600,14800,0.1,No,3,Everyday
+LLH-00226,2026-04-19,LLH-C0088,L02,Lighting,Ambient Table Lamp,Lagos,Referral,Completed,1,22500,12300,0.05,No,5,Holiday
+LLH-00683,2026-04-19,LLH-C0065,A02,Aromas,Essential Oil Diffuser,Abuja,Walk-in,Completed,1,26600,14800,0.15,No,4,Everyday
+LLH-00880,2026-04-19,LLH-C0485,T01,Tableware,Stoneware Mug Pair,Lagos,Instagram,Completed,1,16900,9200,0.15,No,,Birthday
+LLH-00942,2026-04-19,LLH-C0381,G02,Gift Sets,Housewarming Bundle,Lagos,Website,Completed,1,44500,25100,0.05,Yes,3,Everyday
+LLH-00236,2026-04-20,LLH-C0363,G03,Gift Sets,Thank You Gift Set,Ogun,Instagram,Completed,1,21400,11700,0.05,Yes,,Everyday
+LLH-00440,2026-04-20,LLH-C0128,A03,Aromas,Room Spray Duo,Lagos,Referral,Completed,3,11300,5200,0.05,No,4,Everyday
+LLH-01115,2026-04-20,LLH-C0095,A02,Aromas,Essential Oil Diffuser,Lagos,Website,Completed,1,26600,14800,0,No,,Everyday
+LLH-00314,2026-04-21,LLH-C0195,B03,Textiles,Linen Table Runner,Abuja,Referral,Completed,1,12200,6900,0,Yes,4,Housewarming
+LLH-01145,2026-04-21,LLH-C0480,G01,Gift Sets,Celebration Gift Box,Lagos,WhatsApp,Completed,1,31500,17900,0,Yes,4,Everyday
+LLH-01188,2026-04-21,LLH-C0229,D03,Decor,Handcrafted Wall Frame,Osun,Instagram,Completed,3,17500,9600,0,No,5,Everyday
+LLH-00148,2026-04-22,LLH-C0195,T02,Tableware,Serving Tray Set,Osun,Instagram,Completed,1,24900,13300,0,No,,Everyday
+LLH-00481,2026-04-22,LLH-C0300,G02,Gift Sets,Housewarming Bundle,Ogun,WhatsApp,Completed,1,44500,25100,0.05,Yes,4,Everyday
+LLH-00782,2026-04-22,LLH-C0371,A02,Aromas,Essential Oil Diffuser,Osun,Walk-in,Completed,1,26600,14800,0.05,No,3,Everyday
+LLH-01264,2026-04-22,LLH-C0483,A02,Aromas,Essential Oil Diffuser,Lagos,Instagram,Completed,1,26600,14800,0.05,No,3,Everyday
+LLH-01391,2026-04-22,LLH-C0388,G02,Gift Sets,Housewarming Bundle,Lagos,Website,Completed,1,44500,25100,0,Yes,,Holiday
+LLH-01416,2026-04-22,LLH-C0065,A01,Aromas,Scented Candle Trio,Lagos,WhatsApp,Completed,1,14900,6900,0.15,No,3,Anniversary
+LLH-00720,2026-04-23,LLH-C0213,L01,Lighting,Pendant Lantern,Ogun,Referral,Cancelled,3,28500,15500,0.1,No,,Birthday
+LLH-00728,2026-04-23,LLH-C0005,G02,Gift Sets,Housewarming Bundle,Oyo,Marketplace,Completed,1,44500,25100,0.1,Yes,4,Wedding
+LLH-00528,2026-04-24,LLH-C0244,L03,Lighting,Minimalist Desk Light,Lagos,Referral,Completed,1,18800,10200,0.15,No,,Everyday
+LLH-00717,2026-04-25,LLH-C0047,D03,Decor,Handcrafted Wall Frame,Rivers,WhatsApp,Completed,3,17500,9600,0,No,4,Housewarming
+LLH-00868,2026-04-25,LLH-C0131,T02,Tableware,Serving Tray Set,Kwara,Instagram,Completed,1,24900,13300,0.05,Yes,,Housewarming
+LLH-00888,2026-04-25,LLH-C0047,D01,Decor,Woven Wall Basket,Enugu,Website,Completed,1,13700,7300,0,No,5,Housewarming
+LLH-01355,2026-04-25,LLH-C0157,B02,Textiles,Premium Cushion Set,Enugu,WhatsApp,Completed,4,19500,10500,0.1,No,5,Birthday
+LLH-00363,2026-04-26,LLH-C0109,B02,Textiles,Premium Cushion Set,Rivers,Website,Completed,2,19500,10500,0.05,No,,Holiday
+LLH-00694,2026-04-26,LLH-C0051,L01,Lighting,Pendant Lantern,Rivers,WhatsApp,Completed,1,28500,15500,0.05,No,4,Everyday
+LLH-01223,2026-04-27,LLH-C0051,D02,Decor,Ceramic Flower Vase,Kwara,Instagram,Completed,1,15400,8400,0.1,No,,Housewarming
+LLH-01326,2026-04-27,LLH-C0139,T01,Tableware,Stoneware Mug Pair,Lagos,WhatsApp,Completed,3,16900,9200,0.1,No,4,Housewarming
+LLH-00023,2026-04-28,LLH-C0463,D03,Decor,Handcrafted Wall Frame,Oyo,Website,Completed,1,17500,9600,0.05,No,3,Everyday
+LLH-00373,2026-04-28,LLH-C0254,B01,Textiles,Cotton Throw Blanket,Oyo,Walk-in,Completed,1,24500,14000,0,Yes,3,Birthday
+LLH-00820,2026-04-28,LLH-C0130,A03,Aromas,Room Spray Duo,Lagos,Instagram,Completed,1,11300,5200,0,No,3,Everyday
+LLH-00916,2026-04-28,LLH-C0238,T03,Tableware,Dinner Plate Set,Lagos,Website,Completed,1,37900,21200,0.15,Yes,4,Birthday
+LLH-01311,2026-04-28,LLH-C0069,G02,Gift Sets,Housewarming Bundle,Lagos,Walk-in,Completed,1,44500,25100,0.15,Yes,,Wedding
+LLH-00453,2026-04-29,LLH-C0483,T03,Tableware,Dinner Plate Set,Kwara,Instagram,Cancelled,1,37900,21200,0,No,,Birthday
+LLH-00751,2026-04-29,LLH-C0047,L02,Lighting,Ambient Table Lamp,Osun,WhatsApp,Cancelled,1,22500,12300,0.1,Yes,,Holiday
+LLH-01254,2026-04-29,LLH-C0175,A02,Aromas,Essential Oil Diffuser,Ogun,WhatsApp,Completed,1,26600,14800,0,No,4,Birthday
+LLH-00765,2026-04-30,LLH-C0180,G02,Gift Sets,Housewarming Bundle,Lagos,Marketplace,Completed,2,44500,25100,0.1,Yes,3,Holiday
+LLH-00799,2026-04-30,LLH-C0154,T01,Tableware,Stoneware Mug Pair,Abuja,Instagram,Cancelled,1,16900,9200,0.05,No,,Housewarming
+LLH-01239,2026-04-30,LLH-C0462,T01,Tableware,Stoneware Mug Pair,Kwara,WhatsApp,Completed,1,16900,9200,0,No,,Everyday
+LLH-01267,2026-04-30,LLH-C0094,L02,Lighting,Ambient Table Lamp,Ogun,Instagram,Completed,2,22500,12300,0.1,Yes,,Anniversary
+LLH-01374,2026-04-30,LLH-C0250,B01,Textiles,Cotton Throw Blanket,Lagos,Website,Completed,1,24500,14000,0,No,5,Everyday
+LLH-01097,2026-05-01,LLH-C0028,A03,Aromas,Room Spray Duo,Enugu,Referral,Completed,1,11300,5200,0,No,,Everyday
+LLH-00266,2026-05-02,LLH-C0054,A01,Aromas,Scented Candle Trio,Lagos,Marketplace,Completed,1,14900,6900,0,Yes,5,Holiday
+LLH-00676,2026-05-02,LLH-C0331,D01,Decor,Woven Wall Basket,Lagos,WhatsApp,Completed,1,13700,7300,0.15,Yes,4,Birthday
+LLH-00898,2026-05-03,LLH-C0353,T03,Tableware,Dinner Plate Set,Abuja,Marketplace,Completed,2,37900,21200,0.05,Yes,4,Housewarming
+LLH-01222,2026-05-03,LLH-C0441,B02,Textiles,Premium Cushion Set,Oyo,Website,Completed,2,19500,10500,0,No,4,Everyday
+LLH-00242,2026-05-04,LLH-C0338,B01,Textiles,Cotton Throw Blanket,Oyo,Website,Returned,1,24500,14000,0,No,,Everyday
+LLH-01050,2026-05-04,LLH-C0483,G03,Gift Sets,Thank You Gift Set,Rivers,Website,Completed,1,21400,11700,0,Yes,4,Everyday
+LLH-00008,2026-05-05,LLH-C0094,A02,Aromas,Essential Oil Diffuser,Oyo,Walk-in,Completed,1,26600,14800,0,Yes,,Wedding
+LLH-00989,2026-05-05,LLH-C0096,L01,Lighting,Pendant Lantern,Abuja,Referral,Completed,1,28500,15500,0,Yes,,Housewarming
+LLH-00060,2026-05-06,LLH-C0075,T02,Tableware,Serving Tray Set,Enugu,Website,Completed,1,24900,13300,0.1,Yes,,Housewarming
+LLH-00684,2026-05-06,LLH-C0165,T01,Tableware,Stoneware Mug Pair,Abuja,Walk-in,Completed,1,16900,9200,0.15,No,4,Anniversary
+LLH-00749,2026-05-06,LLH-C0074,D03,Decor,Handcrafted Wall Frame,Lagos,Instagram,Completed,1,17500,9600,0.05,No,,Birthday
+LLH-01185,2026-05-06,LLH-C0215,D03,Decor,Handcrafted Wall Frame,Abuja,Website,Completed,1,17500,9600,0.1,No,,Birthday
+LLH-00418,2026-05-07,LLH-C0308,D02,Decor,Ceramic Flower Vase,Oyo,Walk-in,Completed,1,15400,8400,0.1,Yes,5,Anniversary
+LLH-00111,2026-05-08,LLH-C0121,D03,Decor,Handcrafted Wall Frame,Lagos,WhatsApp,Completed,2,17500,9600,0.05,No,5,Housewarming
+LLH-00312,2026-05-08,LLH-C0208,A02,Aromas,Essential Oil Diffuser,Osun,WhatsApp,Completed,1,26600,14800,0.1,No,5,Anniversary
+LLH-00467,2026-05-08,LLH-C0079,T03,Tableware,Dinner Plate Set,Kwara,Marketplace,Completed,2,37900,21200,0.1,Yes,,Birthday
+LLH-00538,2026-05-08,LLH-C0374,B03,Textiles,Linen Table Runner,Lagos,Instagram,Completed,1,12200,6900,0,Yes,4,Anniversary
+LLH-00628,2026-05-08,LLH-C0347,L03,Lighting,Minimalist Desk Light,Oyo,Instagram,Completed,2,18800,10200,0.05,No,,Everyday
+LLH-00303,2026-05-09,LLH-C0204,T01,Tableware,Stoneware Mug Pair,Osun,Not Provided,Completed,1,16900,9200,0,No,2,Everyday
+LLH-01104,2026-05-09,LLH-C0454,G02,Gift Sets,Housewarming Bundle,Lagos,Referral,Returned,1,44500,25100,0,Yes,,Everyday
+LLH-00112,2026-05-10,LLH-C0114,A03,Aromas,Room Spray Duo,Lagos,Walk-in,Completed,1,11300,5200,0,No,3,Everyday
+LLH-00164,2026-05-10,LLH-C0483,T01,Tableware,Stoneware Mug Pair,Kwara,Instagram,Completed,2,16900,9200,0.1,No,,Birthday
+LLH-00329,2026-05-10,LLH-C0378,D02,Decor,Ceramic Flower Vase,Abuja,Referral,Completed,1,15400,8400,0,Yes,,Housewarming
+LLH-00333,2026-05-10,LLH-C0409,T01,Tableware,Stoneware Mug Pair,Rivers,Walk-in,Cancelled,1,16900,9200,0,No,,Anniversary
+LLH-00497,2026-05-10,LLH-C0015,L03,Lighting,Minimalist Desk Light,Enugu,Walk-in,Completed,1,18800,10200,0.05,Yes,5,Housewarming
+LLH-01303,2026-05-10,LLH-C0051,D01,Decor,Woven Wall Basket,Abuja,Marketplace,Cancelled,1,13700,7300,0.05,No,,Everyday
+LLH-01228,2026-05-11,LLH-C0417,B02,Textiles,Premium Cushion Set,Abuja,Referral,Returned,1,19500,10500,0.05,No,,Everyday
+LLH-00421,2026-05-12,LLH-C0440,L01,Lighting,Pendant Lantern,Abuja,WhatsApp,Completed,2,28500,15500,0.05,No,4,Everyday
+LLH-00477,2026-05-12,LLH-C0103,T03,Tableware,Dinner Plate Set,Oyo,Instagram,Completed,1,37900,21200,0.1,No,5,Everyday
+LLH-01443,2026-05-12,LLH-C0337,B01,Textiles,Cotton Throw Blanket,Lagos,Website,Completed,1,24500,14000,0,No,,Everyday
+LLH-00689,2026-05-13,LLH-C0368,A02,Aromas,Essential Oil Diffuser,Enugu,Instagram,Completed,2,26600,14800,0,No,,Everyday
+LLH-01192,2026-05-13,LLH-C0449,A03,Aromas,Room Spray Duo,Ogun,Website,Returned,1,11300,5200,0,No,,Everyday
+LLH-00444,2026-05-14,LLH-C0182,A02,Aromas,Essential Oil Diffuser,Enugu,Website,Returned,1,26600,14800,0,Yes,,Birthday
+LLH-00490,2026-05-14,LLH-C0259,B01,Textiles,Cotton Throw Blanket,Lagos,Website,Completed,1,24500,14000,0,No,4,Everyday
+LLH-00530,2026-05-14,LLH-C0192,D01,Decor,Woven Wall Basket,Lagos,Referral,Completed,3,13700,7300,0.1,No,,Everyday
+LLH-00661,2026-05-14,LLH-C0425,T02,Tableware,Serving Tray Set,Kwara,Website,Cancelled,1,24900,13300,0,No,,Holiday
+LLH-00365,2026-05-15,LLH-C0483,G01,Gift Sets,Celebration Gift Box,Not Provided,Website,Completed,1,31500,17900,0,Yes,3,Birthday
+LLH-01333,2026-05-15,LLH-C0369,B01,Textiles,Cotton Throw Blanket,Lagos,Website,Completed,3,24500,14000,0,Yes,,Birthday
+LLH-01337,2026-05-15,LLH-C0245,T03,Tableware,Dinner Plate Set,Lagos,Marketplace,Completed,2,37900,21200,0.05,Yes,5,Anniversary
+LLH-00117,2026-05-16,LLH-C0194,T03,Tableware,Dinner Plate Set,Lagos,Marketplace,Completed,2,37900,21200,0,No,,Everyday
+LLH-00231,2026-05-16,LLH-C0440,T03,Tableware,Dinner Plate Set,Kwara,Referral,Completed,2,37900,21200,0.05,No,,Anniversary
+LLH-00280,2026-05-16,LLH-C0303,A02,Aromas,Essential Oil Diffuser,Rivers,Marketplace,Completed,2,26600,14800,0,No,,Everyday
+LLH-00950,2026-05-16,LLH-C0513,T01,Tableware,Stoneware Mug Pair,Lagos,Referral,Returned,3,16900,9200,0.15,No,,Everyday
+LLH-01153,2026-05-16,LLH-C0477,A01,Aromas,Scented Candle Trio,Osun,Marketplace,Completed,1,14900,6900,0,No,4,Birthday
+LLH-00186,2026-05-17,LLH-C0225,T02,Tableware,Serving Tray Set,Kwara,Walk-in,Completed,1,24900,13300,0.1,Yes,4,Housewarming
+LLH-00729,2026-05-17,LLH-C0274,B01,Textiles,Cotton Throw Blanket,Lagos,WhatsApp,Completed,1,24500,14000,0,No,4,Holiday
+LLH-01410,2026-05-17,LLH-C0506,D02,Decor,Ceramic Flower Vase,Abuja,WhatsApp,Completed,2,15400,8400,0,No,4,Everyday
+LLH-00219,2026-05-19,LLH-C0094,L03,Lighting,Minimalist Desk Light,Not Provided,Referral,Completed,1,18800,10200,0.05,Yes,5,Anniversary
+LLH-00334,2026-05-19,LLH-C0256,A02,Aromas,Essential Oil Diffuser,Lagos,Instagram,Completed,1,26600,14800,0,Yes,5,Wedding
+LLH-00614,2026-05-20,LLH-C0408,B02,Textiles,Premium Cushion Set,Oyo,WhatsApp,Completed,4,19500,10500,0.15,Yes,4,Birthday
+LLH-00652,2026-05-20,LLH-C0490,A01,Aromas,Scented Candle Trio,Enugu,WhatsApp,Completed,1,14900,6900,0.05,No,3,Wedding
+LLH-00823,2026-05-20,LLH-C0279,A03,Aromas,Room Spray Duo,Oyo,Instagram,Completed,1,11300,5200,0.05,No,,Birthday
+LLH-00972,2026-05-20,LLH-C0246,B03,Textiles,Linen Table Runner,Osun,WhatsApp,Completed,1,12200,6900,0,No,,Everyday
+LLH-01110,2026-05-20,LLH-C0283,D01,Decor,Woven Wall Basket,Oyo,Instagram,Completed,1,13700,7300,0.05,No,,Everyday
+LLH-01155,2026-05-20,LLH-C0482,T01,Tableware,Stoneware Mug Pair,Rivers,Instagram,Returned,1,16900,9200,0,No,,Everyday
+LLH-01353,2026-05-20,LLH-C0094,T01,Tableware,Stoneware Mug Pair,Kwara,Instagram,Completed,1,16900,9200,0,No,4,Wedding
+LLH-00123,2026-05-21,LLH-C0375,A01,Aromas,Scented Candle Trio,Lagos,Walk-in,Completed,2,14900,6900,0.1,Yes,4,Anniversary
+LLH-00163,2026-05-21,LLH-C0165,T03,Tableware,Dinner Plate Set,Lagos,Website,Completed,3,37900,21200,0,No,5,Birthday
+LLH-00441,2026-05-21,LLH-C0361,A01,Aromas,Scented Candle Trio,Ogun,Referral,Completed,1,14900,6900,0,No,4,Everyday
+LLH-00154,2026-05-22,LLH-C0483,D01,Decor,Woven Wall Basket,Lagos,Instagram,Completed,1,13700,7300,0,No,3,Everyday
+LLH-00730,2026-05-22,LLH-C0483,D02,Decor,Ceramic Flower Vase,Not Provided,Instagram,Cancelled,1,15400,8400,0.1,No,,Everyday
+LLH-01116,2026-05-22,LLH-C0039,L03,Lighting,Minimalist Desk Light,Enugu,Referral,Completed,2,18800,10200,0.1,Yes,4,Birthday
+LLH-01339,2026-05-22,LLH-C0473,A03,Aromas,Room Spray Duo,Oyo,Referral,Completed,1,11300,5200,0,No,4,Birthday
+LLH-01412,2026-05-22,LLH-C0307,T03,Tableware,Dinner Plate Set,Abuja,Referral,Completed,3,37900,21200,0.05,Yes,4,Birthday
+LLH-00072,2026-05-23,LLH-C0417,L02,Lighting,Ambient Table Lamp,Rivers,Website,Completed,1,22500,12300,0,Yes,3,Anniversary
+LLH-01037,2026-05-23,LLH-C0219,A01,Aromas,Scented Candle Trio,Abuja,Walk-in,Completed,1,14900,6900,0.05,No,4,Everyday
+LLH-01098,2026-05-25,LLH-C0367,A02,Aromas,Essential Oil Diffuser,Abuja,Walk-in,Completed,2,26600,14800,0,No,,Everyday
+LLH-00600,2026-05-26,LLH-C0270,A01,Aromas,Scented Candle Trio,Rivers,Website,Completed,2,14900,6900,0.05,No,5,Wedding
+LLH-00603,2026-05-27,LLH-C0053,B03,Textiles,Linen Table Runner,Kwara,Instagram,Completed,1,12200,6900,0,Yes,3,Housewarming
+LLH-00520,2026-05-28,LLH-C0425,A01,Aromas,Scented Candle Trio,Abuja,Instagram,Cancelled,2,14900,6900,0,No,,Everyday
+LLH-00648,2026-05-28,LLH-C0328,L02,Lighting,Ambient Table Lamp,Oyo,Walk-in,Completed,1,22500,12300,0,No,,Everyday
+LLH-00768,2026-05-28,LLH-C0423,G03,Gift Sets,Thank You Gift Set,Kwara,Instagram,Completed,1,21400,11700,0.1,Yes,4,Everyday
+LLH-00223,2026-05-29,LLH-C0071,B03,Textiles,Linen Table Runner,Lagos,Walk-in,Completed,1,12200,6900,0,No,,Everyday
+LLH-00010,2026-05-30,LLH-C0332,T01,Tableware,Stoneware Mug Pair,Lagos,WhatsApp,Completed,1,16900,9200,0.1,No,4,Everyday
+LLH-00383,2026-05-30,LLH-C0406,B03,Textiles,Linen Table Runner,Lagos,Referral,Cancelled,1,12200,6900,0,No,,Everyday
+LLH-00630,2026-05-30,LLH-C0429,B02,Textiles,Premium Cushion Set,Abuja,Website,Completed,1,19500,10500,0.05,No,4,Everyday
+LLH-01154,2026-05-30,LLH-C0383,A01,Aromas,Scented Candle Trio,Lagos,Referral,Completed,3,14900,6900,0.05,No,4,Everyday
+LLH-00591,2026-05-31,LLH-C0074,L02,Lighting,Ambient Table Lamp,Lagos,WhatsApp,Completed,1,22500,12300,0,No,5,Housewarming
+LLH-01205,2026-05-31,LLH-C0447,T02,Tableware,Serving Tray Set,Lagos,Referral,Cancelled,1,24900,13300,0.05,No,,Everyday
+LLH-00194,2026-06-01,LLH-C0382,B02,Textiles,Premium Cushion Set,Abuja,Website,Returned,3,19500,10500,0.1,No,,Everyday
+LLH-00273,2026-06-01,LLH-C0445,G03,Gift Sets,Thank You Gift Set,Lagos,Referral,Completed,3,21400,11700,0,Yes,5,Birthday
+LLH-00624,2026-06-01,LLH-C0351,L03,Lighting,Minimalist Desk Light,Rivers,Instagram,Completed,1,18800,10200,0,No,5,Wedding
+LLH-01338,2026-06-01,LLH-C0237,T01,Tableware,Stoneware Mug Pair,Abuja,Instagram,Completed,1,16900,9200,0,No,,Birthday
+LLH-01346,2026-06-01,LLH-C0225,D02,Decor,Ceramic Flower Vase,Ogun,Marketplace,Completed,1,15400,8400,0.05,No,4,Everyday
+LLH-00097,2026-06-02,LLH-C0332,B01,Textiles,Cotton Throw Blanket,Ogun,Website,Completed,2,24500,14000,0,No,4,Birthday
+LLH-00739,2026-06-02,LLH-C0233,D01,Decor,Woven Wall Basket,Abuja,Instagram,Returned,2,13700,7300,0.05,No,,Housewarming
+LLH-01101,2026-06-03,LLH-C0359,D02,Decor,Ceramic Flower Vase,Lagos,Instagram,Cancelled,2,15400,8400,0,No,,Housewarming
+LLH-01389,2026-06-03,LLH-C0417,T02,Tableware,Serving Tray Set,Oyo,WhatsApp,Completed,2,24900,13300,0.15,Yes,3,Wedding
+LLH-01411,2026-06-03,LLH-C0109,T03,Tableware,Dinner Plate Set,Osun,Instagram,Completed,2,37900,21200,0.05,No,5,Birthday
+LLH-00412,2026-06-05,LLH-C0444,D01,Decor,Woven Wall Basket,Ogun,Marketplace,Completed,1,13700,7300,0,No,5,Birthday
+LLH-00746,2026-06-05,LLH-C0254,T01,Tableware,Stoneware Mug Pair,Lagos,Referral,Completed,1,16900,9200,0.05,Yes,4,Birthday
+LLH-00106,2026-06-06,LLH-C0425,D01,Decor,Woven Wall Basket,Kwara,Instagram,Completed,1,13700,7300,0,No,3,Birthday
+LLH-00512,2026-06-06,LLH-C0138,G02,Gift Sets,Housewarming Bundle,Osun,Marketplace,Completed,1,44500,25100,0.05,Yes,5,Housewarming
+LLH-01208,2026-06-07,LLH-C0123,A01,Aromas,Scented Candle Trio,Rivers,WhatsApp,Completed,1,14900,6900,0,No,4,Everyday
+LLH-01292,2026-06-07,LLH-C0281,T01,Tableware,Stoneware Mug Pair,Abuja,WhatsApp,Returned,1,16900,9200,0,No,,Everyday
+LLH-00299,2026-06-09,LLH-C0407,D02,Decor,Ceramic Flower Vase,Enugu,Instagram,Completed,1,15400,8400,0,No,4,Everyday
+LLH-00710,2026-06-09,LLH-C0347,B01,Textiles,Cotton Throw Blanket,Lagos,Referral,Returned,2,24500,14000,0,No,,Everyday
+LLH-00816,2026-06-10,LLH-C0287,B03,Textiles,Linen Table Runner,Oyo,Referral,Completed,1,12200,6900,0.15,No,2,Birthday
+LLH-01127,2026-06-10,LLH-C0483,A01,Aromas,Scented Candle Trio,Oyo,Website,Completed,1,14900,6900,0,Yes,4,Birthday
+LLH-01246,2026-06-10,LLH-C0323,D03,Decor,Handcrafted Wall Frame,Osun,Walk-in,Completed,3,17500,9600,0,No,5,Everyday
+LLH-00153,2026-06-11,LLH-C0304,L01,Lighting,Pendant Lantern,Osun,Walk-in,Completed,1,28500,15500,0.1,No,,Birthday
+LLH-00663,2026-06-12,LLH-C0390,T03,Tableware,Dinner Plate Set,Lagos,Referral,Completed,1,37900,21200,0.1,No,3,Everyday
+LLH-00769,2026-06-12,LLH-C0171,T01,Tableware,Stoneware Mug Pair,Abuja,Walk-in,Completed,2,16900,9200,0,No,5,Birthday
+LLH-01039,2026-06-12,LLH-C0261,L02,Lighting,Ambient Table Lamp,Lagos,Instagram,Completed,2,22500,12300,0,No,5,Everyday
+LLH-00075,2026-06-14,LLH-C0392,L03,Lighting,Minimalist Desk Light,Abuja,WhatsApp,Completed,1,18800,10200,0,No,,Housewarming
+LLH-00727,2026-06-14,LLH-C0447,A01,Aromas,Scented Candle Trio,Osun,Instagram,Cancelled,2,14900,6900,0,No,,Everyday
+LLH-00903,2026-06-14,LLH-C0034,D02,Decor,Ceramic Flower Vase,Lagos,Referral,Completed,4,15400,8400,0,No,4,Everyday
+LLH-01035,2026-06-14,LLH-C0462,G02,Gift Sets,Housewarming Bundle,Oyo,Marketplace,Completed,2,44500,25100,0,Yes,,Wedding
+LLH-01418,2026-06-14,LLH-C0353,A03,Aromas,Room Spray Duo,Enugu,Referral,Cancelled,2,11300,5200,0,No,,Birthday
+LLH-00932,2026-06-15,LLH-C0366,A01,Aromas,Scented Candle Trio,Lagos,Website,Returned,1,14900,6900,0,Yes,,Housewarming
+LLH-00087,2026-06-16,LLH-C0286,A03,Aromas,Room Spray Duo,Oyo,Website,Completed,2,11300,5200,0.05,No,4,Everyday
+LLH-00094,2026-06-16,LLH-C0462,A02,Aromas,Essential Oil Diffuser,Enugu,Instagram,Completed,2,26600,14800,0.05,Yes,2,Birthday
+LLH-01140,2026-06-16,LLH-C0278,B02,Textiles,Premium Cushion Set,Lagos,Instagram,Cancelled,1,19500,10500,0,Yes,,Anniversary
+LLH-00860,2026-06-17,LLH-C0074,G03,Gift Sets,Thank You Gift Set,Enugu,Walk-in,Completed,1,21400,11700,0,Yes,5,Everyday
+LLH-00225,2026-06-18,LLH-C0020,L03,Lighting,Minimalist Desk Light,Rivers,Walk-in,Completed,3,18800,10200,0.05,No,4,Everyday
+LLH-00316,2026-06-18,LLH-C0092,A02,Aromas,Essential Oil Diffuser,Rivers,Website,Completed,1,26600,14800,0,No,5,Everyday
+LLH-00558,2026-06-18,LLH-C0143,B01,Textiles,Cotton Throw Blanket,Oyo,WhatsApp,Completed,2,24500,14000,0,No,,Everyday
+LLH-00597,2026-06-18,LLH-C0307,L02,Lighting,Ambient Table Lamp,Abuja,WhatsApp,Completed,1,22500,12300,0.05,No,5,Everyday
+LLH-01274,2026-06-18,LLH-C0092,L01,Lighting,Pendant Lantern,Rivers,Instagram,Completed,1,28500,15500,0,No,5,Everyday
+LLH-00207,2026-06-19,LLH-C0047,L01,Lighting,Pendant Lantern,Enugu,WhatsApp,Completed,2,28500,15500,0,No,4,Everyday
+LLH-01026,2026-06-19,LLH-C0254,B02,Textiles,Premium Cushion Set,Rivers,Marketplace,Cancelled,2,19500,10500,0.1,No,,Everyday
+LLH-01051,2026-06-19,LLH-C0030,T03,Tableware,Dinner Plate Set,Osun,Walk-in,Completed,1,37900,21200,0.1,No,5,Everyday
+LLH-01260,2026-06-19,LLH-C0208,D02,Decor,Ceramic Flower Vase,Rivers,WhatsApp,Completed,1,15400,8400,0.05,Yes,,Birthday
+LLH-01297,2026-06-19,LLH-C0477,G02,Gift Sets,Housewarming Bundle,Oyo,WhatsApp,Completed,1,44500,25100,0.05,Yes,2,Birthday
+LLH-00263,2026-06-20,LLH-C0216,T02,Tableware,Serving Tray Set,Kwara,Walk-in,Cancelled,1,24900,13300,0,Yes,,Anniversary
+LLH-00256,2026-06-21,LLH-C0031,B03,Textiles,Linen Table Runner,Kwara,Instagram,Completed,4,12200,6900,0,Yes,4,Birthday
+LLH-00834,2026-06-21,LLH-C0457,G02,Gift Sets,Housewarming Bundle,Osun,Marketplace,Completed,1,44500,25100,0,Yes,5,Everyday
+LLH-00835,2026-06-21,LLH-C0269,B03,Textiles,Linen Table Runner,Abuja,WhatsApp,Completed,1,12200,6900,0.05,No,4,Everyday
+LLH-00324,2026-06-22,LLH-C0368,G02,Gift Sets,Housewarming Bundle,Lagos,Website,Cancelled,1,44500,25100,0,Yes,,Everyday
+LLH-00429,2026-06-22,LLH-C0425,A01,Aromas,Scented Candle Trio,Abuja,Website,Completed,4,14900,6900,0.05,No,4,Everyday
+LLH-00987,2026-06-22,LLH-C0355,L03,Lighting,Minimalist Desk Light,Rivers,WhatsApp,Completed,1,18800,10200,0.1,No,4,Everyday
+LLH-01217,2026-06-22,LLH-C0032,L03,Lighting,Minimalist Desk Light,Osun,Website,Completed,1,18800,10200,0,Yes,5,Birthday
+LLH-00081,2026-06-23,LLH-C0483,L01,Lighting,Pendant Lantern,Lagos,Instagram,Completed,2,28500,15500,0.15,No,4,Everyday
+LLH-00261,2026-06-24,LLH-C0456,A02,Aromas,Essential Oil Diffuser,Rivers,Instagram,Completed,4,26600,14800,0,No,,Birthday
+LLH-00654,2026-06-24,LLH-C0139,T03,Tableware,Dinner Plate Set,Lagos,Referral,Returned,1,37900,21200,0,No,,Everyday
+LLH-00677,2026-06-24,LLH-C0028,D02,Decor,Ceramic Flower Vase,Abuja,Website,Cancelled,1,15400,8400,0.05,No,,Everyday
+LLH-00551,2026-06-25,LLH-C0498,B02,Textiles,Premium Cushion Set,Ogun,Website,Completed,2,19500,10500,0,No,4,Everyday
+LLH-00557,2026-06-26,LLH-C0363,D03,Decor,Handcrafted Wall Frame,Lagos,Website,Completed,3,17500,9600,0,No,4,Everyday
+LLH-00698,2026-06-26,LLH-C0074,G02,Gift Sets,Housewarming Bundle,Abuja,WhatsApp,Completed,1,44500,25100,0.1,Yes,4,Birthday
+LLH-00939,2026-06-26,LLH-C0320,T03,Tableware,Dinner Plate Set,Ogun,Referral,Returned,1,37900,21200,0.05,No,,Everyday
+LLH-01428,2026-06-27,LLH-C0223,D01,Decor,Woven Wall Basket,Lagos,Walk-in,Returned,1,13700,7300,0,Yes,,Birthday
+LLH-00414,2026-06-28,LLH-C0319,D02,Decor,Ceramic Flower Vase,Lagos,Instagram,Completed,1,15400,8400,0,No,4,Everyday
+LLH-00722,2026-06-28,LLH-C0028,T01,Tableware,Stoneware Mug Pair,Oyo,Walk-in,Completed,2,16900,9200,0.1,No,4,Everyday
+LLH-00800,2026-06-28,LLH-C0180,T01,Tableware,Stoneware Mug Pair,Osun,Website,Completed,1,16900,9200,0.15,Yes,4,Birthday
+LLH-01080,2026-06-28,LLH-C0076,L02,Lighting,Ambient Table Lamp,Osun,Website,Completed,1,22500,12300,0,No,5,Birthday
+LLH-01132,2026-06-29,LLH-C0094,L01,Lighting,Pendant Lantern,Kwara,WhatsApp,Completed,1,28500,15500,0,Yes,3,Birthday
+LLH-00330,2026-06-30,LLH-C0254,B02,Textiles,Premium Cushion Set,Abuja,Marketplace,Completed,1,19500,10500,0,Yes,5,Birthday
+LLH-00475,2026-06-30,LLH-C0238,L03,Lighting,Minimalist Desk Light,Abuja,Website,Cancelled,1,18800,10200,0,Yes,,Birthday
+LLH-00617,2026-06-30,LLH-C0307,D02,Decor,Ceramic Flower Vase,Enugu,Instagram,Completed,1,15400,8400,0,No,5,Housewarming
+LLH-00774,2026-06-30,LLH-C0268,L03,Lighting,Minimalist Desk Light,Lagos,WhatsApp,Completed,1,18800,10200,0.05,No,5,Anniversary
+LLH-00980,2026-06-30,LLH-C0007,L01,Lighting,Pendant Lantern,Osun,Website,Completed,1,28500,15500,0.1,No,3,Everyday
+LLH-01059,2026-07-01,LLH-C0074,T01,Tableware,Stoneware Mug Pair,Lagos,Website,Returned,2,16900,9200,0.05,No,,Housewarming
+LLH-00492,2026-07-02,LLH-C0103,L03,Lighting,Minimalist Desk Light,Kwara,WhatsApp,Completed,2,18800,10200,0,Yes,,Birthday
+LLH-00587,2026-07-02,LLH-C0347,B01,Textiles,Cotton Throw Blanket,Abuja,Marketplace,Completed,2,24500,14000,0.05,No,3,Everyday
+LLH-00790,2026-07-02,LLH-C0430,G02,Gift Sets,Housewarming Bundle,Osun,WhatsApp,Completed,1,44500,25100,0.1,Yes,2,Wedding
+LLH-01083,2026-07-03,LLH-C0194,G03,Gift Sets,Thank You Gift Set,Lagos,Instagram,Cancelled,1,21400,11700,0,Yes,,Everyday
+LLH-01342,2026-07-03,LLH-C0378,A03,Aromas,Room Spray Duo,Lagos,Website,Completed,3,11300,5200,0,No,4,Birthday
+LLH-00494,2026-07-04,LLH-C0381,L03,Lighting,Minimalist Desk Light,Oyo,Website,Completed,1,18800,10200,0.15,No,,Everyday
+LLH-00828,2026-07-04,LLH-C0254,A02,Aromas,Essential Oil Diffuser,Osun,Instagram,Completed,2,26600,14800,0,No,2,Birthday
+LLH-01099,2026-07-04,LLH-C0096,D03,Decor,Handcrafted Wall Frame,Rivers,Instagram,Completed,1,17500,9600,0.15,No,,Everyday
+LLH-00839,2026-07-05,LLH-C0103,B03,Textiles,Linen Table Runner,Lagos,Referral,Completed,2,12200,6900,0,No,,Everyday
+LLH-00896,2026-07-05,LLH-C0247,T02,Tableware,Serving Tray Set,Abuja,Instagram,Completed,1,24900,13300,0.1,Yes,5,Holiday
+LLH-00929,2026-07-05,LLH-C0513,G03,Gift Sets,Thank You Gift Set,Osun,Instagram,Completed,2,21400,11700,0.05,Yes,,Everyday
+LLH-00046,2026-07-06,LLH-C0117,B02,Textiles,Premium Cushion Set,Lagos,Instagram,Completed,1,19500,10500,0.05,No,5,Everyday
+LLH-00098,2026-07-07,LLH-C0108,G02,Gift Sets,Housewarming Bundle,Lagos,Website,Completed,1,44500,25100,0,Yes,3,Holiday
+LLH-00203,2026-07-07,LLH-C0270,L01,Lighting,Pendant Lantern,Osun,Instagram,Completed,1,28500,15500,0,Yes,,Wedding
+LLH-00399,2026-07-07,LLH-C0024,B02,Textiles,Premium Cushion Set,Oyo,Website,Completed,1,19500,10500,0.15,Yes,3,Anniversary
+LLH-00658,2026-07-07,LLH-C0262,D01,Decor,Woven Wall Basket,Lagos,Instagram,Completed,2,13700,7300,0.1,Yes,,Housewarming
+LLH-00931,2026-07-07,LLH-C0451,G02,Gift Sets,Housewarming Bundle,Lagos,Referral,Completed,1,44500,25100,0.05,Yes,,Birthday
+LLH-00963,2026-07-07,LLH-C0433,B03,Textiles,Linen Table Runner,Kwara,Walk-in,Completed,1,12200,6900,0.1,Yes,5,Anniversary
+LLH-00306,2026-07-08,LLH-C0041,T03,Tableware,Dinner Plate Set,Abuja,Referral,Completed,1,37900,21200,0,No,5,Wedding
+LLH-01226,2026-07-08,LLH-C0157,D03,Decor,Handcrafted Wall Frame,Ogun,Website,Completed,1,17500,9600,0,Yes,5,Housewarming
+LLH-00594,2026-07-09,LLH-C0164,A03,Aromas,Room Spray Duo,Abuja,Referral,Completed,1,11300,5200,0,Yes,5,Housewarming
+LLH-00836,2026-07-09,LLH-C0272,B01,Textiles,Cotton Throw Blanket,Abuja,Website,Completed,1,24500,14000,0.05,No,4,Everyday
+LLH-01040,2026-07-09,LLH-C0131,G03,Gift Sets,Thank You Gift Set,Kwara,WhatsApp,Completed,1,21400,11700,0.05,Yes,2,Everyday
+LLH-00021,2026-07-10,LLH-C0131,L01,Lighting,Pendant Lantern,Enugu,WhatsApp,Completed,1,28500,15500,0.15,No,5,Everyday
+LLH-00277,2026-07-10,LLH-C0242,T03,Tableware,Dinner Plate Set,Lagos,Referral,Cancelled,2,37900,21200,0,No,,Everyday
+LLH-00891,2026-07-10,LLH-C0233,T01,Tableware,Stoneware Mug Pair,Lagos,Instagram,Completed,1,16900,9200,0,No,5,Housewarming
+LLH-01117,2026-07-10,LLH-C0483,B02,Textiles,Premium Cushion Set,Oyo,WhatsApp,Completed,1,19500,10500,0,Yes,5,Holiday
+LLH-00070,2026-07-11,LLH-C0518,G01,Gift Sets,Celebration Gift Box,Abuja,Referral,Completed,1,31500,17900,0,Yes,2,Housewarming
+LLH-00286,2026-07-11,LLH-C0381,T02,Tableware,Serving Tray Set,Lagos,Instagram,Completed,1,24900,13300,0,Yes,4,Birthday
+LLH-00681,2026-07-11,LLH-C0417,T02,Tableware,Serving Tray Set,Osun,Referral,Completed,1,24900,13300,0,No,,Housewarming
+LLH-00906,2026-07-11,LLH-C0294,B01,Textiles,Cotton Throw Blanket,Lagos,Instagram,Cancelled,4,24500,14000,0.15,Yes,,Wedding
+LLH-01002,2026-07-11,LLH-C0474,D01,Decor,Woven Wall Basket,Ogun,Website,Completed,2,13700,7300,0,No,5,Everyday
+LLH-00195,2026-07-12,LLH-C0355,B02,Textiles,Premium Cushion Set,Abuja,WhatsApp,Completed,1,19500,10500,0,Yes,,Housewarming
+LLH-00274,2026-07-12,LLH-C0323,G02,Gift Sets,Housewarming Bundle,Kwara,Website,Completed,1,44500,25100,0.1,Yes,5,Everyday
+LLH-00572,2026-07-12,LLH-C0254,D01,Decor,Woven Wall Basket,Kwara,Website,Completed,1,13700,7300,0.05,No,4,Everyday
+LLH-00763,2026-07-12,LLH-C0483,L02,Lighting,Ambient Table Lamp,Abuja,Website,Completed,1,22500,12300,0,No,,Birthday
+LLH-00095,2026-07-13,LLH-C0036,B03,Textiles,Linen Table Runner,Lagos,Website,Completed,1,12200,6900,0,No,,Anniversary
+LLH-01020,2026-07-13,LLH-C0466,L03,Lighting,Minimalist Desk Light,Abuja,Referral,Completed,1,18800,10200,0.1,No,5,Everyday
+LLH-00288,2026-07-14,LLH-C0079,L03,Lighting,Minimalist Desk Light,Lagos,Instagram,Completed,1,18800,10200,0.15,No,5,Everyday
+LLH-00376,2026-07-14,LLH-C0444,A01,Aromas,Scented Candle Trio,Abuja,Walk-in,Completed,1,14900,6900,0,No,5,Everyday
+LLH-00511,2026-07-14,LLH-C0097,T03,Tableware,Dinner Plate Set,Not Provided,Instagram,Completed,1,37900,21200,0.05,Yes,,Holiday
+LLH-01025,2026-07-14,LLH-C0047,G03,Gift Sets,Thank You Gift Set,Rivers,Instagram,Completed,2,21400,11700,0.05,Yes,3,Birthday
+LLH-01044,2026-07-14,LLH-C0456,A03,Aromas,Room Spray Duo,Oyo,Website,Completed,2,11300,5200,0,Yes,4,Anniversary
+LLH-00447,2026-07-15,LLH-C0084,T01,Tableware,Stoneware Mug Pair,Rivers,WhatsApp,Completed,2,16900,9200,0,No,5,Birthday
+LLH-00461,2026-07-17,LLH-C0025,A01,Aromas,Scented Candle Trio,Lagos,Instagram,Completed,1,14900,6900,0,No,5,Holiday
+LLH-00646,2026-07-17,LLH-C0450,T02,Tableware,Serving Tray Set,Lagos,Referral,Completed,1,24900,13300,0.15,No,4,Anniversary
+LLH-00940,2026-07-17,LLH-C0390,L03,Lighting,Minimalist Desk Light,Abuja,Website,Completed,1,18800,10200,0,No,,Everyday
+LLH-00104,2026-07-18,LLH-C0373,D03,Decor,Handcrafted Wall Frame,Lagos,Instagram,Cancelled,1,17500,9600,0.15,No,,Anniversary
+LLH-01372,2026-07-18,LLH-C0259,A03,Aromas,Room Spray Duo,Osun,Referral,Returned,3,11300,5200,0.15,No,,Everyday
+LLH-00270,2026-07-19,LLH-C0090,T03,Tableware,Dinner Plate Set,Lagos,Referral,Completed,1,37900,21200,0.05,Yes,5,Birthday
+LLH-00093,2026-07-21,LLH-C0225,A03,Aromas,Room Spray Duo,Rivers,Referral,Completed,1,11300,5200,0.1,No,5,Everyday
+LLH-00214,2026-07-21,LLH-C0064,T03,Tableware,Dinner Plate Set,Lagos,Website,Completed,1,37900,21200,0,No,,Everyday
+LLH-00636,2026-07-21,LLH-C0497,G02,Gift Sets,Housewarming Bundle,Osun,WhatsApp,Completed,2,44500,25100,0,Yes,5,Birthday
+LLH-00692,2026-07-21,LLH-C0488,L01,Lighting,Pendant Lantern,Enugu,Website,Completed,1,28500,15500,0,Yes,4,Anniversary
+LLH-00115,2026-07-22,LLH-C0088,A03,Aromas,Room Spray Duo,Oyo,Instagram,Completed,1,11300,5200,0,No,5,Everyday
+LLH-00221,2026-07-22,LLH-C0022,A02,Aromas,Essential Oil Diffuser,Oyo,Website,Returned,1,26600,14800,0.1,No,,Wedding
+LLH-01033,2026-07-22,LLH-C0274,G02,Gift Sets,Housewarming Bundle,Enugu,Walk-in,Completed,1,44500,25100,0,Yes,4,Everyday
+LLH-00337,2026-07-23,LLH-C0050,G03,Gift Sets,Thank You Gift Set,Oyo,WhatsApp,Completed,1,21400,11700,0,Yes,2,Birthday
+LLH-00355,2026-07-23,LLH-C0409,L01,Lighting,Pendant Lantern,Abuja,Referral,Completed,1,28500,15500,0.1,Yes,4,Birthday
+LLH-00410,2026-07-23,LLH-C0447,D01,Decor,Woven Wall Basket,Ogun,Marketplace,Completed,1,13700,7300,0.1,No,2,Birthday
+LLH-00556,2026-07-24,LLH-C0059,G03,Gift Sets,Thank You Gift Set,Osun,Instagram,Completed,1,21400,11700,0,Yes,5,Birthday
+LLH-01001,2026-07-24,LLH-C0423,T02,Tableware,Serving Tray Set,Rivers,Instagram,Completed,2,24900,13300,0.1,No,3,Everyday
+LLH-01007,2026-07-24,LLH-C0377,T01,Tableware,Stoneware Mug Pair,Abuja,WhatsApp,Completed,2,16900,9200,0,No,2,Birthday
+LLH-01256,2026-07-24,LLH-C0251,D01,Decor,Woven Wall Basket,Abuja,WhatsApp,Completed,1,13700,7300,0.15,No,,Everyday
+LLH-01450,2026-07-24,LLH-C0392,L02,Lighting,Ambient Table Lamp,Lagos,WhatsApp,Returned,1,22500,12300,0,No,,Birthday
+LLH-00298,2026-07-25,LLH-C0143,G02,Gift Sets,Housewarming Bundle,Enugu,Referral,Completed,1,44500,25100,0,Yes,4,Housewarming
+LLH-00351,2026-07-26,LLH-C0035,T03,Tableware,Dinner Plate Set,Abuja,Website,Cancelled,1,37900,21200,0.1,Yes,,Birthday
+LLH-01108,2026-07-26,LLH-C0259,G03,Gift Sets,Thank You Gift Set,Enugu,Walk-in,Completed,1,21400,11700,0.1,Yes,,Anniversary
+LLH-01345,2026-07-26,LLH-C0302,D03,Decor,Handcrafted Wall Frame,Lagos,Marketplace,Completed,1,17500,9600,0,Yes,4,Anniversary
+LLH-00171,2026-07-27,LLH-C0499,B03,Textiles,Linen Table Runner,Enugu,WhatsApp,Completed,1,12200,6900,0,No,4,Anniversary
+LLH-00439,2026-07-27,LLH-C0244,D02,Decor,Ceramic Flower Vase,Oyo,WhatsApp,Completed,1,15400,8400,0.05,No,,Everyday
+LLH-01043,2026-07-27,LLH-C0193,G01,Gift Sets,Celebration Gift Box,Lagos,Referral,Completed,1,31500,17900,0,Yes,5,Holiday
+LLH-00001,2026-07-28,LLH-C0278,D03,Decor,Handcrafted Wall Frame,Osun,Referral,Completed,3,17500,9600,0,No,4,Wedding
+LLH-01403,2026-07-28,LLH-C0184,G02,Gift Sets,Housewarming Bundle,Oyo,WhatsApp,Completed,2,44500,25100,0,Yes,,Everyday
+LLH-00573,2026-07-29,LLH-C0047,A02,Aromas,Essential Oil Diffuser,Lagos,Referral,Completed,1,26600,14800,0.1,No,,Housewarming
+LLH-00018,2026-07-30,LLH-C0397,B03,Textiles,Linen Table Runner,Lagos,Referral,Completed,2,12200,6900,0,No,,Everyday
+LLH-00360,2026-07-30,LLH-C0299,L03,Lighting,Minimalist Desk Light,Abuja,WhatsApp,Completed,1,18800,10200,0.1,No,4,Everyday
+LLH-00772,2026-07-31,LLH-C0430,G02,Gift Sets,Housewarming Bundle,Oyo,Instagram,Completed,1,44500,25100,0,Yes,3,Housewarming
+LLH-01248,2026-07-31,LLH-C0247,D01,Decor,Woven Wall Basket,Rivers,WhatsApp,Cancelled,1,13700,7300,0.05,No,,Everyday
+LLH-01159,2026-08-01,LLH-C0418,G03,Gift Sets,Thank You Gift Set,Rivers,WhatsApp,Completed,1,21400,11700,0,Yes,,Housewarming
+LLH-01168,2026-08-02,LLH-C0035,T02,Tableware,Serving Tray Set,Not Provided,WhatsApp,Completed,1,24900,13300,0.05,No,,Everyday
+LLH-00578,2026-08-03,LLH-C0051,G03,Gift Sets,Thank You Gift Set,Abuja,Website,Cancelled,1,21400,11700,0,Yes,,Birthday
+LLH-00889,2026-08-03,LLH-C0261,T01,Tableware,Stoneware Mug Pair,Abuja,WhatsApp,Completed,2,16900,9200,0.15,Yes,3,Wedding
+LLH-00134,2026-08-04,LLH-C0192,A01,Aromas,Scented Candle Trio,Osun,Instagram,Completed,2,14900,6900,0.05,No,,Everyday
+LLH-00181,2026-08-04,LLH-C0129,T03,Tableware,Dinner Plate Set,Enugu,Marketplace,Completed,1,37900,21200,0,No,,Everyday
+LLH-01437,2026-08-04,LLH-C0376,A02,Aromas,Essential Oil Diffuser,Lagos,Referral,Completed,1,26600,14800,0.1,No,,Everyday
+LLH-00169,2026-08-05,LLH-C0394,T01,Tableware,Stoneware Mug Pair,Lagos,Website,Cancelled,1,16900,9200,0,No,,Everyday
+LLH-00810,2026-08-05,LLH-C0325,G01,Gift Sets,Celebration Gift Box,Lagos,Referral,Completed,1,31500,17900,0.05,Yes,4,Everyday
+LLH-00901,2026-08-05,LLH-C0262,L02,Lighting,Ambient Table Lamp,Rivers,Instagram,Completed,1,22500,12300,0.05,No,,Holiday
+LLH-01324,2026-08-05,LLH-C0127,D01,Decor,Woven Wall Basket,Rivers,Instagram,Returned,2,13700,7300,0,No,,Birthday
+LLH-00258,2026-08-06,LLH-C0163,G03,Gift Sets,Thank You Gift Set,Lagos,Walk-in,Completed,3,21400,11700,0.1,Yes,,Everyday
+LLH-00470,2026-08-07,LLH-C0483,L03,Lighting,Minimalist Desk Light,Ogun,WhatsApp,Cancelled,2,18800,10200,0.05,No,,Everyday
+LLH-01399,2026-08-07,LLH-C0356,B03,Textiles,Linen Table Runner,Oyo,Instagram,Completed,2,12200,6900,0.15,Yes,,Wedding
+LLH-01400,2026-08-07,LLH-C0417,L02,Lighting,Ambient Table Lamp,Lagos,Website,Completed,1,22500,12300,0.05,No,,Everyday
+LLH-01190,2026-08-08,LLH-C0349,G01,Gift Sets,Celebration Gift Box,Abuja,WhatsApp,Completed,1,31500,17900,0.05,Yes,5,Holiday
+LLH-00845,2026-08-09,LLH-C0356,L01,Lighting,Pendant Lantern,Enugu,WhatsApp,Returned,2,28500,15500,0.1,No,,Everyday
+LLH-00448,2026-08-10,LLH-C0032,L03,Lighting,Minimalist Desk Light,Ogun,WhatsApp,Completed,1,18800,10200,0.1,No,,Everyday
+LLH-00451,2026-08-10,LLH-C0085,L01,Lighting,Pendant Lantern,Abuja,Referral,Completed,1,28500,15500,0.05,No,,Birthday
+LLH-01336,2026-08-10,LLH-C0376,D01,Decor,Woven Wall Basket,Abuja,Instagram,Completed,1,13700,7300,0,No,5,Anniversary
+LLH-00487,2026-08-11,LLH-C0225,G01,Gift Sets,Celebration Gift Box,Rivers,Instagram,Completed,1,31500,17900,0.15,Yes,4,Everyday
+LLH-01282,2026-08-11,LLH-C0222,L01,Lighting,Pendant Lantern,Osun,Walk-in,Completed,1,28500,15500,0,No,3,Anniversary
+LLH-00638,2026-08-12,LLH-C0080,D01,Decor,Woven Wall Basket,Enugu,Referral,Completed,4,13700,7300,0,Yes,4,Housewarming
+LLH-01436,2026-08-12,LLH-C0225,D01,Decor,Woven Wall Basket,Ogun,Website,Completed,1,13700,7300,0.05,No,,Everyday
+LLH-00703,2026-08-13,LLH-C0075,B03,Textiles,Linen Table Runner,Oyo,Walk-in,Cancelled,1,12200,6900,0,No,,Anniversary
+LLH-00924,2026-08-13,LLH-C0114,B01,Textiles,Cotton Throw Blanket,Lagos,Instagram,Completed,1,24500,14000,0.1,No,,Everyday
+LLH-01052,2026-08-13,LLH-C0510,D01,Decor,Woven Wall Basket,Kwara,Instagram,Completed,1,13700,7300,0,No,5,Everyday
+LLH-01268,2026-08-13,LLH-C0375,B03,Textiles,Linen Table Runner,Lagos,Instagram,Completed,2,12200,6900,0.05,No,,Everyday
+LLH-00674,2026-08-14,LLH-C0251,B03,Textiles,Linen Table Runner,Rivers,Referral,Completed,1,12200,6900,0,No,,Holiday
+LLH-00875,2026-08-14,LLH-C0387,G01,Gift Sets,Celebration Gift Box,Lagos,WhatsApp,Completed,3,31500,17900,0.05,Yes,4,Everyday
+LLH-01162,2026-08-14,LLH-C0417,L03,Lighting,Minimalist Desk Light,Rivers,Instagram,Completed,2,18800,10200,0,No,5,Everyday
+LLH-01314,2026-08-14,LLH-C0414,G03,Gift Sets,Thank You Gift Set,Not Provided,Instagram,Returned,1,21400,11700,0.05,Yes,,Housewarming
+LLH-00193,2026-08-15,LLH-C0233,A02,Aromas,Essential Oil Diffuser,Lagos,Referral,Completed,1,26600,14800,0,Yes,,Anniversary
+LLH-00348,2026-08-15,LLH-C0051,D03,Decor,Handcrafted Wall Frame,Abuja,Instagram,Completed,1,17500,9600,0,Yes,,Anniversary
+LLH-01186,2026-08-15,LLH-C0447,B02,Textiles,Premium Cushion Set,Oyo,WhatsApp,Completed,1,19500,10500,0.1,No,,Everyday
+LLH-00660,2026-08-16,LLH-C0169,L01,Lighting,Pendant Lantern,Ogun,WhatsApp,Completed,2,28500,15500,0,No,5,Everyday
+LLH-00721,2026-08-16,LLH-C0259,A03,Aromas,Room Spray Duo,Oyo,Instagram,Completed,2,11300,5200,0,No,4,Birthday
+LLH-00723,2026-08-16,LLH-C0003,D03,Decor,Handcrafted Wall Frame,Rivers,Instagram,Returned,1,17500,9600,0,No,,Anniversary
+LLH-00313,2026-08-17,LLH-C0132,A02,Aromas,Essential Oil Diffuser,Abuja,Referral,Completed,3,26600,14800,0.05,No,5,Everyday
+LLH-00352,2026-08-17,LLH-C0291,L03,Lighting,Minimalist Desk Light,Enugu,WhatsApp,Completed,1,18800,10200,0,No,4,Everyday
+LLH-00433,2026-08-17,LLH-C0175,A03,Aromas,Room Spray Duo,Lagos,Website,Completed,2,11300,5200,0.05,Yes,4,Holiday
+LLH-00645,2026-08-17,LLH-C0503,G02,Gift Sets,Housewarming Bundle,Ogun,Instagram,Cancelled,3,44500,25100,0.1,Yes,,Everyday
+LLH-00885,2026-08-17,LLH-C0275,B03,Textiles,Linen Table Runner,Ogun,Instagram,Completed,2,12200,6900,0,No,,Everyday
+LLH-00911,2026-08-17,LLH-C0024,G03,Gift Sets,Thank You Gift Set,Oyo,Instagram,Completed,1,21400,11700,0.05,Yes,,Everyday
+LLH-00941,2026-08-17,LLH-C0019,B03,Textiles,Linen Table Runner,Lagos,Website,Completed,1,12200,6900,0,No,,Everyday
+LLH-01148,2026-08-17,LLH-C0167,A01,Aromas,Scented Candle Trio,Kwara,Instagram,Completed,2,14900,6900,0.05,Yes,,Anniversary
+LLH-00320,2026-08-18,LLH-C0502,B01,Textiles,Cotton Throw Blanket,Ogun,Website,Returned,2,24500,14000,0.05,No,,Everyday
+LLH-01073,2026-08-18,LLH-C0315,A01,Aromas,Scented Candle Trio,Ogun,WhatsApp,Completed,1,14900,6900,0.15,No,4,Anniversary
+LLH-01075,2026-08-18,LLH-C0039,A01,Aromas,Scented Candle Trio,Oyo,Website,Completed,2,14900,6900,0,Yes,,Holiday
+LLH-00088,2026-08-19,LLH-C0376,B03,Textiles,Linen Table Runner,Abuja,WhatsApp,Completed,1,12200,6900,0.05,No,3,Everyday
+LLH-00649,2026-08-19,LLH-C0296,G01,Gift Sets,Celebration Gift Box,Kwara,Referral,Completed,1,31500,17900,0.05,Yes,5,Everyday
+LLH-00777,2026-08-19,LLH-C0483,A01,Aromas,Scented Candle Trio,Lagos,Instagram,Completed,3,14900,6900,0,No,4,Everyday
+LLH-01381,2026-08-19,LLH-C0015,G01,Gift Sets,Celebration Gift Box,Abuja,WhatsApp,Completed,1,31500,17900,0.15,Yes,4,Everyday
+LLH-00143,2026-08-20,LLH-C0162,D03,Decor,Handcrafted Wall Frame,Lagos,WhatsApp,Completed,1,17500,9600,0.05,No,3,Everyday
+LLH-00450,2026-08-21,LLH-C0328,A02,Aromas,Essential Oil Diffuser,Lagos,Website,Completed,1,26600,14800,0.15,Yes,,Housewarming
+LLH-00599,2026-08-21,LLH-C0074,D02,Decor,Ceramic Flower Vase,Abuja,WhatsApp,Completed,1,15400,8400,0.05,No,3,Everyday
+LLH-00602,2026-08-21,LLH-C0483,A02,Aromas,Essential Oil Diffuser,Abuja,Instagram,Returned,3,26600,14800,0.1,No,,Everyday
+LLH-01434,2026-08-21,LLH-C0489,B01,Textiles,Cotton Throw Blanket,Ogun,Referral,Returned,2,24500,14000,0.1,No,,Everyday
+LLH-00204,2026-08-22,LLH-C0148,G03,Gift Sets,Thank You Gift Set,Abuja,Instagram,Completed,1,21400,11700,0,Yes,,Birthday
+LLH-00502,2026-08-22,LLH-C0201,D03,Decor,Handcrafted Wall Frame,Rivers,WhatsApp,Completed,2,17500,9600,0,No,5,Holiday
+LLH-00555,2026-08-22,LLH-C0354,G02,Gift Sets,Housewarming Bundle,Rivers,Website,Completed,1,44500,25100,0,Yes,5,Birthday
+LLH-00560,2026-08-22,LLH-C0035,G02,Gift Sets,Housewarming Bundle,Lagos,Referral,Cancelled,1,44500,25100,0.05,Yes,,Holiday
+LLH-00894,2026-08-22,LLH-C0319,A01,Aromas,Scented Candle Trio,Oyo,WhatsApp,Returned,1,14900,6900,0,No,,Everyday
+LLH-00135,2026-08-23,LLH-C0055,L02,Lighting,Ambient Table Lamp,Rivers,Referral,Cancelled,1,22500,12300,0.1,Yes,,Birthday
+LLH-00053,2026-08-24,LLH-C0254,B02,Textiles,Premium Cushion Set,Lagos,Referral,Completed,1,19500,10500,0,No,4,Everyday
+LLH-01135,2026-08-24,LLH-C0145,T02,Tableware,Serving Tray Set,Lagos,WhatsApp,Completed,1,24900,13300,0.1,Yes,5,Wedding
+LLH-01233,2026-08-24,LLH-C0270,A03,Aromas,Room Spray Duo,Ogun,Website,Cancelled,1,11300,5200,0.15,No,,Everyday
+LLH-01284,2026-08-24,LLH-C0482,D03,Decor,Handcrafted Wall Frame,Lagos,Referral,Completed,1,17500,9600,0,No,,Everyday
+LLH-00116,2026-08-25,LLH-C0447,A01,Aromas,Scented Candle Trio,Lagos,Marketplace,Completed,3,14900,6900,0,Yes,5,Anniversary
+LLH-01006,2026-08-25,LLH-C0275,L01,Lighting,Pendant Lantern,Kwara,Website,Completed,1,28500,15500,0,No,5,Everyday
+LLH-00131,2026-08-26,LLH-C0238,A03,Aromas,Room Spray Duo,Abuja,Instagram,Completed,1,11300,5200,0.05,No,4,Everyday
+LLH-01396,2026-08-26,LLH-C0175,T02,Tableware,Serving Tray Set,Lagos,Website,Completed,1,24900,13300,0.05,No,4,Everyday
+LLH-01430,2026-08-26,LLH-C0466,T02,Tableware,Serving Tray Set,Kwara,Marketplace,Completed,1,24900,13300,0,No,,Everyday
+LLH-00408,2026-08-27,LLH-C0251,G02,Gift Sets,Housewarming Bundle,Lagos,Website,Completed,1,44500,25100,0.05,Yes,4,Everyday
+LLH-00521,2026-08-27,LLH-C0447,A01,Aromas,Scented Candle Trio,Ogun,WhatsApp,Completed,2,14900,6900,0.15,No,3,Holiday
+LLH-00985,2026-08-27,LLH-C0500,G02,Gift Sets,Housewarming Bundle,Kwara,Instagram,Completed,2,44500,25100,0,Yes,,Birthday
+LLH-00089,2026-08-28,LLH-C0167,A02,Aromas,Essential Oil Diffuser,Lagos,Referral,Completed,1,26600,14800,0,No,,Everyday
+LLH-00343,2026-08-28,LLH-C0131,B01,Textiles,Cotton Throw Blanket,Kwara,Website,Completed,2,24500,14000,0.15,No,5,Anniversary
+LLH-00595,2026-08-28,LLH-C0377,T02,Tableware,Serving Tray Set,Osun,Website,Completed,1,24900,13300,0,No,5,Housewarming
+LLH-00791,2026-08-28,LLH-C0406,L01,Lighting,Pendant Lantern,Ogun,Website,Completed,1,28500,15500,0.05,No,,Anniversary
+LLH-01139,2026-08-28,LLH-C0274,L02,Lighting,Ambient Table Lamp,Oyo,Instagram,Completed,1,22500,12300,0,No,3,Birthday
+LLH-00826,2026-08-30,LLH-C0094,A03,Aromas,Room Spray Duo,Lagos,Referral,Completed,1,11300,5200,0,No,4,Everyday
+LLH-00867,2026-08-30,LLH-C0250,L01,Lighting,Pendant Lantern,Ogun,Referral,Cancelled,1,28500,15500,0.15,Yes,,Holiday
+LLH-01347,2026-08-30,LLH-C0404,T01,Tableware,Stoneware Mug Pair,Ogun,Website,Completed,2,16900,9200,0,No,3,Holiday
+LLH-00670,2026-08-31,LLH-C0201,L03,Lighting,Minimalist Desk Light,Abuja,Referral,Completed,1,18800,10200,0.05,Yes,,Birthday
+LLH-00945,2026-08-31,LLH-C0244,A03,Aromas,Room Spray Duo,Oyo,Website,Cancelled,2,11300,5200,0.1,No,,Everyday
+LLH-00966,2026-08-31,LLH-C0060,G01,Gift Sets,Celebration Gift Box,Enugu,Instagram,Cancelled,1,31500,17900,0.1,Yes,,Everyday
+LLH-00625,2026-09-01,LLH-C0415,G02,Gift Sets,Housewarming Bundle,Kwara,Marketplace,Completed,1,44500,25100,0,Yes,,Holiday
+LLH-01100,2026-09-01,LLH-C0394,B02,Textiles,Premium Cushion Set,Enugu,WhatsApp,Completed,3,19500,10500,0,No,5,Birthday
+LLH-00552,2026-09-02,LLH-C0352,L02,Lighting,Ambient Table Lamp,Abuja,Website,Completed,1,22500,12300,0,No,3,Everyday
+LLH-00078,2026-09-03,LLH-C0094,A02,Aromas,Essential Oil Diffuser,Lagos,Walk-in,Returned,1,26600,14800,0.1,No,,Everyday
+LLH-00553,2026-09-03,LLH-C0491,T02,Tableware,Serving Tray Set,Ogun,Website,Cancelled,1,24900,13300,0.05,Yes,,Housewarming
+LLH-01119,2026-09-03,LLH-C0386,B02,Textiles,Premium Cushion Set,Oyo,WhatsApp,Completed,1,19500,10500,0,No,5,Everyday
+LLH-00371,2026-09-04,LLH-C0079,A02,Aromas,Essential Oil Diffuser,Lagos,Instagram,Completed,1,26600,14800,0,No,,Everyday
+LLH-00413,2026-09-04,LLH-C0075,D02,Decor,Ceramic Flower Vase,Osun,Instagram,Completed,2,15400,8400,0.1,No,,Everyday
+LLH-00609,2026-09-04,LLH-C0329,G02,Gift Sets,Housewarming Bundle,Abuja,Referral,Completed,1,44500,25100,0.05,Yes,3,Everyday
+LLH-00657,2026-09-05,LLH-C0337,A03,Aromas,Room Spray Duo,Not Provided,WhatsApp,Completed,2,11300,5200,0.1,No,,Everyday
+LLH-00537,2026-09-06,LLH-C0337,G02,Gift Sets,Housewarming Bundle,Oyo,Instagram,Completed,3,44500,25100,0.05,Yes,,Anniversary
+LLH-00542,2026-09-06,LLH-C0103,L01,Lighting,Pendant Lantern,Oyo,WhatsApp,Cancelled,2,28500,15500,0.1,No,,Housewarming
+LLH-00923,2026-09-06,LLH-C0403,T01,Tableware,Stoneware Mug Pair,Osun,Marketplace,Completed,2,16900,9200,0.1,No,4,Everyday
+LLH-00220,2026-09-07,LLH-C0397,T01,Tableware,Stoneware Mug Pair,Ogun,Instagram,Completed,1,16900,9200,0,No,5,Everyday
+LLH-00488,2026-09-08,LLH-C0405,D02,Decor,Ceramic Flower Vase,Lagos,WhatsApp,Completed,1,15400,8400,0,No,5,Everyday
+LLH-01305,2026-09-08,LLH-C0314,D01,Decor,Woven Wall Basket,Osun,Website,Completed,1,13700,7300,0.1,Yes,,Birthday
+LLH-01432,2026-09-08,LLH-C0270,T02,Tableware,Serving Tray Set,Osun,Walk-in,Completed,2,24900,13300,0.1,No,3,Everyday
+LLH-00250,2026-09-09,LLH-C0184,A01,Aromas,Scented Candle Trio,Kwara,Website,Completed,1,14900,6900,0.05,No,,Wedding
+LLH-01321,2026-09-09,LLH-C0089,B03,Textiles,Linen Table Runner,Osun,Instagram,Completed,1,12200,6900,0.1,No,,Birthday
+LLH-00315,2026-09-10,LLH-C0111,L03,Lighting,Minimalist Desk Light,Lagos,Referral,Cancelled,1,18800,10200,0.05,No,,Everyday
+LLH-01293,2026-09-10,LLH-C0381,T01,Tableware,Stoneware Mug Pair,Oyo,WhatsApp,Completed,1,16900,9200,0.1,No,3,Everyday
+LLH-00031,2026-09-11,LLH-C0131,T01,Tableware,Stoneware Mug Pair,Enugu,Walk-in,Completed,2,16900,9200,0,No,5,Everyday
+LLH-00300,2026-09-11,LLH-C0440,L02,Lighting,Ambient Table Lamp,Lagos,Website,Completed,1,22500,12300,0.05,No,,Everyday
+LLH-00541,2026-09-11,LLH-C0347,L03,Lighting,Minimalist Desk Light,Abuja,WhatsApp,Returned,1,18800,10200,0.05,No,,Everyday
+LLH-00022,2026-09-12,LLH-C0028,T01,Tableware,Stoneware Mug Pair,Oyo,Instagram,Completed,1,16900,9200,0.05,No,,Anniversary
+LLH-01070,2026-09-12,LLH-C0194,B03,Textiles,Linen Table Runner,Lagos,Marketplace,Completed,4,12200,6900,0.05,No,4,Everyday
+LLH-01231,2026-09-12,LLH-C0129,D01,Decor,Woven Wall Basket,Ogun,Website,Cancelled,1,13700,7300,0,Yes,,Anniversary
+LLH-00077,2026-09-13,LLH-C0514,G03,Gift Sets,Thank You Gift Set,Rivers,Referral,Completed,1,21400,11700,0,Yes,,Birthday
+LLH-00092,2026-09-16,LLH-C0483,G01,Gift Sets,Celebration Gift Box,Ogun,Walk-in,Completed,2,31500,17900,0.15,Yes,5,Everyday
+LLH-01397,2026-09-16,LLH-C0414,L02,Lighting,Ambient Table Lamp,Abuja,Website,Completed,1,22500,12300,0,No,4,Housewarming
+LLH-00105,2026-09-17,LLH-C0152,D01,Decor,Woven Wall Basket,Oyo,Website,Completed,1,13700,7300,0,No,4,Everyday
+LLH-00859,2026-09-17,LLH-C0368,G02,Gift Sets,Housewarming Bundle,Ogun,Instagram,Completed,1,44500,25100,0.05,Yes,4,Everyday
+LLH-00621,2026-09-18,LLH-C0513,G03,Gift Sets,Thank You Gift Set,Rivers,Website,Completed,1,21400,11700,0.05,Yes,5,Everyday
+LLH-00293,2026-09-19,LLH-C0213,T01,Tableware,Stoneware Mug Pair,Lagos,Marketplace,Completed,1,16900,9200,0.15,Yes,4,Housewarming
+LLH-00308,2026-09-19,LLH-C0225,A03,Aromas,Room Spray Duo,Rivers,WhatsApp,Completed,1,11300,5200,0.1,No,3,Everyday
+LLH-00726,2026-09-19,LLH-C0483,B01,Textiles,Cotton Throw Blanket,Ogun,Instagram,Returned,1,24500,14000,0.05,Yes,,Housewarming
+LLH-01229,2026-09-19,LLH-C0077,L03,Lighting,Minimalist Desk Light,Abuja,Website,Completed,4,18800,10200,0,No,,Everyday
+LLH-01395,2026-09-19,LLH-C0157,A01,Aromas,Scented Candle Trio,Rivers,Instagram,Completed,3,14900,6900,0.1,No,5,Birthday
+LLH-00427,2026-09-20,LLH-C0380,G02,Gift Sets,Housewarming Bundle,Oyo,WhatsApp,Completed,3,44500,25100,0,Yes,4,Everyday
+LLH-01053,2026-09-20,LLH-C0483,B02,Textiles,Premium Cushion Set,Ogun,Referral,Completed,1,19500,10500,0.05,No,5,Everyday
+LLH-00085,2026-09-21,LLH-C0117,D03,Decor,Handcrafted Wall Frame,Abuja,Referral,Completed,1,17500,9600,0.1,No,,Everyday
+LLH-00515,2026-09-21,LLH-C0028,T02,Tableware,Serving Tray Set,Rivers,Instagram,Completed,1,24900,13300,0.15,No,,Everyday
+LLH-00582,2026-09-21,LLH-C0407,T03,Tableware,Dinner Plate Set,Abuja,Website,Completed,1,37900,21200,0.1,Yes,5,Wedding
+LLH-01204,2026-09-21,LLH-C0278,L02,Lighting,Ambient Table Lamp,Rivers,WhatsApp,Completed,1,22500,12300,0.05,Yes,5,Housewarming
+LLH-01106,2026-09-23,LLH-C0247,G03,Gift Sets,Thank You Gift Set,Oyo,WhatsApp,Completed,3,21400,11700,0.1,Yes,,Birthday
+LLH-01421,2026-09-23,LLH-C0331,D01,Decor,Woven Wall Basket,Abuja,Referral,Completed,1,13700,7300,0,Yes,3,Birthday
+LLH-00027,2026-09-24,LLH-C0200,D02,Decor,Ceramic Flower Vase,Ogun,Website,Completed,1,15400,8400,0.05,No,3,Wedding
+LLH-00581,2026-09-24,LLH-C0485,A02,Aromas,Essential Oil Diffuser,Lagos,WhatsApp,Completed,1,26600,14800,0.05,No,5,Everyday
+LLH-00849,2026-09-24,LLH-C0480,L02,Lighting,Ambient Table Lamp,Lagos,WhatsApp,Completed,1,22500,12300,0.1,No,,Housewarming
+LLH-00813,2026-09-25,LLH-C0358,B03,Textiles,Linen Table Runner,Lagos,Marketplace,Completed,1,12200,6900,0,No,,Everyday
+LLH-00005,2026-09-26,LLH-C0449,L02,Lighting,Ambient Table Lamp,Lagos,Instagram,Completed,2,22500,12300,0,No,3,Everyday
+LLH-00701,2026-09-26,LLH-C0476,G03,Gift Sets,Thank You Gift Set,Lagos,Website,Completed,2,21400,11700,0,Yes,5,Everyday
+LLH-01045,2026-09-26,LLH-C0098,A03,Aromas,Room Spray Duo,Lagos,WhatsApp,Completed,3,11300,5200,0,Yes,,Wedding
+LLH-01237,2026-09-26,LLH-C0515,A02,Aromas,Essential Oil Diffuser,Osun,Instagram,Completed,1,26600,14800,0.1,No,5,Housewarming
+LLH-01313,2026-09-26,LLH-C0353,B01,Textiles,Cotton Throw Blanket,Lagos,Not Provided,Cancelled,1,24500,14000,0,No,,Everyday
+LLH-01373,2026-09-26,LLH-C0406,D01,Decor,Woven Wall Basket,Rivers,Referral,Completed,1,13700,7300,0.05,No,,Everyday
+LLH-00011,2026-09-27,LLH-C0294,L01,Lighting,Pendant Lantern,Osun,WhatsApp,Completed,1,28500,15500,0.1,No,5,Everyday
+LLH-00387,2026-09-27,LLH-C0311,T01,Tableware,Stoneware Mug Pair,Rivers,Referral,Completed,1,16900,9200,0.05,No,4,Wedding
+LLH-00042,2026-09-28,LLH-C0313,B02,Textiles,Premium Cushion Set,Osun,Referral,Completed,1,19500,10500,0,No,4,Everyday
+LLH-00377,2026-09-28,LLH-C0094,G02,Gift Sets,Housewarming Bundle,Lagos,WhatsApp,Completed,1,44500,25100,0.1,Yes,4,Everyday
+LLH-00811,2026-09-28,LLH-C0124,B02,Textiles,Premium Cushion Set,Abuja,Instagram,Cancelled,1,19500,10500,0,No,,Birthday
+LLH-00999,2026-09-28,LLH-C0454,A01,Aromas,Scented Candle Trio,Lagos,Referral,Completed,2,14900,6900,0.15,Yes,3,Birthday
+LLH-01174,2026-09-28,LLH-C0341,D03,Decor,Handcrafted Wall Frame,Ogun,Walk-in,Completed,1,17500,9600,0.05,No,2,Housewarming
+LLH-00152,2026-09-29,LLH-C0026,T01,Tableware,Stoneware Mug Pair,Enugu,WhatsApp,Completed,1,16900,9200,0,Yes,,Anniversary
+LLH-00785,2026-09-29,LLH-C0043,D03,Decor,Handcrafted Wall Frame,Abuja,Website,Completed,1,17500,9600,0,No,4,Birthday
